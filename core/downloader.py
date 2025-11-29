@@ -1,12 +1,11 @@
 # core/downloader.py
 
 import requests
-from typing import List, Tuple
 from core.constants import DEFAULT_REQUEST_HEADERS, MSG_ERROR
 from core.logger import Logger
 
 
-def download_sources(url_list: List[str]) -> List[str]:
+def download_sources(url_list: list[str]) -> list[str]:
     """
     [下载器主入口]
 
@@ -42,7 +41,7 @@ def download_sources(url_list: List[str]) -> List[str]:
     return all_lines
 
 
-def _download_single_url(url: str) -> Tuple[List[str] | None, str | None]:
+def _download_single_url(url: str) -> tuple[list[str] | None, str | None]:
     """
     下载单个 URL。
     这里的错误信息也使用了 Logger 的变量。

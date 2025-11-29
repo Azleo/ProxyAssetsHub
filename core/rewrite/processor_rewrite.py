@@ -1,10 +1,9 @@
 # core/rewrite/processor_rewrite.py
 
-from typing import List, Dict, Tuple
 from core.rewrite.cleaner_rewrite import clean_rewrite_line
 
 
-def process_rewrites(cfg: Dict, raw_rules: List[str]) -> Tuple[List[str], Dict]:
+def process_rewrites(cfg: dict, raw_rules: list[str]) -> tuple[list[str], dict]:
     """
     [重写处理器]
     逻辑比规则处理器简单，只做基本的清洗。

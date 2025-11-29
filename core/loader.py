@@ -2,12 +2,11 @@
 
 import os
 import yaml
-from typing import List, Dict, Tuple
 from core.constants import MSG_ERROR, MSG_WARN, MSG_INFO, MSG_DEBUG
 from core.logger import Logger
 
 
-def _load_single_config(path: str) -> Dict | None:
+def _load_single_config(path: str) -> dict | None:
     """
     读取并解析单个 YAML 文件。
     """
@@ -39,7 +38,7 @@ def _load_single_config(path: str) -> Dict | None:
         return None
 
 
-def _preprocess_config(cfg: Dict) -> Dict | None:
+def _preprocess_config(cfg: dict) -> dict | None:
     """
     预处理配置，检查必填项。
     """
@@ -108,7 +107,7 @@ def _preprocess_config(cfg: Dict) -> Dict | None:
     return cfg
 
 
-def _build_formats_data(cfg: Dict) -> Dict:
+def _build_formats_data(cfg: dict) -> dict:
     """打包格式化参数"""
     formats_data = {}
     for fmt in cfg.get("formats", []):
@@ -122,7 +121,7 @@ def _build_formats_data(cfg: Dict) -> Dict:
     return cfg
 
 
-def load_all_configs(subdir: str = "rule") -> List[Dict]:
+def load_all_configs(subdir: str = "rule") -> list[dict]:
     """主加载函数"""
     configs_dir = os.path.join(os.getcwd(), "configs", subdir)
     prepared_configs = []

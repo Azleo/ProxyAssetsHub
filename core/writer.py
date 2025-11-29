@@ -3,7 +3,6 @@
 import os
 from datetime import datetime
 from collections import defaultdict
-from typing import List, Dict
 
 from core.constants import (
     PROJECT_AUTHOR,

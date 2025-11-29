@@ -12,7 +12,10 @@ COMMENT_SYMBOL = "#"
 # 必需常量：输出文件的默认扩展名，重写规则通常以 .conf 结尾
 FILE_EXTENSION = "conf"
 
-def format_rules(rules, policy_tag="Default", header_lines=None):
+
+def format_rules(
+    rules: list[str], policy_tag: str = "Default", header_lines: list[str] = None
+) -> list[str]:
     """
     占位
     """
@@ -25,5 +28,5 @@ def format_rules(rules, policy_tag="Default", header_lines=None):
 
     # 2. 添加规则内容
     formatted.extend(rules)
-    
+
     return formatted

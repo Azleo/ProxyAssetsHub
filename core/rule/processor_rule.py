@@ -1,6 +1,5 @@
 # core/rule/processor_rule.py
 
-from typing import List, Dict, Tuple
 from core.rule.cleaner_rule import clean_rule_line
 from core.constants import RULE_TYPE_PRIORITY, DEFAULT_PRIORITY
 
@@ -18,7 +17,7 @@ def get_sort_key(line):
     return (priority, line)
 
 
-def process_rules(cfg: Dict, raw_rules: List[str]) -> Tuple[List[str], Dict]:
+def process_rules(cfg: dict, raw_rules: list[str]) -> tuple[list[str], dict]:
     """
     [规则处理器]
     负责规则的 清洗 -> 去重 -> 过滤 -> 排序。

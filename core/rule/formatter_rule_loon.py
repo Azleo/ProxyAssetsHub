@@ -14,8 +14,8 @@ FILE_EXTENSION = "list"
 
 
 def format_rules(
-    rules: List[str], policy_tag: str = "Default", header_lines: List[str] = None
-) -> List[str]:
+    rules: list[str], policy_tag: str = "Default", header_lines: list[str] = None
+) -> list[str]:
     """
     将标准格式的规则列表转换为 Loon 格式的规则列表。
 
