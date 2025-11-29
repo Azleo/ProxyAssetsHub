@@ -15,9 +15,9 @@ on:
   workflow_dispatch:
 
   # 当代码推送到 main 分支时触发（可选，如果不想每次代码更新都运行，可以删除）
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
 
 # 允许GitHub Actions写入
 permissions:
@@ -33,7 +33,8 @@ jobs:
   build:
     # 指定作业运行的虚拟机环境
     runs-on: ubuntu-latest
-
+    env:
+      TZ: Asia/Shanghai
     # 定义作业中的步骤
     steps:
       # 步骤1: 检出仓库代码

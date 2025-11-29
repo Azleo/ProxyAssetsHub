@@ -66,7 +66,7 @@ def write_output(
             f.write(f"{comment_symbol} NAME: {cfg.get('name', 'Unknown')}\n")
             f.write(f"{comment_symbol} AUTHOR: {PROJECT_AUTHOR}\n")
             f.write(f"{comment_symbol} REPO: {PROJECT_REPO}\n")
-            f.write(f"{comment_symbol} UPDATED: {updated}\n")
+            f.write(f"{comment_symbol} UPDATED:UTC+8  {updated}\n")
 
             sorted_types = sorted(
                 count.keys(), key=lambda k: RULE_TYPE_PRIORITY.get(k, DEFAULT_PRIORITY)
