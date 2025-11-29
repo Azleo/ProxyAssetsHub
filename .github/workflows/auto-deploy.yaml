@@ -15,9 +15,9 @@ on:
   workflow_dispatch:
 
   # 当代码推送到 main 分支时触发（可选，如果不想每次代码更新都运行，可以删除）
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+      - main
 
 # 允许GitHub Actions写入
 permissions:
