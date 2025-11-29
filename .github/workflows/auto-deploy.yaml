@@ -62,6 +62,7 @@ jobs:
       - name: Run ProxyAssetsHub
         run: 
           git pull origin main
+          
           python main.py --ci
 
       # 步骤5: 配置 Git 用户信息并提交更改
