@@ -1,0 +1,91 @@
+#################### Custom.gitignore ####################
+
+
+#################### Git.gitignore ####################
+
+# add your custom gitignore here:
+!.gitignore
+!.gitsubmodules
+!.github/
+
+#################### Windows.gitignore ####################
+
+# Windows thumbnail cache files
+Thumbs.db*
+ehthumbs*.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+#################### macOS.gitignore ####################
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+__MACOSX
+
+#################### Linux.gitignore ####################
+
+.Trash-*
+*~
+.nfs*
+
+#################### Editor.gitignore ####################
+
+.vscode/
+
+#################### Backup.gitignore ####################
+
+# Backup and temporary files
+*.bak
+*.gho
+*.ori
+*.orig
+*.tmp
+*.log
+
+# Temporary directory
+tmp/
+temp/
+.cache/
+
+#################### Python.gitignore ####################
+__pycache__/
+*.pyc

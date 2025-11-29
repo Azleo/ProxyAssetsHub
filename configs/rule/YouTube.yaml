@@ -1,0 +1,82 @@
+# ----------------------------------------------------------------------
+# 数据合集配置文件 (YAML 格式)
+# 描述: 用于定义一个合集任务的名称、来源、处理和输出格式。
+# ----------------------------------------------------------------------
+
+# 集名称：一个可读的名称，将用于日志输出和最终文件头部的注释。
+# 建议修改
+name: 'YouTube规则集'
+
+# -------------------- 【项目控制】 --------------------
+# enabled: 控制此配置任务是否启用。
+# true: 启用此数据合集的处理和生成。
+# false: 跳过此数据合集的处理。
+enabled: true
+
+# output_filename: 配置输出文件的文件名，不需要填写扩展名。
+# 注意：该字段的值将作为 QuantumultX 等分流规则的策略名/标签。
+output_filename: 'YouTube'
+
+# formats: 目标输出格式列表，程序将同时生成对应格式的最终文件。
+# 可以选择多个格式。
+formats:
+  - 'quantumultx'
+  - 'loon'
+  # - 'shadowrocket'
+  # - 'surge'
+
+# -------------------- 【上游来源】 --------------------
+# sources: 包含原始数据的 URL 列表。
+sources:
+  - 'https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list'
+  - 'https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Optional/YouTube.list'
+  - 'https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/YouTube.list'
+  - 'https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/YouTube.yaml'
+
+# -------------------- 【过滤与定制】 --------------------
+# filters: 包含所有用于定制数据合集的自定义配置。
+# 处理顺序为由上到下依次匹配（先去重，后过滤关键词）。
+# 如果不需要任何过滤，请保持列表为空，即 []。
+# 所有配置项不区分大小写
+
+filters:
+  # ignored_rules: 移除指定项（黑名单 - 精确匹配）。
+  # 精确填写需从最终结果中移除的完整、清洗后的整行数据。
+  ignored_rules: []
+    # - 'DOMAIN,example.com'
+    # - 'IP-CIDR,1.2.3.4/32'
+
+  # exclude_keywords: 移除包含指定关键词的数据（黑名单 - 模糊匹配）。
+  # 任何包含关键词的整行数据都将被过滤。
+  exclude_keywords: []
+    # - 'ad'
+    # - 'tracker'
+
+  # include_keywords: 仅保留包含指定关键词的数据（白名单）。
+  # 如果此列表非空，只有包含列表中任一关键词的数据才会被保留。
+  # （注意：如果同时设置了 exclude_keywords，先执行 exclude 过滤，后执行 include 过滤。）
+  include_keywords: []
+    # - 'example'
+    # - 'demo'
+
+  # extra_rules: 手动追加最终数据。
+  # 此配置项会被追加到最终输出文件正文的开头。
+  extra_rules: []
+    # - 'DOMAIN-SUFFIX,example.com'
+    # - 'IP-CIDR,1.2.3.4/32,no-resolve'
+
+# -------------------- 【自定义头部信息】 --------------------
+# custom_headers: 定义针对不同输出格式的自定义头部注释。
+# 这些头部信息将追加在全局默认的头部信息（如作者、更新时间）之后，合集数据正文之前。
+# 必须在顶部的 'formats:' 字段中启用了相应格式，此处的自定义内容才会生效。
+# 每一行为一条独立头部信息。
+custom_headers:
+  quantumultx:
+    header_lines: []
+      # - 'info1'
+      # - 'info2'
+
+  loon:
+    header_lines: []
+      # - 'info3'
+      # - 'info4'

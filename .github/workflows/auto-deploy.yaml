@@ -1,0 +1,90 @@
+# .github/workflows/auto-deploy.yml
+
+# 工作流名称，将显示在 GitHub Actions 界面上
+name: Auto Deploy ProxyAssetsHub Rules
+
+# 定义工作流的触发事件
+on:
+  # 定时触发：使用 cron 表达式定义运行时间
+  # 例如：'0 0 * * *' 表示每天 UTC 时间午夜 00:00 运行
+  # 注意：cron 表达式使用的是 UTC 时间
+  schedule:
+    - cron: '0 0 * * *' # 每天 UTC 时间凌晨 0点运行
+
+  # 手动触发：允许在 GitHub Actions 界面手动点击“Run workflow”按钮来运行
+  workflow_dispatch:
+
+  # 当代码推送到 main 分支时触发（可选，如果不想每次代码更新都运行，可以删除）
+  push:
+    branches:
+      - main
+
+# 允许GitHub Actions写入
+permissions:
+  contents: write
+
+# 防止并发冲突
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+# 定义一个名为 'build' 的作业
+jobs:
+  build:
+    # 指定作业运行的虚拟机环境
+    runs-on: ubuntu-latest
+
+    # 定义作业中的步骤
+    steps:
+      # 步骤1: 检出仓库代码
+      # 使用 actions/checkout@v4 动作将您的代码克隆到虚拟机中
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 步骤2: 设置 Python 环境
+      # 使用 actions/setup-python@v5 动作安装指定版本的 Python
+      # 这里选择 Python 3.14，您可以根据项目需求调整
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.14' # 指定 Python 版本
+
+      # 步骤3: 安装项目依赖
+      # 如果您的项目有 requirements.txt 文件，此步骤将安装所有依赖
+      # 请确保在项目根目录有 requirements.txt 文件，并包含所有必需库 (requests, pyyaml等)
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      # 步骤4: 运行 ProxyAssetsHub 程序
+      # 使用 --ci 参数，为持续集成环境优化日志输出
+      - name: Run ProxyAssetsHub
+        run: python main.py --ci
+
+      # 步骤5: 配置 Git 用户信息并提交更改
+      # 这是一系列 Git 命令，用于将生成的文件提交回仓库
+      - name: Commit and Push Changes
+        # 'if' 条件确保只有当 Git 检测到有文件更改时才执行提交操作
+        # 这可以避免不必要的空提交，保持 Git 历史的整洁
+        if: ${{ success() }} # 确保前面的步骤成功并且没有被取消
+        run: |
+          # 配置 Git 用户名和邮箱，这些信息将显示在提交记录中
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 暂存所有更改的文件 (包括新建、修改的文件)
+          git add rule/ rewrite/ # 根据您的说明，文件在根目录的 rule/ 和 rewrite/
+
+          # 检查是否有实际的更改需要提交
+          # 如果没有更改，git diff-index --quiet 会成功（退出码0），! git diff-index --quiet 为 false，跳过提交
+          # 如果有更改，git diff-index --quiet 会失败（退出码1），! git diff-index --quiet 为 true，继续提交
+          if ! git diff-index --quiet HEAD; then
+            # 获取当前的日期和时间，作为 commit message
+            COMMIT_TIME=$(date +"%Y-%m-%d %H:%M:%S")
+            git commit -m "UTC+8 $COMMIT_TIME"
+            # 将更改推送到当前分支
+            # GITHUB_TOKEN 是 GitHub Actions 提供的默认令牌，通常具有足够的权限
+            git pull --rebase origin main
+            git push
+          else
+            echo "No changes to commit. Skipping commit and push."
+          fi
