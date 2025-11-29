@@ -60,7 +60,9 @@ jobs:
       # 步骤4: 运行 ProxyAssetsHub 程序
       # 使用 --ci 参数，为持续集成环境优化日志输出
       - name: Run ProxyAssetsHub
-        run: python main.py --ci
+        run: 
+          git pull origin main
+          python main.py --ci
 
       # 步骤5: 配置 Git 用户信息并提交更改
       # 这是一系列 Git 命令，用于将生成的文件提交回仓库
