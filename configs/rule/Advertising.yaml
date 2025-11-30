@@ -5,17 +5,17 @@
 
 # 集名称：一个可读的名称，将用于日志输出和最终文件头部的注释。
 # 建议修改
-name: 'Example规则集'
+name: 'Advertising规则集'
 
 # -------------------- 【项目控制】 --------------------
 # enabled: 控制此配置任务是否启用。
 # true: 启用此数据合集的处理和生成。
 # false: 跳过此数据合集的处理。
-enabled: true
+enabled: false
 
 # output_filename: 配置输出文件的文件名，不需要填写扩展名。
 # 注意：该字段的值将作为 QuantumultX 等分流规则的策略名/标签。
-output_filename: 'Example'
+output_filename: 'Advertising'
 
 # formats: 目标输出格式列表，程序将同时生成对应格式的最终文件。
 # 可以选择多个格式。
@@ -28,8 +28,7 @@ formats:
 # -------------------- 【上游来源】 --------------------
 # sources: 包含原始数据的 URL 列表。
 sources:
-  - 'https://raw.githubusercontent.com/upstream-a/rules.txt'
-  - 'https://raw.githubusercontent.com/upstream-b/rules-extra.txt'
+  - 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Advertising/Advertising.list'
 
 # -------------------- 【过滤与定制】 --------------------
 # filters: 包含所有用于定制数据合集的自定义配置。
@@ -70,9 +69,8 @@ filters:
 # 每一行为一条独立头部信息。
 custom_headers:
   quantumultx:
-    header_lines: []
-      # - 'info1'
-      # - 'info2'
+    header_lines:
+      - '已包含子规则：AdvertisingLite、Hijacking、Privacy'
 
   loon:
     header_lines: []
