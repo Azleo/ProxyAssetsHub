@@ -171,6 +171,8 @@ class Manager:
         if not content:
             return False
 
+        sub_path = cfg.get("__sub_path__", "")
+
         success = write_output(
             project_root=self.project_root,
             category=category,
@@ -179,6 +181,7 @@ class Manager:
             rules=content,
             comment_symbol=comment_sym,
             file_extension=file_ext,
+            sub_path=sub_path,
         )
 
         return success

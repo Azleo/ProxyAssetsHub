@@ -23,6 +23,7 @@ def write_output(
     rules,
     comment_symbol="#",
     file_extension="list",
+    sub_path="",
 ) -> bool:
     """
     [文件写入器]
@@ -30,7 +31,7 @@ def write_output(
     负责创建目录并写入文件。
     所有的日志输出（成功/失败）均使用 Logger 的变量。
     """
-    output_dir = os.path.join(project_root, category, subdir_name)
+    output_dir = os.path.join(project_root, category, subdir_name, sub_path)
 
     if not os.path.exists(output_dir):
         try:

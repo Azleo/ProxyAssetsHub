@@ -131,18 +131,28 @@ def load_all_configs(subdir: str = "rule") -> list[dict]:
         Logger.debug(f"Dir not found: {configs_dir}", tag="LOADER")
         return prepared_configs
 
-    for file in os.listdir(configs_dir):
-        if file.endswith((".yaml", ".yml")):
-            path = os.path.join(configs_dir, file)
+    for root, dirs, files in os.walk(configs_dir):
+        for file in files:
+            if file.endswith((".yaml", ".yml")):
+                path = os.path.join(root, file)
 
-            cfg = _load_single_config(path)
-            if not cfg:
-                continue
+                rel_dir = os.path.relpath(root, configs_dir)
+                if rel_dir == ".":
+                    sub_path = ""
+                else:
+                    sub_path = rel_dir
 
-            cfg["__filename__"] = file
-            cfg = _preprocess_config(cfg)
-            if cfg:
-                cfg = _build_formats_data(cfg)
-                prepared_configs.append(cfg)
+                cfg = _load_single_config(path)
+                if not cfg:
+                    continue
+
+                cfg["__filename__"] = file
+
+                cfg["__sub_path__"] = sub_path
+
+                cfg = _preprocess_config(cfg)
+                if cfg:
+                    cfg = _build_formats_data(cfg)
+                    prepared_configs.append(cfg)
 
     return prepared_configs
