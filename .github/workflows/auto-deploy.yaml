@@ -63,7 +63,7 @@ jobs:
         run: |
           git pull origin main
           
-          python main.py --ci
+          python main.py --debug
 
       # 步骤5: 配置 Git 用户信息并提交更改
       # 这是一系列 Git 命令，用于将生成的文件提交回仓库
