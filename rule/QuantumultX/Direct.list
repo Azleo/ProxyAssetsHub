@@ -1,0 +1,68 @@
+# NAME: Direct规则集
+# AUTHOR: Azleo
+# REPO: https://github.com/Azleo/ProxyAssetsHub
+# UPDATED: UTC+8 2025-11-30 18:18:10
+# HOST: 31
+# HOST-SUFFIX: 30
+# TOTAL: 61
+HOST,alt1-mtalk.google.com,Direct
+HOST,alt2-mtalk.google.com,Direct
+HOST,alt3-mtalk.google.com,Direct
+HOST,alt4-mtalk.google.com,Direct
+HOST,alt5-mtalk.google.com,Direct
+HOST,alt6-mtalk.google.com,Direct
+HOST,alt7-mtalk.google.com,Direct
+HOST,alt8-mtalk.google.com,Direct
+HOST,analytics.strava.com,Direct
+HOST,app.adjust.com,Direct
+HOST,app.appsflyer.com,Direct
+HOST,bdtj.tagtic.cn,Direct
+HOST,ci.android.com,Direct
+HOST,clientservices.googleapis.com,Direct
+HOST,dl.google.com,Direct
+HOST,dl.l.google.com,Direct
+HOST,errlog.umeng.com,Direct
+HOST,fairplay.l.qq.com,Direct
+HOST,livew.l.qq.com,Direct
+HOST,log.mmstat.com,Direct
+HOST,msg.umeng.com,Direct
+HOST,msg.umengcloud.com,Direct
+HOST,mtalk.google.com,Direct
+HOST,origin-a.akamaihd.net,Direct
+HOST,redirector.gvt1.com,Direct
+HOST,rewards.hypixel.net,Direct
+HOST,sycm.mmstat.com,Direct
+HOST,tracking.miui.com,Direct
+HOST,update.googleapis.com,Direct
+HOST,vd.l.qq.com,Direct
+HOST,vi.l.qq.com,Direct
+HOST-SUFFIX,baomitu.com,Direct
+HOST-SUFFIX,bilivideo.cn,Direct
+HOST-SUFFIX,bilivideo.com,Direct
+HOST-SUFFIX,blog.google,Direct
+HOST-SUFFIX,bootcss.com,Direct
+HOST-SUFFIX,diskstation.me,Direct
+HOST-SUFFIX,dizhensubao.getui.com,Direct
+HOST-SUFFIX,dscloud.biz,Direct
+HOST-SUFFIX,dscloud.me,Direct
+HOST-SUFFIX,dscloud.mobi,Direct
+HOST-SUFFIX,dsmynas.com,Direct
+HOST-SUFFIX,dsmynas.net,Direct
+HOST-SUFFIX,dsmynas.org,Direct
+HOST-SUFFIX,familyds.com,Direct
+HOST-SUFFIX,familyds.net,Direct
+HOST-SUFFIX,familyds.org,Direct
+HOST-SUFFIX,googletraveladservices-cn.com,Direct
+HOST-SUFFIX,googletraveladservices.com,Direct
+HOST-SUFFIX,i234.me,Direct
+HOST-SUFFIX,jiasule.com,Direct
+HOST-SUFFIX,koodomobile.ca,Direct
+HOST-SUFFIX,koodomobile.com,Direct
+HOST-SUFFIX,myds.me,Direct
+HOST-SUFFIX,ol.epicgames.com,Direct
+HOST-SUFFIX,staticfile.org,Direct
+HOST-SUFFIX,stats.qiumibao.com,Direct
+HOST-SUFFIX,synology.me,Direct
+HOST-SUFFIX,tracking-protection.cdn.mozilla.net,Direct
+HOST-SUFFIX,umiwi.com,Direct
+HOST-SUFFIX,upaiyun.com,Direct
