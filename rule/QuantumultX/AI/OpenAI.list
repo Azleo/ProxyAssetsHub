@@ -1,13 +1,13 @@
 # NAME: OpenAI规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2025-11-30 22:27:47
+# UPDATED: UTC+8 2025-11-30 22:57:09
 # HOST: 11
-# HOST-SUFFIX: 28
+# HOST-SUFFIX: 43
 # HOST-KEYWORD: 3
 # IP-CIDR: 2
 # IP-ASN: 1
-# TOTAL: 45
+# TOTAL: 60
 HOST,api-iam.intercom.io,OpenAI
 HOST,api.statsig.com,OpenAI
 HOST,browser-intake-datadoghq.com,OpenAI
@@ -19,10 +19,21 @@ HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,OpenAI
 HOST,openaicomproductionae4b.blob.core.windows.net,OpenAI
 HOST,production-openaicom-storage.azureedge.net,OpenAI
 HOST,static.cloudflareinsights.com,OpenAI
+HOST-SUFFIX,+.chat.com,OpenAI
+HOST-SUFFIX,+.chatgpt.com,OpenAI
+HOST-SUFFIX,+.chatgpt.livekit.cloud,OpenAI
+HOST-SUFFIX,+.host.livekit.cloud,OpenAI
+HOST-SUFFIX,+.oaistatic.com,OpenAI
+HOST-SUFFIX,+.oaiusercontent.com,OpenAI
+HOST-SUFFIX,+.openai.com,OpenAI
+HOST-SUFFIX,+.openai.com.cdn.cloudflare.net,OpenAI
+HOST-SUFFIX,+.sora.com,OpenAI
+HOST-SUFFIX,+.turn.livekit.cloud,OpenAI
 HOST-SUFFIX,ai.com,OpenAI
 HOST-SUFFIX,algolia.net,OpenAI
 HOST-SUFFIX,api.statsig.com,OpenAI
 HOST-SUFFIX,auth0.com,OpenAI
+HOST-SUFFIX,browser-intake-datadoghq.com,OpenAI
 HOST-SUFFIX,challenges.cloudflare.com,OpenAI
 HOST-SUFFIX,chat.com,OpenAI
 HOST-SUFFIX,chatgpt.com,OpenAI
@@ -36,12 +47,16 @@ HOST-SUFFIX,intercom.io,OpenAI
 HOST-SUFFIX,intercomcdn.com,OpenAI
 HOST-SUFFIX,launchdarkly.com,OpenAI
 HOST-SUFFIX,livekit.cloud,OpenAI
+HOST-SUFFIX,o33249.ingest.sentry.io,OpenAI
 HOST-SUFFIX,oaistatic.com,OpenAI
 HOST-SUFFIX,oaiusercontent.com,OpenAI
 HOST-SUFFIX,observeit.net,OpenAI
 HOST-SUFFIX,openai.com,OpenAI
 HOST-SUFFIX,openaiapi-site.azureedge.net,OpenAI
+HOST-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,OpenAI
 HOST-SUFFIX,openaicom.imgix.net,OpenAI
+HOST-SUFFIX,openaicomproductionae4b.blob.core.windows.net,OpenAI
+HOST-SUFFIX,production-openaicom-storage.azureedge.net,OpenAI
 HOST-SUFFIX,segment.io,OpenAI
 HOST-SUFFIX,sentry.io,OpenAI
 HOST-SUFFIX,sora.com,OpenAI
