@@ -6,7 +6,6 @@
 # add your custom gitignore here:
 !.gitignore
 !.gitsubmodules
-!.github/
 
 #################### Windows.gitignore ####################
 
