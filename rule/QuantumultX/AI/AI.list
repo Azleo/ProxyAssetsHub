@@ -1,0 +1,71 @@
+# NAME: AI规则集
+# AUTHOR: Azleo
+# REPO: https://github.com/Azleo/ProxyAssetsHub
+# UPDATED: UTC+8 2025-11-30 21:06:06
+# HOST: 22
+# HOST-SUFFIX: 36
+# HOST-KEYWORD: 4
+# TOTAL: 62
+# 主流AI合集
+HOST,ai.google.dev,AI
+HOST,aistudio.google.com,AI
+HOST,alkalicore-pa.clients6.google.com,AI
+HOST,alkalimakersuite-pa.clients6.google.com,AI
+HOST,api-iam.intercom.io,AI
+HOST,api.statsig.com,AI
+HOST,apple-relay.apple.com,AI
+HOST,apple-relay.cloudflare.com,AI
+HOST,apple-relay.fastly-edge.com,AI
+HOST,bard.google.com,AI
+HOST,copilot.microsoft.com,AI
+HOST,cp4.cloudflare.com,AI
+HOST,gateway.ai.cloudflare.com,AI
+HOST,gemini.google.com,AI
+HOST,gspe1-ssl.ls.apple.com,AI
+HOST,guzzoni.apple.com,AI
+HOST,imagine.meta.com,AI
+HOST,o33249.ingest.sentry.io,AI
+HOST,openaiapi-site.azureedge.net,AI
+HOST,pplx-res.cloudinary.com,AI
+HOST,sydney.bing.com,AI
+HOST,www.bing.com,AI
+HOST-SUFFIX,anthropic.com,AI
+HOST-SUFFIX,apps.mzstatic.com,AI
+HOST-SUFFIX,byteoversea.com,AI
+HOST-SUFFIX,chat.com,AI
+HOST-SUFFIX,chatgpt.com,AI
+HOST-SUFFIX,cici.com,AI
+HOST-SUFFIX,ciciai.com,AI
+HOST-SUFFIX,claude.ai,AI
+HOST-SUFFIX,claude.com,AI
+HOST-SUFFIX,cursor-cdn.com,AI
+HOST-SUFFIX,cursor.com,AI
+HOST-SUFFIX,cursor.sh,AI
+HOST-SUFFIX,cursorapi.com,AI
+HOST-SUFFIX,deepmind.com,AI
+HOST-SUFFIX,deepmind.google,AI
+HOST-SUFFIX,dola.com,AI
+HOST-SUFFIX,gateway.icloud.com,AI
+HOST-SUFFIX,geller-pa.googleapis.com,AI
+HOST-SUFFIX,generativeai.google,AI
+HOST-SUFFIX,generativelanguage.googleapis.com,AI
+HOST-SUFFIX,githubcopilot.com,AI
+HOST-SUFFIX,grazie.ai,AI
+HOST-SUFFIX,grok.com,AI
+HOST-SUFFIX,groq.com,AI
+HOST-SUFFIX,livekit.cloud,AI
+HOST-SUFFIX,makersuite.google.com,AI
+HOST-SUFFIX,meta.ai,AI
+HOST-SUFFIX,oaistatic.com,AI
+HOST-SUFFIX,oaiusercontent.com,AI
+HOST-SUFFIX,openai.com,AI
+HOST-SUFFIX,perplexity.ai,AI
+HOST-SUFFIX,pplx.ai,AI
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,AI
+HOST-SUFFIX,smoot.apple.com,AI
+HOST-SUFFIX,sora.com,AI
+HOST-SUFFIX,x.ai,AI
+HOST-KEYWORD,labs.google,AI
+HOST-KEYWORD,notebooklm.google,AI
+HOST-KEYWORD,openaiapi,AI
+HOST-KEYWORD,openaicom,AI
