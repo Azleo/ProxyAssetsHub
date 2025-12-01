@@ -41,7 +41,6 @@ sources:
   - 'https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/openai.list'
   - 'https://raw.githubusercontent.com/ConnersHua/RuleGo/refs/heads/master/Surge/Ruleset/Extra/GenAI/OpenAI.list'
 
-
 # -------------------- 【过滤与定制】 --------------------
 # filters: 包含所有用于定制数据合集的自定义配置。
 # 处理顺序为由上到下依次匹配（先去重，后过滤关键词）。
@@ -82,7 +81,7 @@ filters:
 custom_headers:
   quantumultx:
     header_lines:
-      - '主流AI合集'
+      - 'AI合集：Claude、Copilot、Gemini、OpenAI'
       # - 'info2'
 
   loon:
