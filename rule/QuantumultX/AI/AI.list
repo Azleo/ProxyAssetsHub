@@ -1,13 +1,13 @@
 # NAME: AI规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2025-12-19 05:18:08
+# UPDATED: UTC+8 2025-12-20 05:19:05
 # HOST: 31
-# HOST-SUFFIX: 98
+# HOST-SUFFIX: 100
 # HOST-KEYWORD: 8
 # IP-CIDR: 2
 # IP-ASN: 1
-# TOTAL: 140
+# TOTAL: 142
 # AI合集：Claude、Copilot、GoogleAI、OpenAI
 HOST,ai.google.dev,AI
 HOST,aistudio.google.com,AI
@@ -63,6 +63,8 @@ HOST-SUFFIX,+.notebooklm.google,AI
 HOST-SUFFIX,+.notebooklm.google.com,AI
 HOST-SUFFIX,+.oaistatic.com,AI
 HOST-SUFFIX,+.oaiusercontent.com,AI
+HOST-SUFFIX,+.opal.google,AI
+HOST-SUFFIX,+.opal.google.com,AI
 HOST-SUFFIX,+.openai.com,AI
 HOST-SUFFIX,+.openai.com.cdn.cloudflare.net,AI
 HOST-SUFFIX,+.proactivebackend-pa.googleapis.com,AI
