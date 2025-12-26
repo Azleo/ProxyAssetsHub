@@ -36,6 +36,7 @@ sources:
   - 'https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Direct+.list'
   - 'https://raw.githubusercontent.com/w37fhy/QuantumultX/master/Rules/Unbreak.list'
   - 'https://raw.githubusercontent.com/ConnersHua/RuleGo/refs/heads/master/Surge/Ruleset/Direct%2B.list'
+  - 'https://raw.githubusercontent.com/Aethersailor/Custom_OpenClash_Rules/refs/heads/main/rule/Custom_Direct.list'
 
 # -------------------- 【过滤与定制】 --------------------
 # filters: 包含所有用于定制数据合集的自定义配置。

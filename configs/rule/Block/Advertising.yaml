@@ -11,7 +11,7 @@ name: 'Advertising规则集'
 # enabled: 控制此配置任务是否启用。
 # true: 启用此数据合集的处理和生成。
 # false: 跳过此数据合集的处理。
-enabled: false
+enabled: true
 
 # output_filename: 配置输出文件的文件名，不需要填写扩展名。
 # 注意：该字段的值将作为 QuantumultX 等分流规则的策略名/标签。
@@ -21,7 +21,7 @@ output_filename: 'Advertising'
 # 可以选择多个格式。
 formats:
   - 'quantumultx'
-  # - 'clash'
+  - 'clash'
   # - 'loon'
   # - 'shadowrocket'
   # - 'surge'

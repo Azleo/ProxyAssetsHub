@@ -21,7 +21,7 @@ output_filename: 'GoogleAI'
 # 可以选择多个格式。
 formats:
   - 'quantumultx'
-  # - 'clash'
+  - 'clash'
   # - 'loon'
   # - 'shadowrocket'
   # - 'surge'
