@@ -1,51 +1,63 @@
 # core/rule/formatter_rule_clash.py
 
-# ----------------------------------------------------------------------
-# 模块元数据常量
-# ----------------------------------------------------------------------
+DIR_NAME = "Clash"
+COMMENT_SYMBOL = "#"
+FILE_EXTENSION = "yaml"
 
-DIR_NAME = "Clash"       # 输出目录名称
-COMMENT_SYMBOL = "#"     # YAML 注释符号
-FILE_EXTENSION = "yaml"  # Clash 规则集文件扩展名
+# 定义三个桶的类型归属
+TYPE_BUCKETS = {
+    "DOMAIN": ["DOMAIN", "DOMAIN-SUFFIX", "DOMAIN-KEYWORD", "DOMAIN-WILDCARD"],
+    "IP": ["IP-CIDR", "IP-CIDR6", "GEOIP", "SRC-IP-CIDR"],
+    # 其他未列出的类型（如 PROCESS-NAME）会自动落入 Classical
+}
 
-# ----------------------------------------------------------------------
-# 规则类型映射表
-# ----------------------------------------------------------------------
+# 映射到 Clash 的具体关键词
 CLASH_MAPPING = {
-    # 域名类
     "DOMAIN": "DOMAIN",
     "DOMAIN-SUFFIX": "DOMAIN-SUFFIX",
     "DOMAIN-KEYWORD": "DOMAIN-KEYWORD",
-    # 兼容性处理：通配符在 Meta 内核可用，这里映射为后缀或保留
-    "DOMAIN-WILDCARD": "DOMAIN-SUFFIX", 
-
-    # IP 类
+    "DOMAIN-WILDCARD": "DOMAIN-SUFFIX", # 兼容处理
     "IP-CIDR": "IP-CIDR",
     "IP-CIDR6": "IP-CIDR6",
     "GEOIP": "GEOIP",
-    
-    # 进程名 (Windows/Linux/Mac)
-    "PROCESS-NAME": "PROCESS-NAME",
     "SRC-IP-CIDR": "SRC-IP-CIDR",
+    "PROCESS-NAME": "PROCESS-NAME",
+    "DST-PORT": "DST-PORT",
+    "SRC-PORT": "SRC-PORT"
 }
 
 def format_rules(
     rules: list[str], policy_tag: str = "Default", header_lines: list[str] = None
-) -> list[str]:
+) -> dict:
     """
-    将标准格式的规则列表转换为 Clash Rule Provider (Payload) 格式。
+    返回一个字典，键为分类后缀（如 'Domain'），值为格式化后的规则列表。
     """
-    formatted = []
     
-    # 1. 写入 YAML 必需的头部 payload 声明
-    formatted.append("payload:")
+    # 初始化三个桶的数据结构
+    # 每个桶都先预装好头部信息
+    buckets = {
+        "Domain": [],
+        "IP": [],
+        "Classical": []
+    }
     
-    # 2. 处理用户自定义头部 (作为注释插入，注意缩进)
+    # 预生成头部 (Payload声明 + 自定义注释)
+    common_headers = ["payload:"]
     if header_lines:
         for header in header_lines:
-            formatted.append(f"  {COMMENT_SYMBOL} {header}")
+            common_headers.append(f"  {COMMENT_SYMBOL} {header}")
+            
+    # 将头部填入每个桶
+    for key in buckets:
+        buckets[key].extend(common_headers)
 
-    # 3. 处理规则内容
+    # 标记桶是否真的有数据（除去头部）
+    has_data = {
+        "Domain": False,
+        "IP": False,
+        "Classical": False
+    }
+
     for line in rules:
         if "," not in line:
             continue
@@ -54,16 +66,30 @@ def format_rules(
         std_type = parts[0].strip().upper()
         value = parts[1].strip()
 
-        # 过滤 Clash 不支持的规则类型 (如 USER-AGENT)
+        # 获取 Clash 类型
         if std_type not in CLASH_MAPPING:
             continue
-
         clash_type = CLASH_MAPPING[std_type]
         
-        # Clash Payload 格式: 缩进 + 短横线 + 空格 + 类型 + 逗号 + 值
-        # 示例: "  - DOMAIN-SUFFIX,google.com"
         final_line = f"  - {clash_type},{value}"
-        
-        formatted.append(final_line)
 
-    return formatted
+        # 分拣逻辑
+        if std_type in TYPE_BUCKETS["DOMAIN"]:
+            buckets["Domain"].append(final_line)
+            has_data["Domain"] = True
+        elif std_type in TYPE_BUCKETS["IP"]:
+            buckets["IP"].append(final_line)
+            has_data["IP"] = True
+        else:
+            # 既不是域名也不是IP，丢进 Classical 垃圾桶
+            buckets["Classical"].append(final_line)
+            has_data["Classical"] = True
+
+    # 清理空桶
+    # 如果某个桶只有头部（没有实际规则），就把它删掉，防止生成空文件
+    final_output = {}
+    for key, content_list in buckets.items():
+        if has_data[key]:
+            final_output[key] = content_list
+
+    return final_output

@@ -19,7 +19,11 @@ from core.constants import (
 
 from core.rule.processor_rule import process_rules
 from core.rewrite.processor_rewrite import process_rewrites
-from core.rule import formatter_rule_quantumultx, formatter_rule_loon, formatter_rule_clash
+from core.rule import (
+    formatter_rule_quantumultx,
+    formatter_rule_loon,
+    formatter_rule_clash,
+)
 from core.rewrite import formatter_rewrite_quantumultx, formatter_rewrite_loon
 
 AVAILABLE_FORMATTERS = {
@@ -168,21 +172,52 @@ class Manager:
         policy = fmt_params.get("policy_tag", "Default")
         headers = fmt_params.get("header_lines", [])
 
-        content = formatter.format_rules(data, policy_tag=policy, header_lines=headers)
-        if not content:
+        formatted_result = formatter.format_rules(
+            data, policy_tag=policy, header_lines=headers
+        )
+
+        if not formatted_result:
             return False
 
         sub_path = cfg.get("__sub_path__", "")
 
-        success = write_output(
-            project_root=self.project_root,
-            category=category,
-            subdir_name=dir_name,
-            cfg=cfg,
-            rules=content,
-            comment_symbol=comment_sym,
-            file_extension=file_ext,
-            sub_path=sub_path,
-        )
+        if isinstance(formatted_result, list):
+            # 兼容 Quantumult X 等只返回一个列表的情况
+            return write_output(
+                project_root=self.project_root,
+                category=category,
+                subdir_name=dir_name,
+                cfg=cfg,
+                rules=formatted_result,
+                comment_symbol=comment_sym,
+                file_extension=file_ext,
+                sub_path=sub_path,
+                filename_suffix="",  # 无后缀
+            )
 
-        return success
+        elif isinstance(formatted_result, dict):
+            # 处理 Clash 这种返回多个分类的情况
+            all_success = True
+
+            for suffix_key, content_list in formatted_result.items():
+                # suffix_key 就是 "Domain", "IP", "Classical"
+                # 拼接后缀，例如 "_Domain"
+                suffix = f"_{suffix_key}"
+
+                success = write_output(
+                    project_root=self.project_root,
+                    category=category,
+                    subdir_name=dir_name,
+                    cfg=cfg,
+                    rules=content_list,
+                    comment_symbol=comment_sym,
+                    file_extension=file_ext,
+                    sub_path=sub_path,
+                    filename_suffix=suffix,  # 传入后缀
+                )
+                if not success:
+                    all_success = False
+
+            return all_success
+
+        return False

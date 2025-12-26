@@ -24,6 +24,7 @@ def write_output(
     comment_symbol="#",
     file_extension="list",
     sub_path="",
+    filename_suffix=""
 ) -> bool:
     """
     [文件写入器]
@@ -43,7 +44,8 @@ def write_output(
             return False
 
     clean_ext = file_extension.lstrip(".")
-    filename = f"{cfg.get('output_filename', 'Output')}.{clean_ext}"
+    base_name = cfg.get('output_filename', 'Output')
+    filename = f"{base_name}{filename_suffix}.{clean_ext}"
     path = os.path.join(output_dir, filename)
 
     count = defaultdict(int)
