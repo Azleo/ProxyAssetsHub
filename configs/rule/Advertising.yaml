@@ -21,6 +21,7 @@ output_filename: 'Advertising'
 # 可以选择多个格式。
 formats:
   - 'quantumultx'
+  # - 'clash'
   # - 'loon'
   # - 'shadowrocket'
   # - 'surge'
@@ -71,8 +72,11 @@ custom_headers:
   quantumultx:
     header_lines:
       - '已包含子规则：AdvertisingLite、Hijacking、Privacy'
-
-  loon:
+  clash:
     header_lines: []
       # - 'info3'
       # - 'info4'
+  loon:
+    header_lines: []
+      # - 'info5'
+      # - 'info6'

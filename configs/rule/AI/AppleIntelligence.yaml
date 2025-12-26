@@ -21,6 +21,7 @@ output_filename: 'AppleIntelligence'
 # 可以选择多个格式。
 formats:
   - 'quantumultx'
+  # - 'clash'
   # - 'loon'
   # - 'shadowrocket'
   # - 'surge'
@@ -73,8 +74,11 @@ custom_headers:
     header_lines: []
       # - 'info1'
       # - 'info2'
-
-  loon:
+  clash:
     header_lines: []
       # - 'info3'
       # - 'info4'
+  loon:
+    header_lines: []
+      # - 'info5'
+      # - 'info6'

@@ -19,13 +19,14 @@ from core.constants import (
 
 from core.rule.processor_rule import process_rules
 from core.rewrite.processor_rewrite import process_rewrites
-from core.rule import formatter_rule_quantumultx, formatter_rule_loon
+from core.rule import formatter_rule_quantumultx, formatter_rule_loon, formatter_rule_clash
 from core.rewrite import formatter_rewrite_quantumultx, formatter_rewrite_loon
 
 AVAILABLE_FORMATTERS = {
     "rule": {
         "quantumultx": formatter_rule_quantumultx,
         "loon": formatter_rule_loon,
+        "clash": formatter_rule_clash,
     },
     "rewrite": {
         "quantumultx": formatter_rewrite_quantumultx,
