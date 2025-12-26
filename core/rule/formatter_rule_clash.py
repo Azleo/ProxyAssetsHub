@@ -64,7 +64,11 @@ def format_rules(
             continue
         clash_type = CLASH_MAPPING[std_type]
 
-        final_line = f"  - {clash_type},{value}"
+        suffix_param = ""
+        if clash_type in ["IP-CIDR", "IP-CIDR6"]:
+            suffix_param = ",no-resolve"
+
+        final_line = f"  - {clash_type},{value}{suffix_param}"
 
         # 分拣逻辑
         if std_type in TYPE_BUCKETS["DOMAIN"]:
