@@ -5,6 +5,7 @@
 ## 进度
 - rule:
   - [x] QuantumultX
+  - [x] Clash
   - [ ] Loon
 - rewrite:
   - [ ] QuantumultX
