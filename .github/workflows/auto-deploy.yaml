@@ -18,6 +18,9 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'rule/**'
+      - 'README.md'
 
 # 允许GitHub Actions写入
 permissions:
@@ -50,6 +53,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12' # 指定 Python 版本
+          cache: 'pip' # 开启缓存，加速安装依赖步骤
 
       # 步骤3: 安装项目依赖
       # 如果您的项目有 requirements.txt 文件，此步骤将安装所有依赖
@@ -60,10 +64,7 @@ jobs:
       # 步骤4: 运行 ProxyAssetsHub 程序
       # 使用 --ci 参数，为持续集成环境优化日志输出
       - name: Run ProxyAssetsHub
-        run: |
-          git pull origin main
-          
-          python main.py --debug
+        run: python main.py --debug
 
       # 步骤5: 配置 Git 用户信息并提交更改
       # 这是一系列 Git 命令，用于将生成的文件提交回仓库
