@@ -62,8 +62,8 @@ filters:
 
   # extra_rules: 手动追加最终数据。
   # 此配置项会被追加到最终输出文件正文的开头。
-  extra_rules: []
-    # - 'DOMAIN-SUFFIX,example.com'
+  extra_rules:
+    - 'domain,robinfrontend-pa.googleapis.com'
     # - 'IP-CIDR,1.2.3.4/32,no-resolve'
 
 # -------------------- 【自定义头部信息】 --------------------
