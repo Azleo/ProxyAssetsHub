@@ -1,11 +1,11 @@
 # NAME: OpenAI规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2025-12-27 05:18:32
+# UPDATED: UTC+8 2025-12-27 19:44:00
 # - DOMAIN: 11
-# - DOMAIN-SUFFIX: 43
+# - DOMAIN-SUFFIX: 34
 # - DOMAIN-KEYWORD: 3
-# TOTAL: 57
+# TOTAL: 48
 payload:
   - DOMAIN,api-iam.intercom.io
   - DOMAIN,api.statsig.com
@@ -18,16 +18,6 @@ payload:
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
   - DOMAIN,production-openaicom-storage.azureedge.net
   - DOMAIN,static.cloudflareinsights.com
-  - DOMAIN-SUFFIX,+.chat.com
-  - DOMAIN-SUFFIX,+.chatgpt.com
-  - DOMAIN-SUFFIX,+.chatgpt.livekit.cloud
-  - DOMAIN-SUFFIX,+.host.livekit.cloud
-  - DOMAIN-SUFFIX,+.oaistatic.com
-  - DOMAIN-SUFFIX,+.oaiusercontent.com
-  - DOMAIN-SUFFIX,+.openai.com
-  - DOMAIN-SUFFIX,+.openai.com.cdn.cloudflare.net
-  - DOMAIN-SUFFIX,+.sora.com
-  - DOMAIN-SUFFIX,+.turn.livekit.cloud
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,algolia.net
   - DOMAIN-SUFFIX,api.statsig.com
@@ -51,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,observeit.net
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - DOMAIN-SUFFIX,openaicom.imgix.net
