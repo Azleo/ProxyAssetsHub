@@ -1,0 +1,11 @@
+# NAME: Copilot规则集
+# AUTHOR: Azleo
+# REPO: https://github.com/Azleo/ProxyAssetsHub
+# UPDATED: UTC+8 2025-12-27 21:57:42
+# HOST: 3
+# HOST-SUFFIX: 1
+# TOTAL: 4
+HOST,copilot.microsoft.com,Copilot
+HOST,sydney.bing.com,Copilot
+HOST,www.bing.com,Copilot
+HOST-SUFFIX,githubcopilot.com,Copilot
