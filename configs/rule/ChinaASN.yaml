@@ -30,7 +30,7 @@ formats:
 # sources: 包含原始数据的 URL 列表。
 sources:
   - 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/QuantumultX/ChinaASN/ChinaASN.list'
-  # - 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/QuantumultX/ChinaASN/ChinaASN.list'
+  - 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/QuantumultX/ChinaASN/ChinaASN.list'
 
 # -------------------- 【过滤与定制】 --------------------
 # filters: 包含所有用于定制数据合集的自定义配置。
