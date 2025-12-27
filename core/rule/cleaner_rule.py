@@ -87,10 +87,12 @@ def _strip_layer(line: str) -> str | None:
     【物理剥离层】
     剥离规则外围的“壳”，不涉及对规则内容的理解。
     """
-    # 1. 处理行内注释 (Shell/YAML 风格)
+    # 1. 处理行内注释
     # 解决：去除 # 及其之后的内容，仅保留有效载荷
     if "#" in line:
         line = line.split("#", 1)[0]
+    if "//" in line:
+        line = line.split("//", 1)[0]
 
     # 2. 处理 AdBlock 风格整行注释
     # 特征：以 ! 开头。直接判定为无效行
