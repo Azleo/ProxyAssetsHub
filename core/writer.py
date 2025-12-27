@@ -55,8 +55,16 @@ def write_output(
         r_stripped = r.strip()
         if not r_stripped or r_stripped.startswith(comment_symbol):
             continue
+
+        # 统计规则类型
         if "," in r:
-            rule_type = r.split(",", 1)[0].strip().upper()
+            # 1. 原始切割
+            raw_type_str = r.split(",", 1)[0].strip().upper()
+            # 2. 智能清洗前缀
+            # 如果字符串以 "- " 开头（Clash YAML 列表格式），去掉它
+            # 使用 lstrip 移除左侧的 "-" 和空格
+            rule_type = raw_type_str.lstrip("-").strip()
+
             if rule_type:
                 count[rule_type] += 1
                 valid_rule_count += 1

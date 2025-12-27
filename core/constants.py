@@ -91,6 +91,7 @@ RULE_TYPE_PRIORITY = {
     "HOST-KEYWORD": 4,
     # --- User-Agent 匹配规则 ---
     # 根据发起请求的应用程序或浏览器类型进行匹配。
+    "PROCESS-NAME": 5,
     "USER-AGENT": 5,
     # --- IP 地址类规则 ---
     # IP-CIDR：基于 IPv4 地址段进行匹配。
