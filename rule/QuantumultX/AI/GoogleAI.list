@@ -1,0 +1,57 @@
+# NAME: GoogleAI规则集
+# AUTHOR: Azleo
+# REPO: https://github.com/Azleo/ProxyAssetsHub
+# UPDATED: UTC+8 2025-12-27 05:18:32
+# HOST: 8
+# HOST-SUFFIX: 35
+# HOST-KEYWORD: 5
+# TOTAL: 48
+# 包括子规则：AI Studio、Gemini
+HOST,robinfrontend-pa.googleapis.com,GoogleAI
+HOST,ai.google.dev,GoogleAI
+HOST,aistudio.google.com,GoogleAI
+HOST,alkalicore-pa.clients6.google.com,GoogleAI
+HOST,alkalimakersuite-pa.clients6.google.com,GoogleAI
+HOST,bard.google.com,GoogleAI
+HOST,gemini.google.com,GoogleAI
+HOST,makersuite.google.com,GoogleAI
+HOST-SUFFIX,+.aida.googleapis.com,GoogleAI
+HOST-SUFFIX,+.aisandbox-pa.googleapis.com,GoogleAI
+HOST-SUFFIX,+.aistudio.google.com,GoogleAI
+HOST-SUFFIX,+.bard.google.com,GoogleAI
+HOST-SUFFIX,+.deepmind.com,GoogleAI
+HOST-SUFFIX,+.deepmind.google,GoogleAI
+HOST-SUFFIX,+.geller-pa.googleapis.com,GoogleAI
+HOST-SUFFIX,+.gemini.google,GoogleAI
+HOST-SUFFIX,+.gemini.google.com,GoogleAI
+HOST-SUFFIX,+.generativeai.google,GoogleAI
+HOST-SUFFIX,+.generativelanguage.googleapis.com,GoogleAI
+HOST-SUFFIX,+.jules.google,GoogleAI
+HOST-SUFFIX,+.jules.google.com,GoogleAI
+HOST-SUFFIX,+.labs.google,GoogleAI
+HOST-SUFFIX,+.makersuite.google.com,GoogleAI
+HOST-SUFFIX,+.notebooklm.google,GoogleAI
+HOST-SUFFIX,+.notebooklm.google.com,GoogleAI
+HOST-SUFFIX,+.opal.google,GoogleAI
+HOST-SUFFIX,+.opal.google.com,GoogleAI
+HOST-SUFFIX,+.proactivebackend-pa.googleapis.com,GoogleAI
+HOST-SUFFIX,+.robinfrontend-pa.googleapis.com,GoogleAI
+HOST-SUFFIX,ai.google.dev,GoogleAI
+HOST-SUFFIX,alkalicore-pa.clients6.google.com,GoogleAI
+HOST-SUFFIX,alkalimakersuite-pa.clients6.google.com,GoogleAI
+HOST-SUFFIX,apis.google.com,GoogleAI
+HOST-SUFFIX,bard.google.com,GoogleAI
+HOST-SUFFIX,deepmind.com,GoogleAI
+HOST-SUFFIX,deepmind.google,GoogleAI
+HOST-SUFFIX,geller-pa.googleapis.com,GoogleAI
+HOST-SUFFIX,gemini.google.com,GoogleAI
+HOST-SUFFIX,generativeai.google,GoogleAI
+HOST-SUFFIX,generativelanguage.googleapis.com,GoogleAI
+HOST-SUFFIX,makersuite.google.com,GoogleAI
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,GoogleAI
+HOST-SUFFIX,webchannel-alkalimakersuite-pa.clients6.google.com,GoogleAI
+HOST-KEYWORD,colab,GoogleAI
+HOST-KEYWORD,developerprofiles,GoogleAI
+HOST-KEYWORD,generativelanguage,GoogleAI
+HOST-KEYWORD,labs.google,GoogleAI
+HOST-KEYWORD,notebooklm.google,GoogleAI
