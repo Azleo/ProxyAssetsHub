@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-01-02 05:19:51
+# UPDATED: UTC+8 2026-01-03 05:16:16
 # HOST: 58
-# HOST-SUFFIX: 535
+# HOST-SUFFIX: 540
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 4
-# TOTAL: 637
+# TOTAL: 642
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -100,6 +100,7 @@ HOST-SUFFIX,adobe.com,Direct
 HOST-SUFFIX,afeica.com,Direct
 HOST-SUFFIX,afuns.me,Direct
 HOST-SUFFIX,aichangbaishan.com,Direct
+HOST-SUFFIX,aidien.fun,Direct
 HOST-SUFFIX,aidoru-online.me,Direct
 HOST-SUFFIX,aigodlike.com,Direct
 HOST-SUFFIX,aistudio-app.com,Direct
@@ -120,6 +121,7 @@ HOST-SUFFIX,atticus.vip,Direct
 HOST-SUFFIX,avgv.cc,Direct
 HOST-SUFFIX,avistaz.to,Direct
 HOST-SUFFIX,awesome-hd.me,Direct
+HOST-SUFFIX,awstme.top,Direct
 HOST-SUFFIX,baiyishequ.com,Direct
 HOST-SUFFIX,bangumi.tv,Direct
 HOST-SUFFIX,baomitu.com,Direct
@@ -210,6 +212,7 @@ HOST-SUFFIX,dxdhd.com,Direct
 HOST-SUFFIX,eagsen.com,Direct
 HOST-SUFFIX,eastgame.org,Direct
 HOST-SUFFIX,easytier.top,Direct
+HOST-SUFFIX,easytomessage.com,Direct
 HOST-SUFFIX,einfo-tech.com,Direct
 HOST-SUFFIX,empornium.me,Direct
 HOST-SUFFIX,englibrary.com,Direct
@@ -358,6 +361,7 @@ HOST-SUFFIX,jingheiot.com,Direct
 HOST-SUFFIX,jiqw.com,Direct
 HOST-SUFFIX,joyhd.net,Direct
 HOST-SUFFIX,jpopsuki.eu,Direct
+HOST-SUFFIX,jsdelivr.com,Direct
 HOST-SUFFIX,jsdelivr.net,Direct
 HOST-SUFFIX,jstor.org,Direct
 HOST-SUFFIX,julebu.co,Direct
@@ -487,6 +491,7 @@ HOST-SUFFIX,sdbits.org,Direct
 HOST-SUFFIX,seaflysoft.com,Direct
 HOST-SUFFIX,seedpace.com,Direct
 HOST-SUFFIX,sgtv.ii00.cc,Direct
+HOST-SUFFIX,shanghai-parking.com,Direct
 HOST-SUFFIX,shineacc.com,Direct
 HOST-SUFFIX,shuinfo.com,Direct
 HOST-SUFFIX,shunjing.xin,Direct

@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-01-02 05:19:51
+# UPDATED: UTC+8 2026-01-03 05:16:16
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 535
+# DOMAIN-SUFFIX: 540
 # DOMAIN-KEYWORD: 39
-# TOTAL: 632
+# TOTAL: 637
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -99,6 +99,7 @@ payload:
   - DOMAIN-SUFFIX,afeica.com
   - DOMAIN-SUFFIX,afuns.me
   - DOMAIN-SUFFIX,aichangbaishan.com
+  - DOMAIN-SUFFIX,aidien.fun
   - DOMAIN-SUFFIX,aidoru-online.me
   - DOMAIN-SUFFIX,aigodlike.com
   - DOMAIN-SUFFIX,aistudio-app.com
@@ -119,6 +120,7 @@ payload:
   - DOMAIN-SUFFIX,avgv.cc
   - DOMAIN-SUFFIX,avistaz.to
   - DOMAIN-SUFFIX,awesome-hd.me
+  - DOMAIN-SUFFIX,awstme.top
   - DOMAIN-SUFFIX,baiyishequ.com
   - DOMAIN-SUFFIX,bangumi.tv
   - DOMAIN-SUFFIX,baomitu.com
@@ -209,6 +211,7 @@ payload:
   - DOMAIN-SUFFIX,eagsen.com
   - DOMAIN-SUFFIX,eastgame.org
   - DOMAIN-SUFFIX,easytier.top
+  - DOMAIN-SUFFIX,easytomessage.com
   - DOMAIN-SUFFIX,einfo-tech.com
   - DOMAIN-SUFFIX,empornium.me
   - DOMAIN-SUFFIX,englibrary.com
@@ -357,6 +360,7 @@ payload:
   - DOMAIN-SUFFIX,jiqw.com
   - DOMAIN-SUFFIX,joyhd.net
   - DOMAIN-SUFFIX,jpopsuki.eu
+  - DOMAIN-SUFFIX,jsdelivr.com
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,jstor.org
   - DOMAIN-SUFFIX,julebu.co
@@ -486,6 +490,7 @@ payload:
   - DOMAIN-SUFFIX,seaflysoft.com
   - DOMAIN-SUFFIX,seedpace.com
   - DOMAIN-SUFFIX,sgtv.ii00.cc
+  - DOMAIN-SUFFIX,shanghai-parking.com
   - DOMAIN-SUFFIX,shineacc.com
   - DOMAIN-SUFFIX,shuinfo.com
   - DOMAIN-SUFFIX,shunjing.xin
