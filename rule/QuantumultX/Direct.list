@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-01-03 05:16:16
+# UPDATED: UTC+8 2026-01-04 05:18:34
 # HOST: 58
-# HOST-SUFFIX: 540
+# HOST-SUFFIX: 543
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 4
-# TOTAL: 642
+# TOTAL: 645
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -171,6 +171,7 @@ HOST-SUFFIX,classix-unlimited.co.uk,Direct
 HOST-SUFFIX,clivia.fun,Direct
 HOST-SUFFIX,cn-music.mefun.vip,Direct
 HOST-SUFFIX,cnb.space,Direct
+HOST-SUFFIX,cocav.com,Direct
 HOST-SUFFIX,codeloop.top,Direct
 HOST-SUFFIX,coffee-iot.com,Direct
 HOST-SUFFIX,comicat.org,Direct
@@ -178,6 +179,7 @@ HOST-SUFFIX,concertos.live,Direct
 HOST-SUFFIX,congmiqq.com,Direct
 HOST-SUFFIX,coros.com,Direct
 HOST-SUFFIX,crtyhr.com,Direct
+HOST-SUFFIX,d4ctech.com,Direct
 HOST-SUFFIX,day.app,Direct
 HOST-SUFFIX,dcgstd.com,Direct
 HOST-SUFFIX,ddsrem.com,Direct
@@ -571,6 +573,7 @@ HOST-SUFFIX,xdqtech.com,Direct
 HOST-SUFFIX,xdtool.com,Direct
 HOST-SUFFIX,xiankabao.com,Direct
 HOST-SUFFIX,xiaochuanyun.com,Direct
+HOST-SUFFIX,xiaoxia.vip,Direct
 HOST-SUFFIX,xiberia.net,Direct
 HOST-SUFFIX,ximogo.com,Direct
 HOST-SUFFIX,xinghaiwaimai.com,Direct
