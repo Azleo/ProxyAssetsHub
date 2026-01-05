@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-01-05 05:19:12
+# UPDATED: UTC+8 2026-01-06 05:21:14
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 543
+# DOMAIN-SUFFIX: 548
 # DOMAIN-KEYWORD: 39
-# TOTAL: 640
+# TOTAL: 645
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -152,6 +152,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.ist
   - DOMAIN-SUFFIX,centbrowser.net
   - DOMAIN-SUFFIX,cg3da.com
+  - DOMAIN-SUFFIX,cgicop.com
   - DOMAIN-SUFFIX,cgpeers.com
   - DOMAIN-SUFFIX,chaxunjiao.com
   - DOMAIN-SUFFIX,chaz.fun
@@ -168,6 +169,7 @@ payload:
   - DOMAIN-SUFFIX,cinemaz.to
   - DOMAIN-SUFFIX,classix-unlimited.co.uk
   - DOMAIN-SUFFIX,clivia.fun
+  - DOMAIN-SUFFIX,cmbc.run
   - DOMAIN-SUFFIX,cn-music.mefun.vip
   - DOMAIN-SUFFIX,cnb.space
   - DOMAIN-SUFFIX,cocav.com
@@ -486,6 +488,7 @@ payload:
   - DOMAIN-SUFFIX,sapphiretech.com
   - DOMAIN-SUFFIX,scbaijia.com
   - DOMAIN-SUFFIX,sciencemag.org
+  - DOMAIN-SUFFIX,scnyw.com
   - DOMAIN-SUFFIX,scopus.com
   - DOMAIN-SUFFIX,sct.ftqq.com
   - DOMAIN-SUFFIX,sdbits.org
@@ -533,6 +536,7 @@ payload:
   - DOMAIN-SUFFIX,tozi-cn.top
   - DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
   - DOMAIN-SUFFIX,trontv.com
+  - DOMAIN-SUFFIX,ts3.ink
   - DOMAIN-SUFFIX,tulipsport.com
   - DOMAIN-SUFFIX,tumukaoyan.com
   - DOMAIN-SUFFIX,tuxing.art
@@ -580,6 +584,7 @@ payload:
   - DOMAIN-SUFFIX,xixih.cc
   - DOMAIN-SUFFIX,xkkapk.com
   - DOMAIN-SUFFIX,xn--4kq62z5rby2qupq9ub.top
+  - DOMAIN-SUFFIX,xn--cesw6hd3s99f.com
   - DOMAIN-SUFFIX,xopenbeta.com
   - DOMAIN-SUFFIX,xunlei.com
   - DOMAIN-SUFFIX,xxir.com

@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-01-05 05:19:12
+# UPDATED: UTC+8 2026-01-06 05:21:14
 # HOST: 58
-# HOST-SUFFIX: 543
+# HOST-SUFFIX: 548
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 4
-# TOTAL: 645
+# TOTAL: 650
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -153,6 +153,7 @@ HOST-SUFFIX,ccfbits.org,Direct
 HOST-SUFFIX,cdn.ist,Direct
 HOST-SUFFIX,centbrowser.net,Direct
 HOST-SUFFIX,cg3da.com,Direct
+HOST-SUFFIX,cgicop.com,Direct
 HOST-SUFFIX,cgpeers.com,Direct
 HOST-SUFFIX,chaxunjiao.com,Direct
 HOST-SUFFIX,chaz.fun,Direct
@@ -169,6 +170,7 @@ HOST-SUFFIX,cinematik.net,Direct
 HOST-SUFFIX,cinemaz.to,Direct
 HOST-SUFFIX,classix-unlimited.co.uk,Direct
 HOST-SUFFIX,clivia.fun,Direct
+HOST-SUFFIX,cmbc.run,Direct
 HOST-SUFFIX,cn-music.mefun.vip,Direct
 HOST-SUFFIX,cnb.space,Direct
 HOST-SUFFIX,cocav.com,Direct
@@ -487,6 +489,7 @@ HOST-SUFFIX,sanligu.top,Direct
 HOST-SUFFIX,sapphiretech.com,Direct
 HOST-SUFFIX,scbaijia.com,Direct
 HOST-SUFFIX,sciencemag.org,Direct
+HOST-SUFFIX,scnyw.com,Direct
 HOST-SUFFIX,scopus.com,Direct
 HOST-SUFFIX,sct.ftqq.com,Direct
 HOST-SUFFIX,sdbits.org,Direct
@@ -534,6 +537,7 @@ HOST-SUFFIX,totheglory.im,Direct
 HOST-SUFFIX,tozi-cn.top,Direct
 HOST-SUFFIX,tracking-protection.cdn.mozilla.net,Direct
 HOST-SUFFIX,trontv.com,Direct
+HOST-SUFFIX,ts3.ink,Direct
 HOST-SUFFIX,tulipsport.com,Direct
 HOST-SUFFIX,tumukaoyan.com,Direct
 HOST-SUFFIX,tuxing.art,Direct
@@ -581,6 +585,7 @@ HOST-SUFFIX,xiwang.com,Direct
 HOST-SUFFIX,xixih.cc,Direct
 HOST-SUFFIX,xkkapk.com,Direct
 HOST-SUFFIX,xn--4kq62z5rby2qupq9ub.top,Direct
+HOST-SUFFIX,xn--cesw6hd3s99f.com,Direct
 HOST-SUFFIX,xopenbeta.com,Direct
 HOST-SUFFIX,xunlei.com,Direct
 HOST-SUFFIX,xxir.com,Direct
