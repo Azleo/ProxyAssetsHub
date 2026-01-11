@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-01-11 05:18:38
+# UPDATED: UTC+8 2026-01-12 05:19:03
 # HOST: 58
-# HOST-SUFFIX: 555
+# HOST-SUFFIX: 560
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 4
-# TOTAL: 657
+# TOTAL: 662
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -411,6 +411,7 @@ HOST-SUFFIX,members.3322.org,Direct
 HOST-SUFFIX,micu.hk,Direct
 HOST-SUFFIX,mifeng.plus,Direct
 HOST-SUFFIX,mifon.com,Direct
+HOST-SUFFIX,mixly.org,Direct
 HOST-SUFFIX,mobai.sbs,Direct
 HOST-SUFFIX,modelscope.net,Direct
 HOST-SUFFIX,moecat.best,Direct
@@ -496,6 +497,7 @@ HOST-SUFFIX,scbaijia.com,Direct
 HOST-SUFFIX,sciencemag.org,Direct
 HOST-SUFFIX,scnyw.com,Direct
 HOST-SUFFIX,scopus.com,Direct
+HOST-SUFFIX,scratch5.com,Direct
 HOST-SUFFIX,sct.ftqq.com,Direct
 HOST-SUFFIX,sdbits.org,Direct
 HOST-SUFFIX,seaflysoft.com,Direct
@@ -532,11 +534,14 @@ HOST-SUFFIX,tclai.top,Direct
 HOST-SUFFIX,tcp.pub,Direct
 HOST-SUFFIX,tcp5.com,Direct
 HOST-SUFFIX,tcy365.net,Direct
+HOST-SUFFIX,terra-master.com,Direct
 HOST-SUFFIX,theluyuan.com,Direct
 HOST-SUFFIX,thinkerride.com,Direct
 HOST-SUFFIX,thmnet.com,Direct
 HOST-SUFFIX,timbrd.com,Direct
 HOST-SUFFIX,tjupt.org,Direct
+HOST-SUFFIX,tnas.link,Direct
+HOST-SUFFIX,tnas.online,Direct
 HOST-SUFFIX,tool56.com,Direct
 HOST-SUFFIX,topwd.top,Direct
 HOST-SUFFIX,totheglory.im,Direct
