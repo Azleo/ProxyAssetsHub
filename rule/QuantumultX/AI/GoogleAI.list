@@ -1,11 +1,11 @@
 # NAME: GoogleAI规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-01-14 05:21:55
+# UPDATED: UTC+8 2026-01-15 05:22:07
 # HOST: 8
-# HOST-SUFFIX: 28
+# HOST-SUFFIX: 37
 # HOST-KEYWORD: 5
-# TOTAL: 41
+# TOTAL: 50
 # 包括子规则：AI Studio、Gemini
 HOST,robinfrontend-pa.googleapis.com,GoogleAI
 HOST,ai.google.dev,GoogleAI
@@ -22,8 +22,15 @@ HOST-SUFFIX,aisandbox-pa.googleapis.com,GoogleAI
 HOST-SUFFIX,aistudio.google.com,GoogleAI
 HOST-SUFFIX,alkalicore-pa.clients6.google.com,GoogleAI
 HOST-SUFFIX,alkalimakersuite-pa.clients6.google.com,GoogleAI
+HOST-SUFFIX,antigravity-pa.googleapis.com,GoogleAI
+HOST-SUFFIX,antigravity-unleash.goog,GoogleAI
+HOST-SUFFIX,antigravity.google,GoogleAI
+HOST-SUFFIX,antigravity.googleapis.com,GoogleAI
 HOST-SUFFIX,apis.google.com,GoogleAI
 HOST-SUFFIX,bard.google.com,GoogleAI
+HOST-SUFFIX,cloudaicompanion.googleapis.com,GoogleAI
+HOST-SUFFIX,cloudcode-pa.googleapis.com,GoogleAI
+HOST-SUFFIX,daily-cloudcode-pa.googleapis.com,GoogleAI
 HOST-SUFFIX,deepmind.com,GoogleAI
 HOST-SUFFIX,deepmind.google,GoogleAI
 HOST-SUFFIX,geller-pa.googleapis.com,GoogleAI
@@ -36,8 +43,10 @@ HOST-SUFFIX,jules.google.com,GoogleAI
 HOST-SUFFIX,labs.google,GoogleAI
 HOST-SUFFIX,labs.google.com,GoogleAI
 HOST-SUFFIX,makersuite.google.com,GoogleAI
+HOST-SUFFIX,notebooklm-pa.googleapis.com,GoogleAI
 HOST-SUFFIX,notebooklm.google,GoogleAI
 HOST-SUFFIX,notebooklm.google.com,GoogleAI
+HOST-SUFFIX,notebooklm.googleapis.com,GoogleAI
 HOST-SUFFIX,opal.google,GoogleAI
 HOST-SUFFIX,opal.google.com,GoogleAI
 HOST-SUFFIX,proactivebackend-pa.googleapis.com,GoogleAI
