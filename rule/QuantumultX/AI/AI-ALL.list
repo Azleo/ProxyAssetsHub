@@ -1,13 +1,13 @@
 # NAME: AI-ALL规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-01-15 05:22:08
+# UPDATED: UTC+8 2026-01-16 05:22:14
 # HOST: 32
-# HOST-SUFFIX: 84
+# HOST-SUFFIX: 93
 # HOST-KEYWORD: 8
 # IP-CIDR: 2
 # IP-ASN: 1
-# TOTAL: 127
+# TOTAL: 136
 # -- AI合集 --
 HOST,ai.google.dev,AI-ALL
 HOST,aistudio.google.com,AI-ALL
@@ -51,6 +51,10 @@ HOST-SUFFIX,algolia.net,AI-ALL
 HOST-SUFFIX,alkalicore-pa.clients6.google.com,AI-ALL
 HOST-SUFFIX,alkalimakersuite-pa.clients6.google.com,AI-ALL
 HOST-SUFFIX,anthropic.com,AI-ALL
+HOST-SUFFIX,antigravity-pa.googleapis.com,AI-ALL
+HOST-SUFFIX,antigravity-unleash.goog,AI-ALL
+HOST-SUFFIX,antigravity.google,AI-ALL
+HOST-SUFFIX,antigravity.googleapis.com,AI-ALL
 HOST-SUFFIX,api.statsig.com,AI-ALL
 HOST-SUFFIX,apis.google.com,AI-ALL
 HOST-SUFFIX,apps.mzstatic.com,AI-ALL
@@ -67,10 +71,13 @@ HOST-SUFFIX,ciciai.com,AI-ALL
 HOST-SUFFIX,claude.ai,AI-ALL
 HOST-SUFFIX,claude.com,AI-ALL
 HOST-SUFFIX,client-api.arkoselabs.com,AI-ALL
+HOST-SUFFIX,cloudaicompanion.googleapis.com,AI-ALL
+HOST-SUFFIX,cloudcode-pa.googleapis.com,AI-ALL
 HOST-SUFFIX,cursor-cdn.com,AI-ALL
 HOST-SUFFIX,cursor.com,AI-ALL
 HOST-SUFFIX,cursor.sh,AI-ALL
 HOST-SUFFIX,cursorapi.com,AI-ALL
+HOST-SUFFIX,daily-cloudcode-pa.googleapis.com,AI-ALL
 HOST-SUFFIX,deepmind.com,AI-ALL
 HOST-SUFFIX,deepmind.google,AI-ALL
 HOST-SUFFIX,dola.com,AI-ALL
@@ -98,8 +105,10 @@ HOST-SUFFIX,launchdarkly.com,AI-ALL
 HOST-SUFFIX,livekit.cloud,AI-ALL
 HOST-SUFFIX,makersuite.google.com,AI-ALL
 HOST-SUFFIX,meta.ai,AI-ALL
+HOST-SUFFIX,notebooklm-pa.googleapis.com,AI-ALL
 HOST-SUFFIX,notebooklm.google,AI-ALL
 HOST-SUFFIX,notebooklm.google.com,AI-ALL
+HOST-SUFFIX,notebooklm.googleapis.com,AI-ALL
 HOST-SUFFIX,o33249.ingest.sentry.io,AI-ALL
 HOST-SUFFIX,oaistatic.com,AI-ALL
 HOST-SUFFIX,oaiusercontent.com,AI-ALL

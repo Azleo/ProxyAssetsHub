@@ -1,11 +1,11 @@
 # NAME: AI-ALL规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-01-15 05:22:08
+# UPDATED: UTC+8 2026-01-16 05:22:14
 # DOMAIN: 32
-# DOMAIN-SUFFIX: 84
+# DOMAIN-SUFFIX: 93
 # DOMAIN-KEYWORD: 8
-# TOTAL: 124
+# TOTAL: 133
 payload:
   - DOMAIN,ai.google.dev
   - DOMAIN,aistudio.google.com
@@ -49,6 +49,10 @@ payload:
   - DOMAIN-SUFFIX,alkalicore-pa.clients6.google.com
   - DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,antigravity-pa.googleapis.com
+  - DOMAIN-SUFFIX,antigravity-unleash.goog
+  - DOMAIN-SUFFIX,antigravity.google
+  - DOMAIN-SUFFIX,antigravity.googleapis.com
   - DOMAIN-SUFFIX,api.statsig.com
   - DOMAIN-SUFFIX,apis.google.com
   - DOMAIN-SUFFIX,apps.mzstatic.com
@@ -65,10 +69,13 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,client-api.arkoselabs.com
+  - DOMAIN-SUFFIX,cloudaicompanion.googleapis.com
+  - DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
   - DOMAIN-SUFFIX,cursor-cdn.com
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,cursorapi.com
+  - DOMAIN-SUFFIX,daily-cloudcode-pa.googleapis.com
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,dola.com
@@ -96,8 +103,10 @@ payload:
   - DOMAIN-SUFFIX,livekit.cloud
   - DOMAIN-SUFFIX,makersuite.google.com
   - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
+  - DOMAIN-SUFFIX,notebooklm.googleapis.com
   - DOMAIN-SUFFIX,o33249.ingest.sentry.io
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
