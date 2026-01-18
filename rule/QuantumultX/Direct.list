@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-01-18 05:18:09
+# UPDATED: UTC+8 2026-01-19 05:18:55
 # HOST: 58
-# HOST-SUFFIX: 570
+# HOST-SUFFIX: 576
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 4
-# TOTAL: 672
+# TOTAL: 678
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -115,6 +115,7 @@ HOST-SUFFIX,antping.com,Direct
 HOST-SUFFIX,anycubic.com,Direct
 HOST-SUFFIX,anyrouter.top,Direct
 HOST-SUFFIX,api.myip.com,Direct
+HOST-SUFFIX,apm-log-upload-os.hoyoverse.com,Direct
 HOST-SUFFIX,aqtwwx.net,Direct
 HOST-SUFFIX,armvm.com,Direct
 HOST-SUFFIX,asiancinema.me,Direct
@@ -182,6 +183,7 @@ HOST-SUFFIX,concertos.live,Direct
 HOST-SUFFIX,congmiqq.com,Direct
 HOST-SUFFIX,coros.com,Direct
 HOST-SUFFIX,crtyhr.com,Direct
+HOST-SUFFIX,cyouzai.com,Direct
 HOST-SUFFIX,d4ctech.com,Direct
 HOST-SUFFIX,day.app,Direct
 HOST-SUFFIX,dcgstd.com,Direct
@@ -410,9 +412,11 @@ HOST-SUFFIX,manfuz.co,Direct
 HOST-SUFFIX,mc-user.com,Direct
 HOST-SUFFIX,meishiffx.online,Direct
 HOST-SUFFIX,members.3322.org,Direct
+HOST-SUFFIX,meoof-pet.com,Direct
 HOST-SUFFIX,micu.hk,Direct
 HOST-SUFFIX,mifeng.plus,Direct
 HOST-SUFFIX,mifon.com,Direct
+HOST-SUFFIX,minor-api-os.hoyoverse.com,Direct
 HOST-SUFFIX,mixly.org,Direct
 HOST-SUFFIX,mobai.sbs,Direct
 HOST-SUFFIX,modelscope.net,Direct
@@ -504,6 +508,7 @@ HOST-SUFFIX,scopus.com,Direct
 HOST-SUFFIX,scratch5.com,Direct
 HOST-SUFFIX,sct.ftqq.com,Direct
 HOST-SUFFIX,sdbits.org,Direct
+HOST-SUFFIX,sdk-log-upload-os.hoyoverse.com,Direct
 HOST-SUFFIX,seaflysoft.com,Direct
 HOST-SUFFIX,seedpace.com,Direct
 HOST-SUFFIX,sgtv.ii00.cc,Direct
@@ -636,6 +641,7 @@ HOST-SUFFIX,znztv.com,Direct
 HOST-SUFFIX,zsytit.com,Direct
 HOST-SUFFIX,ztytech.com,Direct
 HOST-SUFFIX,zuobiao.press,Direct
+HOST-SUFFIX,zzz-log-upload-os.hoyoverse.com,Direct
 HOST-KEYWORD,amp-api.podcasts.apple.com,Direct
 HOST-KEYWORD,anti-ad.net,Direct
 HOST-KEYWORD,api-adservices.apple.com,Direct

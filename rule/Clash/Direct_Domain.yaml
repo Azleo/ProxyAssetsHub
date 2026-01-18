@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-01-18 05:18:09
+# UPDATED: UTC+8 2026-01-19 05:18:55
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 570
+# DOMAIN-SUFFIX: 576
 # DOMAIN-KEYWORD: 39
-# TOTAL: 667
+# TOTAL: 673
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -114,6 +114,7 @@ payload:
   - DOMAIN-SUFFIX,anycubic.com
   - DOMAIN-SUFFIX,anyrouter.top
   - DOMAIN-SUFFIX,api.myip.com
+  - DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
   - DOMAIN-SUFFIX,aqtwwx.net
   - DOMAIN-SUFFIX,armvm.com
   - DOMAIN-SUFFIX,asiancinema.me
@@ -181,6 +182,7 @@ payload:
   - DOMAIN-SUFFIX,congmiqq.com
   - DOMAIN-SUFFIX,coros.com
   - DOMAIN-SUFFIX,crtyhr.com
+  - DOMAIN-SUFFIX,cyouzai.com
   - DOMAIN-SUFFIX,d4ctech.com
   - DOMAIN-SUFFIX,day.app
   - DOMAIN-SUFFIX,dcgstd.com
@@ -409,9 +411,11 @@ payload:
   - DOMAIN-SUFFIX,mc-user.com
   - DOMAIN-SUFFIX,meishiffx.online
   - DOMAIN-SUFFIX,members.3322.org
+  - DOMAIN-SUFFIX,meoof-pet.com
   - DOMAIN-SUFFIX,micu.hk
   - DOMAIN-SUFFIX,mifeng.plus
   - DOMAIN-SUFFIX,mifon.com
+  - DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
   - DOMAIN-SUFFIX,mixly.org
   - DOMAIN-SUFFIX,mobai.sbs
   - DOMAIN-SUFFIX,modelscope.net
@@ -503,6 +507,7 @@ payload:
   - DOMAIN-SUFFIX,scratch5.com
   - DOMAIN-SUFFIX,sct.ftqq.com
   - DOMAIN-SUFFIX,sdbits.org
+  - DOMAIN-SUFFIX,sdk-log-upload-os.hoyoverse.com
   - DOMAIN-SUFFIX,seaflysoft.com
   - DOMAIN-SUFFIX,seedpace.com
   - DOMAIN-SUFFIX,sgtv.ii00.cc
@@ -635,6 +640,7 @@ payload:
   - DOMAIN-SUFFIX,zsytit.com
   - DOMAIN-SUFFIX,ztytech.com
   - DOMAIN-SUFFIX,zuobiao.press
+  - DOMAIN-SUFFIX,zzz-log-upload-os.hoyoverse.com
   - DOMAIN-KEYWORD,amp-api.podcasts.apple.com
   - DOMAIN-KEYWORD,anti-ad.net
   - DOMAIN-KEYWORD,api-adservices.apple.com
