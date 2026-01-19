@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-01-19 05:18:55
+# UPDATED: UTC+8 2026-01-20 05:20:07
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 576
+# DOMAIN-SUFFIX: 578
 # DOMAIN-KEYWORD: 39
-# TOTAL: 673
+# TOTAL: 675
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -150,6 +150,7 @@ payload:
   - DOMAIN-SUFFIX,bunny.net
   - DOMAIN-SUFFIX,cabdirect.org
   - DOMAIN-SUFFIX,canghaiip.com
+  - DOMAIN-SUFFIX,cc.cd
   - DOMAIN-SUFFIX,ccfbits.org
   - DOMAIN-SUFFIX,cdn.ist
   - DOMAIN-SUFFIX,centbrowser.net
@@ -569,6 +570,7 @@ payload:
   - DOMAIN-SUFFIX,ulife.group
   - DOMAIN-SUFFIX,umiwi.com
   - DOMAIN-SUFFIX,upaiyun.com
+  - DOMAIN-SUFFIX,us.ci
   - DOMAIN-SUFFIX,vbkhk.com
   - DOMAIN-SUFFIX,vbkr.com
   - DOMAIN-SUFFIX,vbkrhk.com
