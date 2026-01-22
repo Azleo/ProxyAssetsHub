@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-01-22 05:28:24
+# UPDATED: UTC+8 2026-01-23 05:24:36
 # HOST: 58
-# HOST-SUFFIX: 579
+# HOST-SUFFIX: 607
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 4
-# TOTAL: 681
+# TOTAL: 709
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -100,6 +100,7 @@ HOST-SUFFIX,acm.org,Direct
 HOST-SUFFIX,adobe.com,Direct
 HOST-SUFFIX,afeica.com,Direct
 HOST-SUFFIX,afuns.me,Direct
+HOST-SUFFIX,aibeike.com,Direct
 HOST-SUFFIX,aichangbaishan.com,Direct
 HOST-SUFFIX,aidien.fun,Direct
 HOST-SUFFIX,aidoru-online.me,Direct
@@ -117,6 +118,7 @@ HOST-SUFFIX,anyrouter.top,Direct
 HOST-SUFFIX,api.myip.com,Direct
 HOST-SUFFIX,apm-log-upload-os.hoyoverse.com,Direct
 HOST-SUFFIX,aqtwwx.net,Direct
+HOST-SUFFIX,argotunnel.com,Direct
 HOST-SUFFIX,armvm.com,Direct
 HOST-SUFFIX,asiancinema.me,Direct
 HOST-SUFFIX,atticus.vip,Direct
@@ -124,7 +126,9 @@ HOST-SUFFIX,avgv.cc,Direct
 HOST-SUFFIX,avistaz.to,Direct
 HOST-SUFFIX,awesome-hd.me,Direct
 HOST-SUFFIX,awstme.top,Direct
+HOST-SUFFIX,axuex.top,Direct
 HOST-SUFFIX,baiyishequ.com,Direct
+HOST-SUFFIX,banban.work,Direct
 HOST-SUFFIX,bangumi.tv,Direct
 HOST-SUFFIX,baomitu.com,Direct
 HOST-SUFFIX,bdcb.cc,Direct
@@ -137,6 +141,8 @@ HOST-SUFFIX,biaoda.me,Direct
 HOST-SUFFIX,bibliotik.me,Direct
 HOST-SUFFIX,bilivideo.cn,Direct
 HOST-SUFFIX,bilivideo.com,Direct
+HOST-SUFFIX,bingshandashu.com,Direct
+HOST-SUFFIX,bjtzeduyun.com,Direct
 HOST-SUFFIX,blackwell-synergy.com,Direct
 HOST-SUFFIX,blog.google,Direct
 HOST-SUFFIX,blutopia.xyz,Direct
@@ -186,6 +192,8 @@ HOST-SUFFIX,coros.com,Direct
 HOST-SUFFIX,crtyhr.com,Direct
 HOST-SUFFIX,cyouzai.com,Direct
 HOST-SUFFIX,d4ctech.com,Direct
+HOST-SUFFIX,dadateach.com,Direct
+HOST-SUFFIX,dahai96.com,Direct
 HOST-SUFFIX,day.app,Direct
 HOST-SUFFIX,dcgstd.com,Direct
 HOST-SUFFIX,ddsrem.com,Direct
@@ -225,6 +233,7 @@ HOST-SUFFIX,easytomessage.com,Direct
 HOST-SUFFIX,einfo-tech.com,Direct
 HOST-SUFFIX,empornium.me,Direct
 HOST-SUFFIX,englibrary.com,Direct
+HOST-SUFFIX,enyugame.net,Direct
 HOST-SUFFIX,epark.cc,Direct
 HOST-SUFFIX,epg.aptv.app,Direct
 HOST-SUFFIX,epg.v1.mk,Direct
@@ -249,6 +258,7 @@ HOST-SUFFIX,frp-ski.com,Direct
 HOST-SUFFIX,fssbcc.top,Direct
 HOST-SUFFIX,fsytss.com,Direct
 HOST-SUFFIX,ft07.com,Direct
+HOST-SUFFIX,functorz.com,Direct
 HOST-SUFFIX,fus.cdn.krcom.cn,Direct
 HOST-SUFFIX,fuziche.com,Direct
 HOST-SUFFIX,fzvcolco.com,Direct
@@ -329,6 +339,7 @@ HOST-SUFFIX,hf-mirror.com,Direct
 HOST-SUFFIX,hhtvc.com,Direct
 HOST-SUFFIX,hijin.vip,Direct
 HOST-SUFFIX,hitpt.com,Direct
+HOST-SUFFIX,hiwms.com,Direct
 HOST-SUFFIX,hnxzctec.com,Direct
 HOST-SUFFIX,hsbc.com.hk,Direct
 HOST-SUFFIX,hstbroker.com,Direct
@@ -353,6 +364,7 @@ HOST-SUFFIX,ifconfig.co,Direct
 HOST-SUFFIX,ifengmap.com,Direct
 HOST-SUFFIX,ifish7.com,Direct
 HOST-SUFFIX,igpsport.com,Direct
+HOST-SUFFIX,ilucky.net,Direct
 HOST-SUFFIX,imacos.top,Direct
 HOST-SUFFIX,immortalwrt.org,Direct
 HOST-SUFFIX,iotrix.net,Direct
@@ -366,6 +378,7 @@ HOST-SUFFIX,j99.info,Direct
 HOST-SUFFIX,jduoduo.com,Direct
 HOST-SUFFIX,jfjt.cc,Direct
 HOST-SUFFIX,jh96095.com,Direct
+HOST-SUFFIX,jiaoyanyun.com,Direct
 HOST-SUFFIX,jiasule.com,Direct
 HOST-SUFFIX,jiliuwang.net,Direct
 HOST-SUFFIX,jingheiot.com,Direct
@@ -379,6 +392,7 @@ HOST-SUFFIX,julebu.co,Direct
 HOST-SUFFIX,jxjktzjt.com,Direct
 HOST-SUFFIX,jxpp.com,Direct
 HOST-SUFFIX,kaijiejinrong.com,Direct
+HOST-SUFFIX,kancaibao.com,Direct
 HOST-SUFFIX,karagarga.in,Direct
 HOST-SUFFIX,kaspersky-labs.com,Direct
 HOST-SUFFIX,kaspersky.com,Direct
@@ -403,21 +417,25 @@ HOST-SUFFIX,liunn.com,Direct
 HOST-SUFFIX,liveperson.net,Direct
 HOST-SUFFIX,longmenshuju.com,Direct
 HOST-SUFFIX,lsbj365.com,Direct
+HOST-SUFFIX,lucky.gd,Direct
 HOST-SUFFIX,lyihub.com,Direct
 HOST-SUFFIX,lyilife.com,Direct
 HOST-SUFFIX,lztr.me,Direct
 HOST-SUFFIX,m-team.cc,Direct
 HOST-SUFFIX,m-team.io,Direct
+HOST-SUFFIX,machtalk.net,Direct
 HOST-SUFFIX,madsrevolution.net,Direct
 HOST-SUFFIX,manfuz.co,Direct
 HOST-SUFFIX,mc-user.com,Direct
 HOST-SUFFIX,meishiffx.online,Direct
+HOST-SUFFIX,meiyitou.top,Direct
 HOST-SUFFIX,members.3322.org,Direct
 HOST-SUFFIX,meoof-pet.com,Direct
 HOST-SUFFIX,micu.hk,Direct
 HOST-SUFFIX,mifeng.plus,Direct
 HOST-SUFFIX,mifon.com,Direct
 HOST-SUFFIX,minor-api-os.hoyoverse.com,Direct
+HOST-SUFFIX,misea.top,Direct
 HOST-SUFFIX,mixly.org,Direct
 HOST-SUFFIX,mobai.sbs,Direct
 HOST-SUFFIX,modelscope.net,Direct
@@ -443,6 +461,7 @@ HOST-SUFFIX,nhk.or.jp,Direct
 HOST-SUFFIX,nicept.net,Direct
 HOST-SUFFIX,nicezhuanye.com,Direct
 HOST-SUFFIX,nn.ci,Direct
+HOST-SUFFIX,nodcloud.com,Direct
 HOST-SUFFIX,npupt.com,Direct
 HOST-SUFFIX,nxog.top,Direct
 HOST-SUFFIX,oceando.cloud,Direct
@@ -490,6 +509,7 @@ HOST-SUFFIX,qianxueyunke.com,Direct
 HOST-SUFFIX,qiaoxuesi.com,Direct
 HOST-SUFFIX,qinglue.com,Direct
 HOST-SUFFIX,qmeng.top,Direct
+HOST-SUFFIX,qweatherapi.com,Direct
 HOST-SUFFIX,rayws.top,Direct
 HOST-SUFFIX,redacted.ch,Direct
 HOST-SUFFIX,redenmc.com,Direct
@@ -543,6 +563,7 @@ HOST-SUFFIX,tailgdd.com,Direct
 HOST-SUFFIX,tailscale.com,Direct
 HOST-SUFFIX,tangguobaohe.com,Direct
 HOST-SUFFIX,tclai.top,Direct
+HOST-SUFFIX,tcp.mk,Direct
 HOST-SUFFIX,tcp.pub,Direct
 HOST-SUFFIX,tcp5.com,Direct
 HOST-SUFFIX,tcy365.net,Direct
@@ -551,6 +572,7 @@ HOST-SUFFIX,theluyuan.com,Direct
 HOST-SUFFIX,thinkerride.com,Direct
 HOST-SUFFIX,thmnet.com,Direct
 HOST-SUFFIX,timbrd.com,Direct
+HOST-SUFFIX,tixue.net,Direct
 HOST-SUFFIX,tjupt.org,Direct
 HOST-SUFFIX,tnas.link,Direct
 HOST-SUFFIX,tnas.online,Direct
@@ -593,6 +615,7 @@ HOST-SUFFIX,wewillpro.com,Direct
 HOST-SUFFIX,wiley.com,Direct
 HOST-SUFFIX,wjx.top,Direct
 HOST-SUFFIX,wlcdn88.com,Direct
+HOST-SUFFIX,wologic.net,Direct
 HOST-SUFFIX,wpurl.cc,Direct
 HOST-SUFFIX,wwwh.eu.org,Direct
 HOST-SUFFIX,wxdw.top,Direct
@@ -601,6 +624,7 @@ HOST-SUFFIX,xbcloudprint.com,Direct
 HOST-SUFFIX,xbgjw.com,Direct
 HOST-SUFFIX,xdqtech.com,Direct
 HOST-SUFFIX,xdtool.com,Direct
+HOST-SUFFIX,xesabc.com,Direct
 HOST-SUFFIX,xiankabao.com,Direct
 HOST-SUFFIX,xiaobeiyangji.com,Direct
 HOST-SUFFIX,xiaochuanyun.com,Direct
@@ -616,6 +640,7 @@ HOST-SUFFIX,xn--4kq62z5rby2qupq9ub.top,Direct
 HOST-SUFFIX,xn--cesw6hd3s99f.com,Direct
 HOST-SUFFIX,xopenbeta.com,Direct
 HOST-SUFFIX,xuanyuancode.com,Direct
+HOST-SUFFIX,xuepaipai.com,Direct
 HOST-SUFFIX,xunlei.com,Direct
 HOST-SUFFIX,xxir.com,Direct
 HOST-SUFFIX,xxrsm.com,Direct
@@ -623,6 +648,7 @@ HOST-SUFFIX,xzsckj.com,Direct
 HOST-SUFFIX,xzzhtc.com,Direct
 HOST-SUFFIX,ycjintou.com,Direct
 HOST-SUFFIX,ydayc.com,Direct
+HOST-SUFFIX,yicaiykt.com,Direct
 HOST-SUFFIX,yiso.fun,Direct
 HOST-SUFFIX,yixc.com,Direct
 HOST-SUFFIX,yongyu.xyz,Direct
@@ -631,12 +657,14 @@ HOST-SUFFIX,yunzuoye.net,Direct
 HOST-SUFFIX,yyshub.top,Direct
 HOST-SUFFIX,yzcsoft.com,Direct
 HOST-SUFFIX,z6e.com,Direct
+HOST-SUFFIX,zcloud.world,Direct
 HOST-SUFFIX,zctnet.top,Direct
 HOST-SUFFIX,zeekrline.com,Direct
 HOST-SUFFIX,zhi10.com,Direct
 HOST-SUFFIX,zhituwujie.com,Direct
 HOST-SUFFIX,zhixingyunke.com,Direct
 HOST-SUFFIX,zhongancloud.com,Direct
+HOST-SUFFIX,zhu.today,Direct
 HOST-SUFFIX,zjxhedu.com,Direct
 HOST-SUFFIX,zmis.me,Direct
 HOST-SUFFIX,znnu.com,Direct
