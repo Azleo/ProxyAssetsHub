@@ -1,13 +1,13 @@
 # NAME: OpenAI规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-01-29 05:29:42
+# UPDATED: UTC+8 2026-01-30 05:27:35
 # HOST: 11
-# HOST-SUFFIX: 34
+# HOST-SUFFIX: 35
 # HOST-KEYWORD: 3
 # IP-CIDR: 2
 # IP-ASN: 1
-# TOTAL: 51
+# TOTAL: 52
 HOST,api-iam.intercom.io,OpenAI
 HOST,api.statsig.com,OpenAI
 HOST,browser-intake-datadoghq.com,OpenAI
@@ -29,6 +29,7 @@ HOST-SUFFIX,chat.com,OpenAI
 HOST-SUFFIX,chatgpt.com,OpenAI
 HOST-SUFFIX,chatgpt.livekit.cloud,OpenAI
 HOST-SUFFIX,client-api.arkoselabs.com,OpenAI
+HOST-SUFFIX,crixet.com,OpenAI
 HOST-SUFFIX,events.statsigapi.net,OpenAI
 HOST-SUFFIX,featuregates.org,OpenAI
 HOST-SUFFIX,host.livekit.cloud,OpenAI

@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-01-29 05:29:41
+# UPDATED: UTC+8 2026-01-30 05:27:34
 # HOST: 58
-# HOST-SUFFIX: 613
+# HOST-SUFFIX: 616
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 4
-# TOTAL: 715
+# TOTAL: 718
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -195,6 +195,7 @@ HOST-SUFFIX,d4ctech.com,Direct
 HOST-SUFFIX,dadateach.com,Direct
 HOST-SUFFIX,dahai96.com,Direct
 HOST-SUFFIX,day.app,Direct
+HOST-SUFFIX,dayilive.com,Direct
 HOST-SUFFIX,dcgstd.com,Direct
 HOST-SUFFIX,ddsrem.com,Direct
 HOST-SUFFIX,ddzn.tech,Direct
@@ -381,6 +382,7 @@ HOST-SUFFIX,jfjt.cc,Direct
 HOST-SUFFIX,jh96095.com,Direct
 HOST-SUFFIX,jiaoyanyun.com,Direct
 HOST-SUFFIX,jiasule.com,Direct
+HOST-SUFFIX,jieyoutsg.com,Direct
 HOST-SUFFIX,jiliuwang.net,Direct
 HOST-SUFFIX,jingheiot.com,Direct
 HOST-SUFFIX,jiqw.com,Direct
@@ -430,6 +432,7 @@ HOST-SUFFIX,manfuz.co,Direct
 HOST-SUFFIX,mc-user.com,Direct
 HOST-SUFFIX,mchuiji.com,Direct
 HOST-SUFFIX,mcxyzt.cc,Direct
+HOST-SUFFIX,medtechshare.com,Direct
 HOST-SUFFIX,meishiffx.online,Direct
 HOST-SUFFIX,meiyitou.top,Direct
 HOST-SUFFIX,members.3322.org,Direct
