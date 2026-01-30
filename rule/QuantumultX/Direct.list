@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-01-30 05:27:34
+# UPDATED: UTC+8 2026-01-31 05:28:18
 # HOST: 58
-# HOST-SUFFIX: 616
+# HOST-SUFFIX: 619
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 4
-# TOTAL: 718
+# TOTAL: 721
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -337,6 +337,7 @@ HOST-SUFFIX,hdtime.org,Direct
 HOST-SUFFIX,hdupt.com,Direct
 HOST-SUFFIX,hdzone.me,Direct
 HOST-SUFFIX,hexiny.com,Direct
+HOST-SUFFIX,hezuvip.com,Direct
 HOST-SUFFIX,hf-mirror.com,Direct
 HOST-SUFFIX,hhtvc.com,Direct
 HOST-SUFFIX,hijin.vip,Direct
@@ -499,6 +500,7 @@ HOST-SUFFIX,plusjp1.younoyes.com,Direct
 HOST-SUFFIX,plusus1.younoyes.com,Direct
 HOST-SUFFIX,plusus2.younoyes.com,Direct
 HOST-SUFFIX,plusus3.younoyes.com,Direct
+HOST-SUFFIX,ponyemu.com,Direct
 HOST-SUFFIX,pool.ntp.org,Direct
 HOST-SUFFIX,pornbits.net,Direct
 HOST-SUFFIX,powershellgallery.com,Direct
@@ -641,6 +643,7 @@ HOST-SUFFIX,xiberia.net,Direct
 HOST-SUFFIX,ximogo.com,Direct
 HOST-SUFFIX,xinghaiwaimai.com,Direct
 HOST-SUFFIX,xingyaozhilian.com,Direct
+HOST-SUFFIX,xiqueer.com,Direct
 HOST-SUFFIX,xiwang.com,Direct
 HOST-SUFFIX,xixih.cc,Direct
 HOST-SUFFIX,xkkapk.com,Direct
