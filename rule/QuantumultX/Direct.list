@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-01-31 05:28:18
+# UPDATED: UTC+8 2026-02-01 05:21:47
 # HOST: 58
-# HOST-SUFFIX: 619
+# HOST-SUFFIX: 623
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 4
-# TOTAL: 721
+# TOTAL: 725
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -108,6 +108,8 @@ HOST-SUFFIX,aigodlike.com,Direct
 HOST-SUFFIX,aistudio-app.com,Direct
 HOST-SUFFIX,akamaihd.net,Direct
 HOST-SUFFIX,akamaized.net,Direct
+HOST-SUFFIX,alonginwind.eu.org,Direct
+HOST-SUFFIX,alonginwind.top,Direct
 HOST-SUFFIX,aloys233.top,Direct
 HOST-SUFFIX,alpharatio.cc,Direct
 HOST-SUFFIX,animebytes.tv,Direct
@@ -458,6 +460,7 @@ HOST-SUFFIX,myds.me,Direct
 HOST-SUFFIX,mykuaidi.com,Direct
 HOST-SUFFIX,myshopex.com,Direct
 HOST-SUFFIX,naixi.com,Direct
+HOST-SUFFIX,nanhuabx.com,Direct
 HOST-SUFFIX,nanshe-tech.com,Direct
 HOST-SUFFIX,nanyangpt.com,Direct
 HOST-SUFFIX,natchecker.com,Direct
@@ -546,6 +549,7 @@ HOST-SUFFIX,server2.cn2gias.uk,Direct
 HOST-SUFFIX,sgtv.ii00.cc,Direct
 HOST-SUFFIX,shanghai-parking.com,Direct
 HOST-SUFFIX,shineacc.com,Direct
+HOST-SUFFIX,shuangqingtech.com,Direct
 HOST-SUFFIX,shuinfo.com,Direct
 HOST-SUFFIX,shunjing.xin,Direct
 HOST-SUFFIX,shuqiandiqiu.com,Direct
