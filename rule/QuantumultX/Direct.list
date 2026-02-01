@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-02-01 05:21:47
+# UPDATED: UTC+8 2026-02-02 05:23:25
 # HOST: 58
-# HOST-SUFFIX: 623
+# HOST-SUFFIX: 630
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 4
-# TOTAL: 725
+# TOTAL: 732
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -66,11 +66,13 @@ HOST,vd.l.qq.com,Direct
 HOST,vi.l.qq.com,Direct
 HOST,vip.ffzyread.com,Direct
 HOST,vip.imgffzy.com,Direct
+HOST-SUFFIX,0044696.com,Direct
 HOST-SUFFIX,03241119.xyz,Direct
 HOST-SUFFIX,112114.xyz,Direct
 HOST-SUFFIX,115cdn.de,Direct
 HOST-SUFFIX,1996999.xyz,Direct
 HOST-SUFFIX,204cloud.com,Direct
+HOST-SUFFIX,365ting.com,Direct
 HOST-SUFFIX,3d-apollo.com,Direct
 HOST-SUFFIX,3dwhere.com,Direct
 HOST-SUFFIX,3gxk.net,Direct
@@ -105,6 +107,7 @@ HOST-SUFFIX,aichangbaishan.com,Direct
 HOST-SUFFIX,aidien.fun,Direct
 HOST-SUFFIX,aidoru-online.me,Direct
 HOST-SUFFIX,aigodlike.com,Direct
+HOST-SUFFIX,aisnogames.com,Direct
 HOST-SUFFIX,aistudio-app.com,Direct
 HOST-SUFFIX,akamaihd.net,Direct
 HOST-SUFFIX,akamaized.net,Direct
@@ -315,6 +318,7 @@ HOST-SUFFIX,gxnnjidingkeji.top,Direct
 HOST-SUFFIX,gzybao.com,Direct
 HOST-SUFFIX,halvie.com,Direct
 HOST-SUFFIX,ham.xin,Direct
+HOST-SUFFIX,hangnakeji.com,Direct
 HOST-SUFFIX,haoxueche.com,Direct
 HOST-SUFFIX,harbourmooc.com,Direct
 HOST-SUFFIX,hbcof.com,Direct
@@ -349,6 +353,7 @@ HOST-SUFFIX,hnxzctec.com,Direct
 HOST-SUFFIX,hsbc.com.hk,Direct
 HOST-SUFFIX,hstbroker.com,Direct
 HOST-SUFFIX,hszq6.com,Direct
+HOST-SUFFIX,htkgsx.com,Direct
 HOST-SUFFIX,hub.crdz.gq,Direct
 HOST-SUFFIX,hub.gitmirror.com,Direct
 HOST-SUFFIX,hub.rat.dev,Direct
@@ -372,6 +377,7 @@ HOST-SUFFIX,igpsport.com,Direct
 HOST-SUFFIX,ilucky.net,Direct
 HOST-SUFFIX,imacos.top,Direct
 HOST-SUFFIX,immortalwrt.org,Direct
+HOST-SUFFIX,iosgujian.com,Direct
 HOST-SUFFIX,iotrix.net,Direct
 HOST-SUFFIX,ip159.com,Direct
 HOST-SUFFIX,ip6.seeip.org,Direct
@@ -495,6 +501,7 @@ HOST-SUFFIX,paperang.com,Direct
 HOST-SUFFIX,passnat.com,Direct
 HOST-SUFFIX,passthepopcorn.me,Direct
 HOST-SUFFIX,pixcheese.com,Direct
+HOST-SUFFIX,pkghund.com,Direct
 HOST-SUFFIX,plusde1.younoyes.com,Direct
 HOST-SUFFIX,plushk1.younoyes.com,Direct
 HOST-SUFFIX,plushk2.younoyes.com,Direct

@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-02-01 05:21:47
+# UPDATED: UTC+8 2026-02-02 05:23:25
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 623
+# DOMAIN-SUFFIX: 630
 # DOMAIN-KEYWORD: 39
-# TOTAL: 720
+# TOTAL: 727
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -65,11 +65,13 @@ payload:
   - DOMAIN,vi.l.qq.com
   - DOMAIN,vip.ffzyread.com
   - DOMAIN,vip.imgffzy.com
+  - DOMAIN-SUFFIX,0044696.com
   - DOMAIN-SUFFIX,03241119.xyz
   - DOMAIN-SUFFIX,112114.xyz
   - DOMAIN-SUFFIX,115cdn.de
   - DOMAIN-SUFFIX,1996999.xyz
   - DOMAIN-SUFFIX,204cloud.com
+  - DOMAIN-SUFFIX,365ting.com
   - DOMAIN-SUFFIX,3d-apollo.com
   - DOMAIN-SUFFIX,3dwhere.com
   - DOMAIN-SUFFIX,3gxk.net
@@ -104,6 +106,7 @@ payload:
   - DOMAIN-SUFFIX,aidien.fun
   - DOMAIN-SUFFIX,aidoru-online.me
   - DOMAIN-SUFFIX,aigodlike.com
+  - DOMAIN-SUFFIX,aisnogames.com
   - DOMAIN-SUFFIX,aistudio-app.com
   - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN-SUFFIX,akamaized.net
@@ -314,6 +317,7 @@ payload:
   - DOMAIN-SUFFIX,gzybao.com
   - DOMAIN-SUFFIX,halvie.com
   - DOMAIN-SUFFIX,ham.xin
+  - DOMAIN-SUFFIX,hangnakeji.com
   - DOMAIN-SUFFIX,haoxueche.com
   - DOMAIN-SUFFIX,harbourmooc.com
   - DOMAIN-SUFFIX,hbcof.com
@@ -348,6 +352,7 @@ payload:
   - DOMAIN-SUFFIX,hsbc.com.hk
   - DOMAIN-SUFFIX,hstbroker.com
   - DOMAIN-SUFFIX,hszq6.com
+  - DOMAIN-SUFFIX,htkgsx.com
   - DOMAIN-SUFFIX,hub.crdz.gq
   - DOMAIN-SUFFIX,hub.gitmirror.com
   - DOMAIN-SUFFIX,hub.rat.dev
@@ -371,6 +376,7 @@ payload:
   - DOMAIN-SUFFIX,ilucky.net
   - DOMAIN-SUFFIX,imacos.top
   - DOMAIN-SUFFIX,immortalwrt.org
+  - DOMAIN-SUFFIX,iosgujian.com
   - DOMAIN-SUFFIX,iotrix.net
   - DOMAIN-SUFFIX,ip159.com
   - DOMAIN-SUFFIX,ip6.seeip.org
@@ -494,6 +500,7 @@ payload:
   - DOMAIN-SUFFIX,passnat.com
   - DOMAIN-SUFFIX,passthepopcorn.me
   - DOMAIN-SUFFIX,pixcheese.com
+  - DOMAIN-SUFFIX,pkghund.com
   - DOMAIN-SUFFIX,plusde1.younoyes.com
   - DOMAIN-SUFFIX,plushk1.younoyes.com
   - DOMAIN-SUFFIX,plushk2.younoyes.com
