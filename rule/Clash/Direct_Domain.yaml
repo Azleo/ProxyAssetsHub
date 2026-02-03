@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-02-02 05:23:25
+# UPDATED: UTC+8 2026-02-04 05:35:15
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 630
+# DOMAIN-SUFFIX: 633
 # DOMAIN-KEYWORD: 39
-# TOTAL: 727
+# TOTAL: 730
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -105,6 +105,7 @@ payload:
   - DOMAIN-SUFFIX,aichangbaishan.com
   - DOMAIN-SUFFIX,aidien.fun
   - DOMAIN-SUFFIX,aidoru-online.me
+  - DOMAIN-SUFFIX,aidream.website
   - DOMAIN-SUFFIX,aigodlike.com
   - DOMAIN-SUFFIX,aisnogames.com
   - DOMAIN-SUFFIX,aistudio-app.com
@@ -313,6 +314,7 @@ payload:
   - DOMAIN-SUFFIX,gsjkjt.com
   - DOMAIN-SUFFIX,gsnhcg.com
   - DOMAIN-SUFFIX,gsstic.com
+  - DOMAIN-SUFFIX,guaitao.cc
   - DOMAIN-SUFFIX,gxnnjidingkeji.top
   - DOMAIN-SUFFIX,gzybao.com
   - DOMAIN-SUFFIX,halvie.com
@@ -348,6 +350,7 @@ payload:
   - DOMAIN-SUFFIX,hijin.vip
   - DOMAIN-SUFFIX,hitpt.com
   - DOMAIN-SUFFIX,hiwms.com
+  - DOMAIN-SUFFIX,hkchat.app
   - DOMAIN-SUFFIX,hnxzctec.com
   - DOMAIN-SUFFIX,hsbc.com.hk
   - DOMAIN-SUFFIX,hstbroker.com

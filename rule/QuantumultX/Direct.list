@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-02-02 05:23:25
+# UPDATED: UTC+8 2026-02-04 05:35:15
 # HOST: 58
-# HOST-SUFFIX: 630
+# HOST-SUFFIX: 633
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 4
-# TOTAL: 732
+# TOTAL: 735
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -106,6 +106,7 @@ HOST-SUFFIX,aibeike.com,Direct
 HOST-SUFFIX,aichangbaishan.com,Direct
 HOST-SUFFIX,aidien.fun,Direct
 HOST-SUFFIX,aidoru-online.me,Direct
+HOST-SUFFIX,aidream.website,Direct
 HOST-SUFFIX,aigodlike.com,Direct
 HOST-SUFFIX,aisnogames.com,Direct
 HOST-SUFFIX,aistudio-app.com,Direct
@@ -314,6 +315,7 @@ HOST-SUFFIX,gsgltz.com,Direct
 HOST-SUFFIX,gsjkjt.com,Direct
 HOST-SUFFIX,gsnhcg.com,Direct
 HOST-SUFFIX,gsstic.com,Direct
+HOST-SUFFIX,guaitao.cc,Direct
 HOST-SUFFIX,gxnnjidingkeji.top,Direct
 HOST-SUFFIX,gzybao.com,Direct
 HOST-SUFFIX,halvie.com,Direct
@@ -349,6 +351,7 @@ HOST-SUFFIX,hhtvc.com,Direct
 HOST-SUFFIX,hijin.vip,Direct
 HOST-SUFFIX,hitpt.com,Direct
 HOST-SUFFIX,hiwms.com,Direct
+HOST-SUFFIX,hkchat.app,Direct
 HOST-SUFFIX,hnxzctec.com,Direct
 HOST-SUFFIX,hsbc.com.hk,Direct
 HOST-SUFFIX,hstbroker.com,Direct
