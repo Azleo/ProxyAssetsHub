@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-02-07 05:30:52
+# UPDATED: UTC+8 2026-02-08 05:26:55
 # HOST: 58
-# HOST-SUFFIX: 637
+# HOST-SUFFIX: 639
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
-# IP-CIDR: 4
-# TOTAL: 739
+# IP-CIDR: 6
+# TOTAL: 743
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -533,6 +533,7 @@ HOST-SUFFIX,qiankunshopping.com,Direct
 HOST-SUFFIX,qianuni.com,Direct
 HOST-SUFFIX,qianxuecloud.com,Direct
 HOST-SUFFIX,qianxueyunke.com,Direct
+HOST-SUFFIX,qiaoqiaoyun.com,Direct
 HOST-SUFFIX,qiaoxuesi.com,Direct
 HOST-SUFFIX,qinglue.com,Direct
 HOST-SUFFIX,qmeng.top,Direct
@@ -659,6 +660,7 @@ HOST-SUFFIX,xiaochuanyun.com,Direct
 HOST-SUFFIX,xiaoxia.vip,Direct
 HOST-SUFFIX,xiberia.net,Direct
 HOST-SUFFIX,ximogo.com,Direct
+HOST-SUFFIX,xingaochengtai.com,Direct
 HOST-SUFFIX,xinghaiwaimai.com,Direct
 HOST-SUFFIX,xingyaozhilian.com,Direct
 HOST-SUFFIX,xiqueer.com,Direct
@@ -744,6 +746,8 @@ HOST-KEYWORD,weather-edge.apple.com,Direct
 HOST-KEYWORD,westlawchina,Direct
 USER-AGENT,%e8%bf%85%e9%9b%b7,Direct
 IP-CIDR,108.174.48.100/32,Direct
+IP-CIDR,198.41.192.0/24,Direct
+IP-CIDR,198.41.200.0/24,Direct
 IP-CIDR,218.78.7.16/32,Direct
 IP-CIDR,5.5.5.5/32,Direct
 IP-CIDR,98.126.27.164/32,Direct
