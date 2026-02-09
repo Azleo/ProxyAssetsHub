@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-02-09 05:27:20
+# UPDATED: UTC+8 2026-02-10 05:39:10
 # HOST: 58
-# HOST-SUFFIX: 639
+# HOST-SUFFIX: 643
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 6
-# TOTAL: 743
+# TOTAL: 747
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -269,6 +269,7 @@ HOST-SUFFIX,ft07.com,Direct
 HOST-SUFFIX,functorz.com,Direct
 HOST-SUFFIX,fus.cdn.krcom.cn,Direct
 HOST-SUFFIX,fuziche.com,Direct
+HOST-SUFFIX,fzshouji.com,Direct
 HOST-SUFFIX,fzvcolco.com,Direct
 HOST-SUFFIX,fzwqq.com,Direct
 HOST-SUFFIX,gaishitongshu.com,Direct
@@ -485,6 +486,7 @@ HOST-SUFFIX,netzz.net,Direct
 HOST-SUFFIX,nhk.or.jp,Direct
 HOST-SUFFIX,nicept.net,Direct
 HOST-SUFFIX,nicezhuanye.com,Direct
+HOST-SUFFIX,nkxingxh.top,Direct
 HOST-SUFFIX,nn.ci,Direct
 HOST-SUFFIX,nodcloud.com,Direct
 HOST-SUFFIX,npupt.com,Direct
@@ -507,6 +509,7 @@ HOST-SUFFIX,p01.epsonconnect.com,Direct
 HOST-SUFFIX,paperang.com,Direct
 HOST-SUFFIX,passnat.com,Direct
 HOST-SUFFIX,passthepopcorn.me,Direct
+HOST-SUFFIX,piedaochuan.top,Direct
 HOST-SUFFIX,pixcheese.com,Direct
 HOST-SUFFIX,pkghund.com,Direct
 HOST-SUFFIX,plusde1.younoyes.com,Direct
@@ -596,6 +599,7 @@ HOST-SUFFIX,tcp.mk,Direct
 HOST-SUFFIX,tcp.pub,Direct
 HOST-SUFFIX,tcp5.com,Direct
 HOST-SUFFIX,tcy365.net,Direct
+HOST-SUFFIX,tdrgame.top,Direct
 HOST-SUFFIX,terra-master.com,Direct
 HOST-SUFFIX,theluyuan.com,Direct
 HOST-SUFFIX,thinkerride.com,Direct
