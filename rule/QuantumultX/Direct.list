@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-02-11 05:41:49
+# UPDATED: UTC+8 2026-02-12 05:33:33
 # HOST: 58
-# HOST-SUFFIX: 645
+# HOST-SUFFIX: 648
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 6
-# TOTAL: 749
+# TOTAL: 752
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -321,6 +321,7 @@ HOST-SUFFIX,gsjkjt.com,Direct
 HOST-SUFFIX,gsnhcg.com,Direct
 HOST-SUFFIX,gsstic.com,Direct
 HOST-SUFFIX,guaitao.cc,Direct
+HOST-SUFFIX,gwmapp-w.com,Direct
 HOST-SUFFIX,gxnnjidingkeji.top,Direct
 HOST-SUFFIX,gzybao.com,Direct
 HOST-SUFFIX,halvie.com,Direct
@@ -541,6 +542,7 @@ HOST-SUFFIX,qiaoqiaoyun.com,Direct
 HOST-SUFFIX,qiaoxuesi.com,Direct
 HOST-SUFFIX,qinglue.com,Direct
 HOST-SUFFIX,qmeng.top,Direct
+HOST-SUFFIX,quanxinfu.com,Direct
 HOST-SUFFIX,qweatherapi.com,Direct
 HOST-SUFFIX,rayws.top,Direct
 HOST-SUFFIX,redacted.ch,Direct
@@ -629,6 +631,7 @@ HOST-SUFFIX,ulife.group,Direct
 HOST-SUFFIX,umiwi.com,Direct
 HOST-SUFFIX,upaiyun.com,Direct
 HOST-SUFFIX,us.ci,Direct
+HOST-SUFFIX,vanjee.net,Direct
 HOST-SUFFIX,vbkhk.com,Direct
 HOST-SUFFIX,vbkr.com,Direct
 HOST-SUFFIX,vbkrhk.com,Direct
