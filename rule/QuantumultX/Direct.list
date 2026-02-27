@@ -1,7 +1,7 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-02-27 05:32:40
+# UPDATED: UTC+8 2026-02-28 05:29:41
 # HOST: 58
 # HOST-SUFFIX: 660
 # HOST-KEYWORD: 39
@@ -89,6 +89,7 @@ HOST-SUFFIX,55555.ink,Direct
 HOST-SUFFIX,657192.com,Direct
 HOST-SUFFIX,6v520.net,Direct
 HOST-SUFFIX,737698.xyz,Direct
+HOST-SUFFIX,77shuku.org,Direct
 HOST-SUFFIX,7sef.com,Direct
 HOST-SUFFIX,86656.net,Direct
 HOST-SUFFIX,8kc.top,Direct
@@ -113,7 +114,6 @@ HOST-SUFFIX,aigodlike.com,Direct
 HOST-SUFFIX,aisnogames.com,Direct
 HOST-SUFFIX,aistudio-app.com,Direct
 HOST-SUFFIX,akamaihd.net,Direct
-HOST-SUFFIX,akamaized.net,Direct
 HOST-SUFFIX,alonginwind.eu.org,Direct
 HOST-SUFFIX,alonginwind.top,Direct
 HOST-SUFFIX,aloys233.top,Direct
