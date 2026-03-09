@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-03-09 05:24:26
+# UPDATED: UTC+8 2026-03-10 05:33:29
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 668
+# DOMAIN-SUFFIX: 675
 # DOMAIN-KEYWORD: 39
-# TOTAL: 765
+# TOTAL: 772
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -68,11 +68,13 @@ payload:
   - DOMAIN-SUFFIX,00333118.com
   - DOMAIN-SUFFIX,0044696.com
   - DOMAIN-SUFFIX,03241119.xyz
+  - DOMAIN-SUFFIX,0734cn.top
   - DOMAIN-SUFFIX,112114.xyz
   - DOMAIN-SUFFIX,115cdn.de
   - DOMAIN-SUFFIX,17van.com
   - DOMAIN-SUFFIX,1996999.xyz
   - DOMAIN-SUFFIX,204cloud.com
+  - DOMAIN-SUFFIX,2mcnxs.cc
   - DOMAIN-SUFFIX,365ting.com
   - DOMAIN-SUFFIX,3d-apollo.com
   - DOMAIN-SUFFIX,3dwhere.com
@@ -378,9 +380,11 @@ payload:
   - DOMAIN-SUFFIX,hub.xdark.top
   - DOMAIN-SUFFIX,hudbt.hust.edu.cn
   - DOMAIN-SUFFIX,huikao8.com
+  - DOMAIN-SUFFIX,hutaoyun.top
   - DOMAIN-SUFFIX,hwbim.com
   - DOMAIN-SUFFIX,hwjianmo.com
   - DOMAIN-SUFFIX,hwzuku.com
+  - DOMAIN-SUFFIX,hybiome.com
   - DOMAIN-SUFFIX,hzlawyer.net
   - DOMAIN-SUFFIX,hzqsn.com
   - DOMAIN-SUFFIX,i234.me
@@ -458,6 +462,7 @@ payload:
   - DOMAIN-SUFFIX,machtalk.net
   - DOMAIN-SUFFIX,madsrevolution.net
   - DOMAIN-SUFFIX,manfuz.co
+  - DOMAIN-SUFFIX,mblyun.com
   - DOMAIN-SUFFIX,mc-user.com
   - DOMAIN-SUFFIX,mchuiji.com
   - DOMAIN-SUFFIX,mcxyzt.cc
@@ -678,6 +683,7 @@ payload:
   - DOMAIN-SUFFIX,xdqtech.com
   - DOMAIN-SUFFIX,xdtool.com
   - DOMAIN-SUFFIX,xesabc.com
+  - DOMAIN-SUFFIX,xfltd.org
   - DOMAIN-SUFFIX,xiankabao.com
   - DOMAIN-SUFFIX,xiaobeiyangji.com
   - DOMAIN-SUFFIX,xiaochuanyun.com
@@ -722,6 +728,7 @@ payload:
   - DOMAIN-SUFFIX,zhituwujie.com
   - DOMAIN-SUFFIX,zhixingyunke.com
   - DOMAIN-SUFFIX,zhongancloud.com
+  - DOMAIN-SUFFIX,zhouyiy.com
   - DOMAIN-SUFFIX,zhu.today
   - DOMAIN-SUFFIX,zjxhedu.com
   - DOMAIN-SUFFIX,zmis.me

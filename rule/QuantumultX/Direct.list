@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-03-09 05:24:26
+# UPDATED: UTC+8 2026-03-10 05:33:29
 # HOST: 58
-# HOST-SUFFIX: 668
+# HOST-SUFFIX: 675
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 6
-# TOTAL: 772
+# TOTAL: 779
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -69,11 +69,13 @@ HOST,vip.imgffzy.com,Direct
 HOST-SUFFIX,00333118.com,Direct
 HOST-SUFFIX,0044696.com,Direct
 HOST-SUFFIX,03241119.xyz,Direct
+HOST-SUFFIX,0734cn.top,Direct
 HOST-SUFFIX,112114.xyz,Direct
 HOST-SUFFIX,115cdn.de,Direct
 HOST-SUFFIX,17van.com,Direct
 HOST-SUFFIX,1996999.xyz,Direct
 HOST-SUFFIX,204cloud.com,Direct
+HOST-SUFFIX,2mcnxs.cc,Direct
 HOST-SUFFIX,365ting.com,Direct
 HOST-SUFFIX,3d-apollo.com,Direct
 HOST-SUFFIX,3dwhere.com,Direct
@@ -379,9 +381,11 @@ HOST-SUFFIX,hub.rat.dev,Direct
 HOST-SUFFIX,hub.xdark.top,Direct
 HOST-SUFFIX,hudbt.hust.edu.cn,Direct
 HOST-SUFFIX,huikao8.com,Direct
+HOST-SUFFIX,hutaoyun.top,Direct
 HOST-SUFFIX,hwbim.com,Direct
 HOST-SUFFIX,hwjianmo.com,Direct
 HOST-SUFFIX,hwzuku.com,Direct
+HOST-SUFFIX,hybiome.com,Direct
 HOST-SUFFIX,hzlawyer.net,Direct
 HOST-SUFFIX,hzqsn.com,Direct
 HOST-SUFFIX,i234.me,Direct
@@ -459,6 +463,7 @@ HOST-SUFFIX,m-team.io,Direct
 HOST-SUFFIX,machtalk.net,Direct
 HOST-SUFFIX,madsrevolution.net,Direct
 HOST-SUFFIX,manfuz.co,Direct
+HOST-SUFFIX,mblyun.com,Direct
 HOST-SUFFIX,mc-user.com,Direct
 HOST-SUFFIX,mchuiji.com,Direct
 HOST-SUFFIX,mcxyzt.cc,Direct
@@ -679,6 +684,7 @@ HOST-SUFFIX,xbgjw.com,Direct
 HOST-SUFFIX,xdqtech.com,Direct
 HOST-SUFFIX,xdtool.com,Direct
 HOST-SUFFIX,xesabc.com,Direct
+HOST-SUFFIX,xfltd.org,Direct
 HOST-SUFFIX,xiankabao.com,Direct
 HOST-SUFFIX,xiaobeiyangji.com,Direct
 HOST-SUFFIX,xiaochuanyun.com,Direct
@@ -723,6 +729,7 @@ HOST-SUFFIX,zhi10.com,Direct
 HOST-SUFFIX,zhituwujie.com,Direct
 HOST-SUFFIX,zhixingyunke.com,Direct
 HOST-SUFFIX,zhongancloud.com,Direct
+HOST-SUFFIX,zhouyiy.com,Direct
 HOST-SUFFIX,zhu.today,Direct
 HOST-SUFFIX,zjxhedu.com,Direct
 HOST-SUFFIX,zmis.me,Direct
