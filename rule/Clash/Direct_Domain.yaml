@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-03-13 05:33:02
+# UPDATED: UTC+8 2026-03-14 05:33:23
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 678
+# DOMAIN-SUFFIX: 679
 # DOMAIN-KEYWORD: 39
-# TOTAL: 775
+# TOTAL: 776
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -529,6 +529,7 @@ payload:
   - DOMAIN-SUFFIX,ourbits.club
   - DOMAIN-SUFFIX,ourschool.cc
   - DOMAIN-SUFFIX,p01.epsonconnect.com
+  - DOMAIN-SUFFIX,packertec.com
   - DOMAIN-SUFFIX,paperang.com
   - DOMAIN-SUFFIX,passnat.com
   - DOMAIN-SUFFIX,passthepopcorn.me
