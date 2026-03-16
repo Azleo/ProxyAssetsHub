@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-03-16 05:27:48
+# UPDATED: UTC+8 2026-03-17 05:40:00
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 680
+# DOMAIN-SUFFIX: 684
 # DOMAIN-KEYWORD: 39
-# TOTAL: 777
+# TOTAL: 781
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -95,6 +95,7 @@ payload:
   - DOMAIN-SUFFIX,737698.xyz
   - DOMAIN-SUFFIX,77shuku.org
   - DOMAIN-SUFFIX,7sef.com
+  - DOMAIN-SUFFIX,85sc.com
   - DOMAIN-SUFFIX,86656.net
   - DOMAIN-SUFFIX,8kc.top
   - DOMAIN-SUFFIX,900cha.com
@@ -141,6 +142,7 @@ payload:
   - DOMAIN-SUFFIX,awesome-hd.me
   - DOMAIN-SUFFIX,awstme.top
   - DOMAIN-SUFFIX,axuex.top
+  - DOMAIN-SUFFIX,babawar.com
   - DOMAIN-SUFFIX,baiyishequ.com
   - DOMAIN-SUFFIX,banban.work
   - DOMAIN-SUFFIX,bangumi.tv
@@ -557,6 +559,7 @@ payload:
   - DOMAIN-SUFFIX,ptlgs.org
   - DOMAIN-SUFFIX,ptsbao.club
   - DOMAIN-SUFFIX,pwithe.com
+  - DOMAIN-SUFFIX,qianfan.app
   - DOMAIN-SUFFIX,qiankunshopping.com
   - DOMAIN-SUFFIX,qianuni.com
   - DOMAIN-SUFFIX,qianxuecloud.com
@@ -685,6 +688,7 @@ payload:
   - DOMAIN-SUFFIX,x86pi.com
   - DOMAIN-SUFFIX,xbcloudprint.com
   - DOMAIN-SUFFIX,xbgjw.com
+  - DOMAIN-SUFFIX,xboxfan.com
   - DOMAIN-SUFFIX,xdqtech.com
   - DOMAIN-SUFFIX,xdtool.com
   - DOMAIN-SUFFIX,xesabc.com

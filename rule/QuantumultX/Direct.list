@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-03-16 05:27:48
+# UPDATED: UTC+8 2026-03-17 05:40:00
 # HOST: 58
-# HOST-SUFFIX: 680
+# HOST-SUFFIX: 684
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 6
-# TOTAL: 784
+# TOTAL: 788
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -96,6 +96,7 @@ HOST-SUFFIX,6v520.net,Direct
 HOST-SUFFIX,737698.xyz,Direct
 HOST-SUFFIX,77shuku.org,Direct
 HOST-SUFFIX,7sef.com,Direct
+HOST-SUFFIX,85sc.com,Direct
 HOST-SUFFIX,86656.net,Direct
 HOST-SUFFIX,8kc.top,Direct
 HOST-SUFFIX,900cha.com,Direct
@@ -142,6 +143,7 @@ HOST-SUFFIX,avistaz.to,Direct
 HOST-SUFFIX,awesome-hd.me,Direct
 HOST-SUFFIX,awstme.top,Direct
 HOST-SUFFIX,axuex.top,Direct
+HOST-SUFFIX,babawar.com,Direct
 HOST-SUFFIX,baiyishequ.com,Direct
 HOST-SUFFIX,banban.work,Direct
 HOST-SUFFIX,bangumi.tv,Direct
@@ -558,6 +560,7 @@ HOST-SUFFIX,ptl.gs,Direct
 HOST-SUFFIX,ptlgs.org,Direct
 HOST-SUFFIX,ptsbao.club,Direct
 HOST-SUFFIX,pwithe.com,Direct
+HOST-SUFFIX,qianfan.app,Direct
 HOST-SUFFIX,qiankunshopping.com,Direct
 HOST-SUFFIX,qianuni.com,Direct
 HOST-SUFFIX,qianxuecloud.com,Direct
@@ -686,6 +689,7 @@ HOST-SUFFIX,wxdw.top,Direct
 HOST-SUFFIX,x86pi.com,Direct
 HOST-SUFFIX,xbcloudprint.com,Direct
 HOST-SUFFIX,xbgjw.com,Direct
+HOST-SUFFIX,xboxfan.com,Direct
 HOST-SUFFIX,xdqtech.com,Direct
 HOST-SUFFIX,xdtool.com,Direct
 HOST-SUFFIX,xesabc.com,Direct
