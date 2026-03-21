@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-03-21 05:30:44
+# UPDATED: UTC+8 2026-03-22 05:26:01
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 689
+# DOMAIN-SUFFIX: 694
 # DOMAIN-KEYWORD: 39
-# TOTAL: 786
+# TOTAL: 791
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -167,6 +167,7 @@ payload:
   - DOMAIN-SUFFIX,bochaai.com
   - DOMAIN-SUFFIX,bochk.com
   - DOMAIN-SUFFIX,bootcss.com
+  - DOMAIN-SUFFIX,boxim.online
   - DOMAIN-SUFFIX,boyuemobile.com
   - DOMAIN-SUFFIX,broadcasthe.net
   - DOMAIN-SUFFIX,bsbsb.top
@@ -190,6 +191,7 @@ payload:
   - DOMAIN-SUFFIX,chenyuxia.com
   - DOMAIN-SUFFIX,cheriexsky.love
   - DOMAIN-SUFFIX,cheshire.top
+  - DOMAIN-SUFFIX,chessease.net
   - DOMAIN-SUFFIX,chii.in
   - DOMAIN-SUFFIX,chinatle.com
   - DOMAIN-SUFFIX,chujingapp.com
@@ -525,6 +527,7 @@ payload:
   - DOMAIN-SUFFIX,onebuygz.com
   - DOMAIN-SUFFIX,onetools.top
   - DOMAIN-SUFFIX,open.cd
+  - DOMAIN-SUFFIX,openkylin.top
   - DOMAIN-SUFFIX,opentrust.net
   - DOMAIN-SUFFIX,oppaiti.me
   - DOMAIN-SUFFIX,orpheus.network
@@ -681,6 +684,7 @@ payload:
   - DOMAIN-SUFFIX,wenyi188.com
   - DOMAIN-SUFFIX,weshape3d.com
   - DOMAIN-SUFFIX,wewillpro.com
+  - DOMAIN-SUFFIX,wildfirechat.net
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-SUFFIX,wjx.top
   - DOMAIN-SUFFIX,wlcdn88.com
@@ -697,6 +701,7 @@ payload:
   - DOMAIN-SUFFIX,xdtool.com
   - DOMAIN-SUFFIX,xesabc.com
   - DOMAIN-SUFFIX,xfltd.org
+  - DOMAIN-SUFFIX,xgzb.top
   - DOMAIN-SUFFIX,xiankabao.com
   - DOMAIN-SUFFIX,xiaobeiyangji.com
   - DOMAIN-SUFFIX,xiaochuanyun.com

@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-03-21 05:30:44
+# UPDATED: UTC+8 2026-03-22 05:26:01
 # HOST: 58
-# HOST-SUFFIX: 689
+# HOST-SUFFIX: 694
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 6
-# TOTAL: 793
+# TOTAL: 798
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -168,6 +168,7 @@ HOST-SUFFIX,blutopia.xyz,Direct
 HOST-SUFFIX,bochaai.com,Direct
 HOST-SUFFIX,bochk.com,Direct
 HOST-SUFFIX,bootcss.com,Direct
+HOST-SUFFIX,boxim.online,Direct
 HOST-SUFFIX,boyuemobile.com,Direct
 HOST-SUFFIX,broadcasthe.net,Direct
 HOST-SUFFIX,bsbsb.top,Direct
@@ -191,6 +192,7 @@ HOST-SUFFIX,checkipv6.dyndns.org,Direct
 HOST-SUFFIX,chenyuxia.com,Direct
 HOST-SUFFIX,cheriexsky.love,Direct
 HOST-SUFFIX,cheshire.top,Direct
+HOST-SUFFIX,chessease.net,Direct
 HOST-SUFFIX,chii.in,Direct
 HOST-SUFFIX,chinatle.com,Direct
 HOST-SUFFIX,chujingapp.com,Direct
@@ -526,6 +528,7 @@ HOST-SUFFIX,ol.epicgames.com,Direct
 HOST-SUFFIX,onebuygz.com,Direct
 HOST-SUFFIX,onetools.top,Direct
 HOST-SUFFIX,open.cd,Direct
+HOST-SUFFIX,openkylin.top,Direct
 HOST-SUFFIX,opentrust.net,Direct
 HOST-SUFFIX,oppaiti.me,Direct
 HOST-SUFFIX,orpheus.network,Direct
@@ -682,6 +685,7 @@ HOST-SUFFIX,webs.vc,Direct
 HOST-SUFFIX,wenyi188.com,Direct
 HOST-SUFFIX,weshape3d.com,Direct
 HOST-SUFFIX,wewillpro.com,Direct
+HOST-SUFFIX,wildfirechat.net,Direct
 HOST-SUFFIX,wiley.com,Direct
 HOST-SUFFIX,wjx.top,Direct
 HOST-SUFFIX,wlcdn88.com,Direct
@@ -698,6 +702,7 @@ HOST-SUFFIX,xdqtech.com,Direct
 HOST-SUFFIX,xdtool.com,Direct
 HOST-SUFFIX,xesabc.com,Direct
 HOST-SUFFIX,xfltd.org,Direct
+HOST-SUFFIX,xgzb.top,Direct
 HOST-SUFFIX,xiankabao.com,Direct
 HOST-SUFFIX,xiaobeiyangji.com,Direct
 HOST-SUFFIX,xiaochuanyun.com,Direct
