@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-03-29 05:29:37
+# UPDATED: UTC+8 2026-03-30 05:32:21
 # HOST: 58
-# HOST-SUFFIX: 698
+# HOST-SUFFIX: 699
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 6
-# TOTAL: 802
+# TOTAL: 803
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -179,6 +179,7 @@ HOST-SUFFIX,btschool.club,Direct
 HOST-SUFFIX,bunny.net,Direct
 HOST-SUFFIX,cabdirect.org,Direct
 HOST-SUFFIX,canghaiip.com,Direct
+HOST-SUFFIX,cangjie-lang.net,Direct
 HOST-SUFFIX,cc.cd,Direct
 HOST-SUFFIX,ccfbits.org,Direct
 HOST-SUFFIX,cdn.ist,Direct
