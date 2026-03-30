@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-03-30 05:32:21
+# UPDATED: UTC+8 2026-03-31 05:42:00
 # HOST: 58
-# HOST-SUFFIX: 699
+# HOST-SUFFIX: 702
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 6
-# TOTAL: 803
+# TOTAL: 806
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -290,6 +290,7 @@ HOST-SUFFIX,fsytss.com,Direct
 HOST-SUFFIX,ft07.com,Direct
 HOST-SUFFIX,functorz.com,Direct
 HOST-SUFFIX,fus.cdn.krcom.cn,Direct
+HOST-SUFFIX,fuyinkeji.top,Direct
 HOST-SUFFIX,fuziche.com,Direct
 HOST-SUFFIX,fzshouji.com,Direct
 HOST-SUFFIX,fzvcolco.com,Direct
@@ -582,6 +583,7 @@ HOST-SUFFIX,qinglue.com,Direct
 HOST-SUFFIX,qmeng.top,Direct
 HOST-SUFFIX,quanxinfu.com,Direct
 HOST-SUFFIX,qweatherapi.com,Direct
+HOST-SUFFIX,qzyun.net,Direct
 HOST-SUFFIX,rayws.top,Direct
 HOST-SUFFIX,redacted.ch,Direct
 HOST-SUFFIX,redenmc.com,Direct
@@ -724,6 +726,7 @@ HOST-SUFFIX,xixih.cc,Direct
 HOST-SUFFIX,xkkapk.com,Direct
 HOST-SUFFIX,xn--4kq62z5rby2qupq9ub.top,Direct
 HOST-SUFFIX,xn--cesw6hd3s99f.com,Direct
+HOST-SUFFIX,xn--vhqr42drhf5k7b.com,Direct
 HOST-SUFFIX,xopenbeta.com,Direct
 HOST-SUFFIX,xuanyuancode.com,Direct
 HOST-SUFFIX,xuepaipai.com,Direct
