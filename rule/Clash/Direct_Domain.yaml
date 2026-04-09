@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-04-09 05:40:52
+# UPDATED: UTC+8 2026-04-10 05:45:12
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 710
+# DOMAIN-SUFFIX: 708
 # DOMAIN-KEYWORD: 39
-# TOTAL: 807
+# TOTAL: 805
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -164,6 +164,7 @@ payload:
   - DOMAIN-SUFFIX,bilivideo.cn
   - DOMAIN-SUFFIX,bilivideo.com
   - DOMAIN-SUFFIX,bingshandashu.com
+  - DOMAIN-SUFFIX,bjssjsyy.com
   - DOMAIN-SUFFIX,bjtzeduyun.com
   - DOMAIN-SUFFIX,blackwell-synergy.com
   - DOMAIN-SUFFIX,blog.google
@@ -499,7 +500,6 @@ payload:
   - DOMAIN-SUFFIX,mifeng.plus
   - DOMAIN-SUFFIX,mifon.com
   - DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
-  - DOMAIN-SUFFIX,misea.top
   - DOMAIN-SUFFIX,mixly.org
   - DOMAIN-SUFFIX,mobai.sbs
   - DOMAIN-SUFFIX,modelscope.net
@@ -524,7 +524,6 @@ payload:
   - DOMAIN-SUFFIX,nebulance.io
   - DOMAIN-SUFFIX,neihang.net
   - DOMAIN-SUFFIX,netzz.net
-  - DOMAIN-SUFFIX,nhk.or.jp
   - DOMAIN-SUFFIX,nicept.net
   - DOMAIN-SUFFIX,nicezhuanye.com
   - DOMAIN-SUFFIX,nkxingxh.top
@@ -573,7 +572,6 @@ payload:
   - DOMAIN-SUFFIX,privatehd.to
   - DOMAIN-SUFFIX,pterclub.com
   - DOMAIN-SUFFIX,pthome.net
-  - DOMAIN-SUFFIX,ptl.gs
   - DOMAIN-SUFFIX,ptlgs.org
   - DOMAIN-SUFFIX,ptsbao.club
   - DOMAIN-SUFFIX,pwithe.com

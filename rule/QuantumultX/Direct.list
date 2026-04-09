@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-04-09 05:40:52
+# UPDATED: UTC+8 2026-04-10 05:45:12
 # HOST: 58
-# HOST-SUFFIX: 710
+# HOST-SUFFIX: 708
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 6
-# TOTAL: 814
+# TOTAL: 812
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -165,6 +165,7 @@ HOST-SUFFIX,bibliotik.me,Direct
 HOST-SUFFIX,bilivideo.cn,Direct
 HOST-SUFFIX,bilivideo.com,Direct
 HOST-SUFFIX,bingshandashu.com,Direct
+HOST-SUFFIX,bjssjsyy.com,Direct
 HOST-SUFFIX,bjtzeduyun.com,Direct
 HOST-SUFFIX,blackwell-synergy.com,Direct
 HOST-SUFFIX,blog.google,Direct
@@ -500,7 +501,6 @@ HOST-SUFFIX,micu.hk,Direct
 HOST-SUFFIX,mifeng.plus,Direct
 HOST-SUFFIX,mifon.com,Direct
 HOST-SUFFIX,minor-api-os.hoyoverse.com,Direct
-HOST-SUFFIX,misea.top,Direct
 HOST-SUFFIX,mixly.org,Direct
 HOST-SUFFIX,mobai.sbs,Direct
 HOST-SUFFIX,modelscope.net,Direct
@@ -525,7 +525,6 @@ HOST-SUFFIX,ncore.cc,Direct
 HOST-SUFFIX,nebulance.io,Direct
 HOST-SUFFIX,neihang.net,Direct
 HOST-SUFFIX,netzz.net,Direct
-HOST-SUFFIX,nhk.or.jp,Direct
 HOST-SUFFIX,nicept.net,Direct
 HOST-SUFFIX,nicezhuanye.com,Direct
 HOST-SUFFIX,nkxingxh.top,Direct
@@ -574,7 +573,6 @@ HOST-SUFFIX,privateapi.xyz,Direct
 HOST-SUFFIX,privatehd.to,Direct
 HOST-SUFFIX,pterclub.com,Direct
 HOST-SUFFIX,pthome.net,Direct
-HOST-SUFFIX,ptl.gs,Direct
 HOST-SUFFIX,ptlgs.org,Direct
 HOST-SUFFIX,ptsbao.club,Direct
 HOST-SUFFIX,pwithe.com,Direct
