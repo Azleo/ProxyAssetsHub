@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-04-12 05:33:39
+# UPDATED: UTC+8 2026-04-13 05:35:06
 # HOST: 58
-# HOST-SUFFIX: 713
+# HOST-SUFFIX: 717
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 6
-# TOTAL: 817
+# TOTAL: 821
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -218,6 +218,7 @@ HOST-SUFFIX,codeloop.top,Direct
 HOST-SUFFIX,coffee-iot.com,Direct
 HOST-SUFFIX,comicat.org,Direct
 HOST-SUFFIX,concertos.live,Direct
+HOST-SUFFIX,cone-x.com,Direct
 HOST-SUFFIX,congmiqq.com,Direct
 HOST-SUFFIX,coros.com,Direct
 HOST-SUFFIX,crtyhr.com,Direct
@@ -435,6 +436,7 @@ HOST-SUFFIX,j99.info,Direct
 HOST-SUFFIX,jduoduo.com,Direct
 HOST-SUFFIX,jfjt.cc,Direct
 HOST-SUFFIX,jh96095.com,Direct
+HOST-SUFFIX,jiangningwater.com,Direct
 HOST-SUFFIX,jiaoyanyun.com,Direct
 HOST-SUFFIX,jiasule.com,Direct
 HOST-SUFFIX,jieyoutsg.com,Direct
@@ -600,6 +602,7 @@ HOST-SUFFIX,rewards.bing.com,Direct
 HOST-SUFFIX,royqh.net,Direct
 HOST-SUFFIX,rsfcxq.com,Direct
 HOST-SUFFIX,ruijie.com,Direct
+HOST-SUFFIX,rxcrs.com,Direct
 HOST-SUFFIX,saduck.top,Direct
 HOST-SUFFIX,sanligu.top,Direct
 HOST-SUFFIX,sapphiretech.com,Direct
@@ -665,6 +668,7 @@ HOST-SUFFIX,tjupt.org,Direct
 HOST-SUFFIX,tmallyc.com,Direct
 HOST-SUFFIX,tnas.link,Direct
 HOST-SUFFIX,tnas.online,Direct
+HOST-SUFFIX,tongkask.com,Direct
 HOST-SUFFIX,tool56.com,Direct
 HOST-SUFFIX,topwd.top,Direct
 HOST-SUFFIX,totheglory.im,Direct

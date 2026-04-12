@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-04-12 05:33:39
+# UPDATED: UTC+8 2026-04-13 05:35:06
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 713
+# DOMAIN-SUFFIX: 717
 # DOMAIN-KEYWORD: 39
-# TOTAL: 810
+# TOTAL: 814
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -217,6 +217,7 @@ payload:
   - DOMAIN-SUFFIX,coffee-iot.com
   - DOMAIN-SUFFIX,comicat.org
   - DOMAIN-SUFFIX,concertos.live
+  - DOMAIN-SUFFIX,cone-x.com
   - DOMAIN-SUFFIX,congmiqq.com
   - DOMAIN-SUFFIX,coros.com
   - DOMAIN-SUFFIX,crtyhr.com
@@ -434,6 +435,7 @@ payload:
   - DOMAIN-SUFFIX,jduoduo.com
   - DOMAIN-SUFFIX,jfjt.cc
   - DOMAIN-SUFFIX,jh96095.com
+  - DOMAIN-SUFFIX,jiangningwater.com
   - DOMAIN-SUFFIX,jiaoyanyun.com
   - DOMAIN-SUFFIX,jiasule.com
   - DOMAIN-SUFFIX,jieyoutsg.com
@@ -599,6 +601,7 @@ payload:
   - DOMAIN-SUFFIX,royqh.net
   - DOMAIN-SUFFIX,rsfcxq.com
   - DOMAIN-SUFFIX,ruijie.com
+  - DOMAIN-SUFFIX,rxcrs.com
   - DOMAIN-SUFFIX,saduck.top
   - DOMAIN-SUFFIX,sanligu.top
   - DOMAIN-SUFFIX,sapphiretech.com
@@ -664,6 +667,7 @@ payload:
   - DOMAIN-SUFFIX,tmallyc.com
   - DOMAIN-SUFFIX,tnas.link
   - DOMAIN-SUFFIX,tnas.online
+  - DOMAIN-SUFFIX,tongkask.com
   - DOMAIN-SUFFIX,tool56.com
   - DOMAIN-SUFFIX,topwd.top
   - DOMAIN-SUFFIX,totheglory.im
