@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-04-13 05:35:06
+# UPDATED: UTC+8 2026-04-14 05:50:51
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 717
+# DOMAIN-SUFFIX: 719
 # DOMAIN-KEYWORD: 39
-# TOTAL: 814
+# TOTAL: 816
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -276,6 +276,7 @@ payload:
   - DOMAIN-SUFFIX,et8.org
   - DOMAIN-SUFFIX,everdrawing.com
   - DOMAIN-SUFFIX,excelbbx.net
+  - DOMAIN-SUFFIX,exiliumgf.com
   - DOMAIN-SUFFIX,exoticaz.to
   - DOMAIN-SUFFIX,f.video.weibocdn.com
   - DOMAIN-SUFFIX,familyds.com
@@ -477,6 +478,7 @@ payload:
   - DOMAIN-SUFFIX,leelen.com
   - DOMAIN-SUFFIX,letaoedu.com
   - DOMAIN-SUFFIX,lg3000.top
+  - DOMAIN-SUFFIX,lightmake.site
   - DOMAIN-SUFFIX,liunn.com
   - DOMAIN-SUFFIX,liveperson.net
   - DOMAIN-SUFFIX,longmenshuju.com

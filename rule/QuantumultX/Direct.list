@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-04-13 05:35:06
+# UPDATED: UTC+8 2026-04-14 05:50:51
 # HOST: 58
-# HOST-SUFFIX: 717
+# HOST-SUFFIX: 719
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 6
-# TOTAL: 821
+# TOTAL: 823
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -277,6 +277,7 @@ HOST-SUFFIX,et0731.com,Direct
 HOST-SUFFIX,et8.org,Direct
 HOST-SUFFIX,everdrawing.com,Direct
 HOST-SUFFIX,excelbbx.net,Direct
+HOST-SUFFIX,exiliumgf.com,Direct
 HOST-SUFFIX,exoticaz.to,Direct
 HOST-SUFFIX,f.video.weibocdn.com,Direct
 HOST-SUFFIX,familyds.com,Direct
@@ -478,6 +479,7 @@ HOST-SUFFIX,leaguehd.com,Direct
 HOST-SUFFIX,leelen.com,Direct
 HOST-SUFFIX,letaoedu.com,Direct
 HOST-SUFFIX,lg3000.top,Direct
+HOST-SUFFIX,lightmake.site,Direct
 HOST-SUFFIX,liunn.com,Direct
 HOST-SUFFIX,liveperson.net,Direct
 HOST-SUFFIX,longmenshuju.com,Direct
