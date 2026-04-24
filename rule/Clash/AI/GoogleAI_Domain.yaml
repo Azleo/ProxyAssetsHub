@@ -1,11 +1,11 @@
 # NAME: GoogleAI规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-04-24 05:46:28
+# UPDATED: UTC+8 2026-04-25 05:48:18
 # DOMAIN: 10
-# DOMAIN-SUFFIX: 38
+# DOMAIN-SUFFIX: 39
 # DOMAIN-KEYWORD: 5
-# TOTAL: 53
+# TOTAL: 54
 payload:
   - DOMAIN,robinfrontend-pa.googleapis.com
   - DOMAIN,ai.google.dev
@@ -19,6 +19,7 @@ payload:
   - DOMAIN,makersuite.google.com
   - DOMAIN-SUFFIX,ai.google.dev
   - DOMAIN-SUFFIX,ai.studio
+  - DOMAIN-SUFFIX,aicode.googleapis.com
   - DOMAIN-SUFFIX,aida.googleapis.com
   - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
   - DOMAIN-SUFFIX,aistudio.google.com
