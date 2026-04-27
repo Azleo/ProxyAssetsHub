@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-04-27 05:38:11
+# UPDATED: UTC+8 2026-04-28 05:53:17
 # HOST: 23956
-# HOST-SUFFIX: 14440
+# HOST-SUFFIX: 14442
 # HOST-KEYWORD: 189
 # USER-AGENT: 1
 # IP-CIDR: 187
 # IP6-CIDR: 2
-# TOTAL: 38775
+# TOTAL: 38777
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
 HOST,0026645142c89aeb1.com,AdvertisingLite
@@ -29096,6 +29096,7 @@ HOST-SUFFIX,etg98.com,AdvertisingLite
 HOST-SUFFIX,ethic.vip,AdvertisingLite
 HOST-SUFFIX,ethod.gzgmjcx.com,AdvertisingLite
 HOST-SUFFIX,etl.xlmc.sec.miui.com,AdvertisingLite
+HOST-SUFFIX,etoolads.cn,AdvertisingLite
 HOST-SUFFIX,etsmercisely.site,AdvertisingLite
 HOST-SUFFIX,eu.groupondata.com,AdvertisingLite
 HOST-SUFFIX,eulerian.brandalley.fr,AdvertisingLite
@@ -38189,6 +38190,7 @@ HOST-SUFFIX,zh1144.com,AdvertisingLite
 HOST-SUFFIX,zhaibei112.top,AdvertisingLite
 HOST-SUFFIX,zhamm.cn,AdvertisingLite
 HOST-SUFFIX,zhangkc.com,AdvertisingLite
+HOST-SUFFIX,zhangyuyidong.cn,AdvertisingLite
 HOST-SUFFIX,zhanjiangletian.com,AdvertisingLite
 HOST-SUFFIX,zhanzhang.baidu.com,AdvertisingLite
 HOST-SUFFIX,zhanzhang.net,AdvertisingLite
