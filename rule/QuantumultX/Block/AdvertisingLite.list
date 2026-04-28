@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-04-28 05:53:17
+# UPDATED: UTC+8 2026-04-29 05:57:53
 # HOST: 23956
-# HOST-SUFFIX: 14442
+# HOST-SUFFIX: 14444
 # HOST-KEYWORD: 189
 # USER-AGENT: 1
 # IP-CIDR: 187
 # IP6-CIDR: 2
-# TOTAL: 38777
+# TOTAL: 38779
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
 HOST,0026645142c89aeb1.com,AdvertisingLite
@@ -25853,6 +25853,7 @@ HOST-SUFFIX,advertising.com,AdvertisingLite
 HOST-SUFFIX,advertising.yahoo.com,AdvertisingLite
 HOST-SUFFIX,advice-ads-cdn.vice.com,AdvertisingLite
 HOST-SUFFIX,adview.cn,AdvertisingLite
+HOST-SUFFIX,advlion.com,AdvertisingLite
 HOST-SUFFIX,advmob.cn,AdvertisingLite
 HOST-SUFFIX,advombat.ru,AdvertisingLite
 HOST-SUFFIX,adwangmai.com,AdvertisingLite
@@ -38062,6 +38063,7 @@ HOST-SUFFIX,yunpifu.cn,AdvertisingLite
 HOST-SUFFIX,yunqingugm.com,AdvertisingLite
 HOST-SUFFIX,yunshipei.com,AdvertisingLite
 HOST-SUFFIX,yunsoka.com,AdvertisingLite
+HOST-SUFFIX,yunxish.com,AdvertisingLite
 HOST-SUFFIX,yunxiufang.net,AdvertisingLite
 HOST-SUFFIX,yunxuu.com,AdvertisingLite
 HOST-SUFFIX,yuxiangrc.com,AdvertisingLite

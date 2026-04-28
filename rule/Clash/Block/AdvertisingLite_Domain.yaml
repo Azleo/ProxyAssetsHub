@@ -1,11 +1,11 @@
 # NAME: AdvertisingLite规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-04-28 05:53:17
+# UPDATED: UTC+8 2026-04-29 05:57:53
 # DOMAIN: 23956
-# DOMAIN-SUFFIX: 14442
+# DOMAIN-SUFFIX: 14444
 # DOMAIN-KEYWORD: 189
-# TOTAL: 38587
+# TOTAL: 38589
 payload:
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
@@ -25851,6 +25851,7 @@ payload:
   - DOMAIN-SUFFIX,advertising.yahoo.com
   - DOMAIN-SUFFIX,advice-ads-cdn.vice.com
   - DOMAIN-SUFFIX,adview.cn
+  - DOMAIN-SUFFIX,advlion.com
   - DOMAIN-SUFFIX,advmob.cn
   - DOMAIN-SUFFIX,advombat.ru
   - DOMAIN-SUFFIX,adwangmai.com
@@ -38060,6 +38061,7 @@ payload:
   - DOMAIN-SUFFIX,yunqingugm.com
   - DOMAIN-SUFFIX,yunshipei.com
   - DOMAIN-SUFFIX,yunsoka.com
+  - DOMAIN-SUFFIX,yunxish.com
   - DOMAIN-SUFFIX,yunxiufang.net
   - DOMAIN-SUFFIX,yunxuu.com
   - DOMAIN-SUFFIX,yuxiangrc.com
