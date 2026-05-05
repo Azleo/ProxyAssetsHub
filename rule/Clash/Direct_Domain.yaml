@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-05-05 06:00:52
+# UPDATED: UTC+8 2026-05-06 06:00:38
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 735
+# DOMAIN-SUFFIX: 736
 # DOMAIN-KEYWORD: 39
-# TOTAL: 832
+# TOTAL: 833
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -790,6 +790,7 @@ payload:
   - DOMAIN-SUFFIX,zhongancloud.com
   - DOMAIN-SUFFIX,zhouyiy.com
   - DOMAIN-SUFFIX,zhu.today
+  - DOMAIN-SUFFIX,zjshulong.com
   - DOMAIN-SUFFIX,zjxhedu.com
   - DOMAIN-SUFFIX,zmis.me
   - DOMAIN-SUFFIX,znnu.com
