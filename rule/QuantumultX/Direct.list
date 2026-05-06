@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-05-06 06:00:38
+# UPDATED: UTC+8 2026-05-07 05:56:58
 # HOST: 58
-# HOST-SUFFIX: 736
+# HOST-SUFFIX: 741
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 6
-# TOTAL: 840
+# TOTAL: 845
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -349,6 +349,7 @@ HOST-SUFFIX,gmya.net,Direct
 HOST-SUFFIX,goalmapapp.com,Direct
 HOST-SUFFIX,goka.top,Direct
 HOST-SUFFIX,gongxiangjizhang.com,Direct
+HOST-SUFFIX,goofish.pro,Direct
 HOST-SUFFIX,googletraveladservices-cn.com,Direct
 HOST-SUFFIX,googletraveladservices.com,Direct
 HOST-SUFFIX,googoc.com,Direct
@@ -416,6 +417,7 @@ HOST-SUFFIX,huikao8.com,Direct
 HOST-SUFFIX,hutaoyun.top,Direct
 HOST-SUFFIX,hwbim.com,Direct
 HOST-SUFFIX,hwjianmo.com,Direct
+HOST-SUFFIX,hwwlyz.com,Direct
 HOST-SUFFIX,hwzuku.com,Direct
 HOST-SUFFIX,hybiome.com,Direct
 HOST-SUFFIX,hzlawyer.net,Direct
@@ -513,6 +515,7 @@ HOST-SUFFIX,melecode.com,Direct
 HOST-SUFFIX,meloong.com,Direct
 HOST-SUFFIX,members.3322.org,Direct
 HOST-SUFFIX,meoof-pet.com,Direct
+HOST-SUFFIX,miaotixing.com,Direct
 HOST-SUFFIX,micu.hk,Direct
 HOST-SUFFIX,mifeng.plus,Direct
 HOST-SUFFIX,mifon.com,Direct
@@ -692,6 +695,7 @@ HOST-SUFFIX,tozi-cn.top,Direct
 HOST-SUFFIX,tracking-protection.cdn.mozilla.net,Direct
 HOST-SUFFIX,trontv.com,Direct
 HOST-SUFFIX,ts3.ink,Direct
+HOST-SUFFIX,ttshitu.com,Direct
 HOST-SUFFIX,tulipsport.com,Direct
 HOST-SUFFIX,tumukaoyan.com,Direct
 HOST-SUFFIX,tuxing.art,Direct
@@ -764,6 +768,7 @@ HOST-SUFFIX,xuepaipai.com,Direct
 HOST-SUFFIX,xunlei.com,Direct
 HOST-SUFFIX,xxir.com,Direct
 HOST-SUFFIX,xxrsm.com,Direct
+HOST-SUFFIX,xyys.com,Direct
 HOST-SUFFIX,xzsckj.com,Direct
 HOST-SUFFIX,xzzhtc.com,Direct
 HOST-SUFFIX,yayi360.com,Direct
