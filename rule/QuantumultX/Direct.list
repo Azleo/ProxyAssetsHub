@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-05-10 05:42:59
+# UPDATED: UTC+8 2026-05-11 05:49:02
 # HOST: 58
-# HOST-SUFFIX: 745
+# HOST-SUFFIX: 748
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 6
-# TOTAL: 849
+# TOTAL: 852
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -227,6 +227,7 @@ HOST-SUFFIX,comicat.org,Direct
 HOST-SUFFIX,concertos.live,Direct
 HOST-SUFFIX,cone-x.com,Direct
 HOST-SUFFIX,congmiqq.com,Direct
+HOST-SUFFIX,constasj.me,Direct
 HOST-SUFFIX,coros.com,Direct
 HOST-SUFFIX,crtyhr.com,Direct
 HOST-SUFFIX,cyouzai.com,Direct
@@ -436,6 +437,7 @@ HOST-SUFFIX,ijingyi.com,Direct
 HOST-SUFFIX,ilucky.net,Direct
 HOST-SUFFIX,imacos.top,Direct
 HOST-SUFFIX,immortalwrt.org,Direct
+HOST-SUFFIX,infini-fantasy.com,Direct
 HOST-SUFFIX,iosgujian.com,Direct
 HOST-SUFFIX,iot889.com,Direct
 HOST-SUFFIX,iotrix.net,Direct
@@ -492,6 +494,7 @@ HOST-SUFFIX,leelen.com,Direct
 HOST-SUFFIX,letaoedu.com,Direct
 HOST-SUFFIX,lg3000.top,Direct
 HOST-SUFFIX,lightmake.site,Direct
+HOST-SUFFIX,linka2a.net,Direct
 HOST-SUFFIX,liunn.com,Direct
 HOST-SUFFIX,liveperson.net,Direct
 HOST-SUFFIX,longmenshuju.com,Direct
