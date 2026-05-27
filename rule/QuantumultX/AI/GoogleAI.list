@@ -1,11 +1,11 @@
 # NAME: GoogleAI规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-05-27 06:19:30
+# UPDATED: UTC+8 2026-05-28 06:40:45
 # HOST: 10
-# HOST-SUFFIX: 39
+# HOST-SUFFIX: 40
 # HOST-KEYWORD: 5
-# TOTAL: 54
+# TOTAL: 55
 # 包括子规则：AI Studio、Gemini
 HOST,robinfrontend-pa.googleapis.com,GoogleAI
 HOST,ai.google.dev,GoogleAI
@@ -39,6 +39,7 @@ HOST-SUFFIX,deepmind.google,GoogleAI
 HOST-SUFFIX,geller-pa.googleapis.com,GoogleAI
 HOST-SUFFIX,gemini.google,GoogleAI
 HOST-SUFFIX,gemini.google.com,GoogleAI
+HOST-SUFFIX,gemini.gstatic.com,GoogleAI
 HOST-SUFFIX,generativeai.google,GoogleAI
 HOST-SUFFIX,generativelanguage.googleapis.com,GoogleAI
 HOST-SUFFIX,jules.google,GoogleAI
