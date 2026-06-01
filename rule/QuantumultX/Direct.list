@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-06-01 05:59:30
+# UPDATED: UTC+8 2026-06-02 07:01:58
 # HOST: 58
-# HOST-SUFFIX: 758
+# HOST-SUFFIX: 759
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 6
-# TOTAL: 862
+# TOTAL: 863
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -447,6 +447,7 @@ HOST-SUFFIX,iotrix.net,Direct
 HOST-SUFFIX,ip159.com,Direct
 HOST-SUFFIX,ip6.seeip.org,Direct
 HOST-SUFFIX,ipapi.co,Direct
+HOST-SUFFIX,iposl.com,Direct
 HOST-SUFFIX,ipshu.com,Direct
 HOST-SUFFIX,istoreos.com,Direct
 HOST-SUFFIX,itptg.com,Direct
