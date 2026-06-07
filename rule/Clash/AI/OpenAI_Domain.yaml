@@ -1,11 +1,11 @@
 # NAME: OpenAI规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-06-07 06:02:23
+# UPDATED: UTC+8 2026-06-08 06:04:20
 # DOMAIN: 11
-# DOMAIN-SUFFIX: 35
+# DOMAIN-SUFFIX: 36
 # DOMAIN-KEYWORD: 3
-# TOTAL: 49
+# TOTAL: 50
 payload:
   - DOMAIN,api-iam.intercom.io
   - DOMAIN,api.statsig.com
@@ -39,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,livekit.cloud
   - DOMAIN-SUFFIX,o33249.ingest.sentry.io
   - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaistatsig.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,observeit.net
   - DOMAIN-SUFFIX,openai.com
