@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-07-08 06:10:26
+# UPDATED: UTC+8 2026-07-09 06:05:05
 # HOST: 58
-# HOST-SUFFIX: 766
+# HOST-SUFFIX: 767
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
-# IP-CIDR: 6
-# TOTAL: 870
+# IP-CIDR: 10
+# TOTAL: 875
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -152,6 +152,7 @@ HOST-SUFFIX,awesome-hd.me,Direct
 HOST-SUFFIX,awstme.top,Direct
 HOST-SUFFIX,axuex.top,Direct
 HOST-SUFFIX,babawar.com,Direct
+HOST-SUFFIX,baicaf.com,Direct
 HOST-SUFFIX,baiyishequ.com,Direct
 HOST-SUFFIX,banban.work,Direct
 HOST-SUFFIX,baomitu.com,Direct
@@ -876,5 +877,9 @@ IP-CIDR,108.174.48.100/32,Direct
 IP-CIDR,198.41.192.0/24,Direct
 IP-CIDR,198.41.200.0/24,Direct
 IP-CIDR,218.78.7.16/32,Direct
+IP-CIDR,47.246.103.0/24,Direct
+IP-CIDR,47.246.177.0/24,Direct
+IP-CIDR,47.246.180.0/24,Direct
+IP-CIDR,47.246.99.0/24,Direct
 IP-CIDR,5.5.5.5/32,Direct
 IP-CIDR,98.126.27.164/32,Direct
