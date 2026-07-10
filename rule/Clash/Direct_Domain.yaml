@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-07-10 06:21:54
+# UPDATED: UTC+8 2026-07-11 06:02:28
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 769
+# DOMAIN-SUFFIX: 774
 # DOMAIN-KEYWORD: 39
-# TOTAL: 866
+# TOTAL: 871
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -76,6 +76,7 @@ payload:
   - DOMAIN-SUFFIX,204cloud.com
   - DOMAIN-SUFFIX,2mcnxs.cc
   - DOMAIN-SUFFIX,365ting.com
+  - DOMAIN-SUFFIX,365wp.top
   - DOMAIN-SUFFIX,3d-apollo.com
   - DOMAIN-SUFFIX,3dwhere.com
   - DOMAIN-SUFFIX,3gxk.net
@@ -293,6 +294,7 @@ payload:
   - DOMAIN-SUFFIX,fdfinvoice.com
   - DOMAIN-SUFFIX,feihengip.com
   - DOMAIN-SUFFIX,feizhiyi.com
+  - DOMAIN-SUFFIX,fengda.me
   - DOMAIN-SUFFIX,fengsutb.com
   - DOMAIN-SUFFIX,ffhome.com
   - DOMAIN-SUFFIX,filelist.io
@@ -323,6 +325,7 @@ payload:
   - DOMAIN-SUFFIX,gdcucc.v1.mk
   - DOMAIN-SUFFIX,geektool.top
   - DOMAIN-SUFFIX,gegeselect.hk
+  - DOMAIN-SUFFIX,gelaiyun.net
   - DOMAIN-SUFFIX,gfxpeers.net
   - DOMAIN-SUFFIX,ggbond.org
   - DOMAIN-SUFFIX,gh-proxy.com
@@ -429,6 +432,7 @@ payload:
   - DOMAIN-SUFFIX,i234.me
   - DOMAIN-SUFFIX,icetorrent.org
   - DOMAIN-SUFFIX,icvcs.com
+  - DOMAIN-SUFFIX,idazhe.net
   - DOMAIN-SUFFIX,idsduf.com
   - DOMAIN-SUFFIX,ieee.org
   - DOMAIN-SUFFIX,ifconfig.co
@@ -621,6 +625,7 @@ payload:
   - DOMAIN-SUFFIX,qiaoqiaoyun.com
   - DOMAIN-SUFFIX,qiaoxuesi.com
   - DOMAIN-SUFFIX,qinglue.com
+  - DOMAIN-SUFFIX,qjmotorlink.com
   - DOMAIN-SUFFIX,qmeng.top
   - DOMAIN-SUFFIX,quanxinfu.com
   - DOMAIN-SUFFIX,qweapi.com
