@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-07-12 05:49:39
+# UPDATED: UTC+8 2026-07-13 05:50:09
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 775
+# DOMAIN-SUFFIX: 780
 # DOMAIN-KEYWORD: 39
-# TOTAL: 872
+# TOTAL: 877
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -136,6 +136,7 @@ payload:
   - DOMAIN-SUFFIX,anthelion.me
   - DOMAIN-SUFFIX,antping.com
   - DOMAIN-SUFFIX,anycubic.com
+  - DOMAIN-SUFFIX,anythinktech.com
   - DOMAIN-SUFFIX,anytocopy.com
   - DOMAIN-SUFFIX,ap-leasing.com
   - DOMAIN-SUFFIX,api.myip.com
@@ -402,6 +403,7 @@ payload:
   - DOMAIN-SUFFIX,hexiny.com
   - DOMAIN-SUFFIX,hezuvip.com
   - DOMAIN-SUFFIX,hf-mirror.com
+  - DOMAIN-SUFFIX,hfhs8x.info
   - DOMAIN-SUFFIX,hhtvc.com
   - DOMAIN-SUFFIX,hijin.vip
   - DOMAIN-SUFFIX,hitpt.com
@@ -570,6 +572,7 @@ payload:
   - DOMAIN-SUFFIX,nkxingxh.top
   - DOMAIN-SUFFIX,nn.ci
   - DOMAIN-SUFFIX,nodcloud.com
+  - DOMAIN-SUFFIX,noyer.eu.org
   - DOMAIN-SUFFIX,npupt.com
   - DOMAIN-SUFFIX,nxog.top
   - DOMAIN-SUFFIX,oceando.cloud
@@ -754,6 +757,7 @@ payload:
   - DOMAIN-SUFFIX,weather-map.apple.com
   - DOMAIN-SUFFIX,webs.vc
   - DOMAIN-SUFFIX,wenyi188.com
+  - DOMAIN-SUFFIX,wera.eu.org
   - DOMAIN-SUFFIX,weshape3d.com
   - DOMAIN-SUFFIX,wewillpro.com
   - DOMAIN-SUFFIX,wildfirechat.net
@@ -809,6 +813,7 @@ payload:
   - DOMAIN-SUFFIX,yingshi.dog
   - DOMAIN-SUFFIX,yiso.fun
   - DOMAIN-SUFFIX,yixc.com
+  - DOMAIN-SUFFIX,ymzec.com
   - DOMAIN-SUFFIX,yongyu.xyz
   - DOMAIN-SUFFIX,yooc.me
   - DOMAIN-SUFFIX,youzhiyouxing.com
