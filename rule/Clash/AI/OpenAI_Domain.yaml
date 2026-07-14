@@ -1,11 +1,11 @@
 # NAME: OpenAI规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-07-14 05:56:16
+# UPDATED: UTC+8 2026-07-15 05:57:24
 # DOMAIN: 11
-# DOMAIN-SUFFIX: 38
+# DOMAIN-SUFFIX: 39
 # DOMAIN-KEYWORD: 3
-# TOTAL: 52
+# TOTAL: 53
 payload:
   - DOMAIN,api-iam.intercom.io
   - DOMAIN,api.statsig.com
@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,chat.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+  - DOMAIN-SUFFIX,chatgpt.site
   - DOMAIN-SUFFIX,client-api.arkoselabs.com
   - DOMAIN-SUFFIX,crixet.com
   - DOMAIN-SUFFIX,events.statsigapi.net
