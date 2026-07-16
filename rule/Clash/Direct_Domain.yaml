@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-07-16 05:59:58
+# UPDATED: UTC+8 2026-07-17 06:03:14
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 782
+# DOMAIN-SUFFIX: 784
 # DOMAIN-KEYWORD: 39
-# TOTAL: 879
+# TOTAL: 881
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -726,6 +726,7 @@ payload:
   - DOMAIN-SUFFIX,totheglory.im
   - DOMAIN-SUFFIX,tozi-cn.top
   - DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
+  - DOMAIN-SUFFIX,trjho.com
   - DOMAIN-SUFFIX,trontv.com
   - DOMAIN-SUFFIX,ts3.ink
   - DOMAIN-SUFFIX,ttshitu.com
@@ -760,6 +761,7 @@ payload:
   - DOMAIN-SUFFIX,wenyi188.com
   - DOMAIN-SUFFIX,wera.eu.org
   - DOMAIN-SUFFIX,weshape3d.com
+  - DOMAIN-SUFFIX,wetolink.com
   - DOMAIN-SUFFIX,wewillpro.com
   - DOMAIN-SUFFIX,wildfirechat.net
   - DOMAIN-SUFFIX,wiley.com
