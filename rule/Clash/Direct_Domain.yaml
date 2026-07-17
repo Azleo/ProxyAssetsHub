@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-07-17 06:03:14
+# UPDATED: UTC+8 2026-07-18 05:53:50
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 784
+# DOMAIN-SUFFIX: 785
 # DOMAIN-KEYWORD: 39
-# TOTAL: 881
+# TOTAL: 882
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -670,6 +670,7 @@ payload:
   - DOMAIN-SUFFIX,shunjing.xin
   - DOMAIN-SUFFIX,shuqiandiqiu.com
   - DOMAIN-SUFFIX,shyxhy.com
+  - DOMAIN-SUFFIX,sisiim.com
   - DOMAIN-SUFFIX,sixloy428.top
   - DOMAIN-SUFFIX,sksight.com
   - DOMAIN-SUFFIX,skyey2.com

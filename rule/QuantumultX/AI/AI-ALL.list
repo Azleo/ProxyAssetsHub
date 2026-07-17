@@ -1,13 +1,13 @@
 # NAME: AI-ALL规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-07-17 06:03:15
+# UPDATED: UTC+8 2026-07-18 05:53:51
 # HOST: 34
-# HOST-SUFFIX: 103
+# HOST-SUFFIX: 104
 # HOST-KEYWORD: 8
 # IP-CIDR: 2
 # IP-ASN: 1
-# TOTAL: 148
+# TOTAL: 149
 # -- AI合集 --
 HOST,ai.google.dev,AI-ALL
 HOST,aistudio.google.com,AI-ALL
@@ -88,6 +88,7 @@ HOST-SUFFIX,deepmind.google,AI-ALL
 HOST-SUFFIX,dola.com,AI-ALL
 HOST-SUFFIX,events.statsigapi.net,AI-ALL
 HOST-SUFFIX,featuregates.org,AI-ALL
+HOST-SUFFIX,flow.google,AI-ALL
 HOST-SUFFIX,gateway.icloud.com,AI-ALL
 HOST-SUFFIX,geller-pa.googleapis.com,AI-ALL
 HOST-SUFFIX,gemini.google,AI-ALL
