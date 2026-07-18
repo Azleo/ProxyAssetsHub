@@ -1,16 +1,19 @@
 # NAME: AI-ALL规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-07-18 05:53:51
-# DOMAIN: 34
-# DOMAIN-SUFFIX: 104
+# UPDATED: UTC+8 2026-07-19 05:50:44
+# DOMAIN: 38
+# DOMAIN-SUFFIX: 108
 # DOMAIN-KEYWORD: 8
-# TOTAL: 146
+# TOTAL: 154
 payload:
   - DOMAIN,ai.google.dev
   - DOMAIN,aistudio.google.com
   - DOMAIN,alkalicore-pa.clients6.google.com
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN,anthropic-com.ghost.io
+  - DOMAIN,anthropic.auth0.com
+  - DOMAIN,anthropic.com.cdn.cloudflare.net
   - DOMAIN,antigravity-unleash.goog
   - DOMAIN,antigravity.google
   - DOMAIN,api-iam.intercom.io
@@ -38,6 +41,7 @@ payload:
   - DOMAIN,pplx-res.cloudinary.com
   - DOMAIN,production-openaicom-storage.azureedge.net
   - DOMAIN,robinfrontend-pa.googleapis.com
+  - DOMAIN,servd-anthropic-website.b-cdn.net
   - DOMAIN,static.cloudflareinsights.com
   - DOMAIN,sydney.bing.com
   - DOMAIN,www.bing.com
@@ -70,8 +74,12 @@ payload:
   - DOMAIN-SUFFIX,chatgpt.site
   - DOMAIN-SUFFIX,cici.com
   - DOMAIN-SUFFIX,ciciai.com
+  - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
+  - DOMAIN-SUFFIX,claudemcpclient.com
+  - DOMAIN-SUFFIX,claudemcpcontent.com
+  - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,client-api.arkoselabs.com
   - DOMAIN-SUFFIX,cloudaicompanion.googleapis.com
   - DOMAIN-SUFFIX,cloudcode-pa.googleapis.com

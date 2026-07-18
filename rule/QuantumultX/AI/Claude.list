@@ -1,11 +1,19 @@
 # NAME: Claude规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-07-18 05:53:52
-# HOST: 1
-# HOST-SUFFIX: 3
-# TOTAL: 4
+# UPDATED: UTC+8 2026-07-19 05:50:45
+# HOST: 5
+# HOST-SUFFIX: 7
+# TOTAL: 12
+HOST,anthropic-com.ghost.io,Claude
+HOST,anthropic.auth0.com,Claude
+HOST,anthropic.com.cdn.cloudflare.net,Claude
 HOST,cdn.usefathom.com,Claude
+HOST,servd-anthropic-website.b-cdn.net,Claude
 HOST-SUFFIX,anthropic.com,Claude
+HOST-SUFFIX,clau.de,Claude
 HOST-SUFFIX,claude.ai,Claude
 HOST-SUFFIX,claude.com,Claude
+HOST-SUFFIX,claudemcpclient.com,Claude
+HOST-SUFFIX,claudemcpcontent.com,Claude
+HOST-SUFFIX,claudeusercontent.com,Claude

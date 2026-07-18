@@ -1,18 +1,21 @@
 # NAME: AI-ALL规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-07-18 05:53:51
-# HOST: 34
-# HOST-SUFFIX: 104
+# UPDATED: UTC+8 2026-07-19 05:50:44
+# HOST: 38
+# HOST-SUFFIX: 108
 # HOST-KEYWORD: 8
 # IP-CIDR: 2
 # IP-ASN: 1
-# TOTAL: 149
+# TOTAL: 157
 # -- AI合集 --
 HOST,ai.google.dev,AI-ALL
 HOST,aistudio.google.com,AI-ALL
 HOST,alkalicore-pa.clients6.google.com,AI-ALL
 HOST,alkalimakersuite-pa.clients6.google.com,AI-ALL
+HOST,anthropic-com.ghost.io,AI-ALL
+HOST,anthropic.auth0.com,AI-ALL
+HOST,anthropic.com.cdn.cloudflare.net,AI-ALL
 HOST,antigravity-unleash.goog,AI-ALL
 HOST,antigravity.google,AI-ALL
 HOST,api-iam.intercom.io,AI-ALL
@@ -40,6 +43,7 @@ HOST,openaicomproductionae4b.blob.core.windows.net,AI-ALL
 HOST,pplx-res.cloudinary.com,AI-ALL
 HOST,production-openaicom-storage.azureedge.net,AI-ALL
 HOST,robinfrontend-pa.googleapis.com,AI-ALL
+HOST,servd-anthropic-website.b-cdn.net,AI-ALL
 HOST,static.cloudflareinsights.com,AI-ALL
 HOST,sydney.bing.com,AI-ALL
 HOST,www.bing.com,AI-ALL
@@ -72,8 +76,12 @@ HOST-SUFFIX,chatgpt.livekit.cloud,AI-ALL
 HOST-SUFFIX,chatgpt.site,AI-ALL
 HOST-SUFFIX,cici.com,AI-ALL
 HOST-SUFFIX,ciciai.com,AI-ALL
+HOST-SUFFIX,clau.de,AI-ALL
 HOST-SUFFIX,claude.ai,AI-ALL
 HOST-SUFFIX,claude.com,AI-ALL
+HOST-SUFFIX,claudemcpclient.com,AI-ALL
+HOST-SUFFIX,claudemcpcontent.com,AI-ALL
+HOST-SUFFIX,claudeusercontent.com,AI-ALL
 HOST-SUFFIX,client-api.arkoselabs.com,AI-ALL
 HOST-SUFFIX,cloudaicompanion.googleapis.com,AI-ALL
 HOST-SUFFIX,cloudcode-pa.googleapis.com,AI-ALL

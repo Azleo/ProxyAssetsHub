@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-07-18 05:53:50
+# UPDATED: UTC+8 2026-07-19 05:50:44
 # HOST: 58
-# HOST-SUFFIX: 785
+# HOST-SUFFIX: 788
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 893
+# TOTAL: 896
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -577,6 +577,7 @@ HOST-SUFFIX,nodcloud.com,Direct
 HOST-SUFFIX,noyer.eu.org,Direct
 HOST-SUFFIX,npupt.com,Direct
 HOST-SUFFIX,nxog.top,Direct
+HOST-SUFFIX,oai.sb,Direct
 HOST-SUFFIX,oceando.cloud,Direct
 HOST-SUFFIX,ok321.top,Direct
 HOST-SUFFIX,ol.epicgames.com,Direct
@@ -656,6 +657,7 @@ HOST-SUFFIX,scnyw.com,Direct
 HOST-SUFFIX,scopus.com,Direct
 HOST-SUFFIX,scratch5.com,Direct
 HOST-SUFFIX,sct.ftqq.com,Direct
+HOST-SUFFIX,scyol.com,Direct
 HOST-SUFFIX,sdbits.org,Direct
 HOST-SUFFIX,sdk-log-upload-os.hoyoverse.com,Direct
 HOST-SUFFIX,seaflysoft.com,Direct
@@ -775,6 +777,7 @@ HOST-SUFFIX,wpurl.cc,Direct
 HOST-SUFFIX,wwwh.eu.org,Direct
 HOST-SUFFIX,wwwwqq.com,Direct
 HOST-SUFFIX,wxdw.top,Direct
+HOST-SUFFIX,x-gpu.com,Direct
 HOST-SUFFIX,x86pi.com,Direct
 HOST-SUFFIX,xbcloudprint.com,Direct
 HOST-SUFFIX,xbgjw.com,Direct
