@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-07-23 06:02:41
+# UPDATED: UTC+8 2026-07-24 06:02:55
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 791
+# DOMAIN-SUFFIX: 793
 # DOMAIN-KEYWORD: 39
-# TOTAL: 888
+# TOTAL: 890
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -384,6 +384,7 @@ payload:
   - DOMAIN-SUFFIX,harbourmooc.com
   - DOMAIN-SUFFIX,hbcof.com
   - DOMAIN-SUFFIX,hbctic.com
+  - DOMAIN-SUFFIX,hbymfswz.com
   - DOMAIN-SUFFIX,hd-space.org
   - DOMAIN-SUFFIX,hd4.xyz
   - DOMAIN-SUFFIX,hd4fans.org
@@ -855,6 +856,7 @@ payload:
   - DOMAIN-SUFFIX,ztytech.com
   - DOMAIN-SUFFIX,zuobiao.press
   - DOMAIN-SUFFIX,zysou.com
+  - DOMAIN-SUFFIX,zzr.cc
   - DOMAIN-SUFFIX,zzz-log-upload-os.hoyoverse.com
   - DOMAIN-KEYWORD,amp-api.podcasts.apple.com
   - DOMAIN-KEYWORD,anti-ad.net
