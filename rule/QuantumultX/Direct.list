@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-07-28 06:06:48
+# UPDATED: UTC+8 2026-07-29 06:03:45
 # HOST: 58
-# HOST-SUFFIX: 798
+# HOST-SUFFIX: 803
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 906
+# TOTAL: 911
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -235,6 +235,7 @@ HOST-SUFFIX,coros.com,Direct
 HOST-SUFFIX,crrcgo.cc,Direct
 HOST-SUFFIX,crtyhr.com,Direct
 HOST-SUFFIX,csqaq.com,Direct
+HOST-SUFFIX,cym520.top,Direct
 HOST-SUFFIX,cyouzai.com,Direct
 HOST-SUFFIX,d4ctech.com,Direct
 HOST-SUFFIX,dadateach.com,Direct
@@ -315,6 +316,7 @@ HOST-SUFFIX,frp-ski.com,Direct
 HOST-SUFFIX,fssbcc.top,Direct
 HOST-SUFFIX,fsytss.com,Direct
 HOST-SUFFIX,ft07.com,Direct
+HOST-SUFFIX,ftqq.com,Direct
 HOST-SUFFIX,functorz.com,Direct
 HOST-SUFFIX,fus.cdn.krcom.cn,Direct
 HOST-SUFFIX,fussengroup.com,Direct
@@ -384,6 +386,7 @@ HOST-SUFFIX,halvie.com,Direct
 HOST-SUFFIX,ham.xin,Direct
 HOST-SUFFIX,hangnakeji.com,Direct
 HOST-SUFFIX,haofanhuoban.com,Direct
+HOST-SUFFIX,haojieyun.com,Direct
 HOST-SUFFIX,haoxueche.com,Direct
 HOST-SUFFIX,harbourmooc.com,Direct
 HOST-SUFFIX,hbcof.com,Direct
@@ -477,6 +480,7 @@ HOST-SUFFIX,jiasule.com,Direct
 HOST-SUFFIX,jieyoutsg.com,Direct
 HOST-SUFFIX,jiliuwang.net,Direct
 HOST-SUFFIX,jingheiot.com,Direct
+HOST-SUFFIX,jinzanzan.com,Direct
 HOST-SUFFIX,jiqw.com,Direct
 HOST-SUFFIX,jjzyy.org,Direct
 HOST-SUFFIX,joyhd.net,Direct
@@ -862,6 +866,7 @@ HOST-SUFFIX,zsytit.com,Direct
 HOST-SUFFIX,ztytech.com,Direct
 HOST-SUFFIX,zuobiao.press,Direct
 HOST-SUFFIX,zysou.com,Direct
+HOST-SUFFIX,zzclass.com,Direct
 HOST-SUFFIX,zzr.cc,Direct
 HOST-SUFFIX,zzz-log-upload-os.hoyoverse.com,Direct
 HOST-KEYWORD,amp-api.podcasts.apple.com,Direct

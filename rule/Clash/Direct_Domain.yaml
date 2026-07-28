@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-07-28 06:06:48
+# UPDATED: UTC+8 2026-07-29 06:03:45
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 798
+# DOMAIN-SUFFIX: 803
 # DOMAIN-KEYWORD: 39
-# TOTAL: 895
+# TOTAL: 900
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -234,6 +234,7 @@ payload:
   - DOMAIN-SUFFIX,crrcgo.cc
   - DOMAIN-SUFFIX,crtyhr.com
   - DOMAIN-SUFFIX,csqaq.com
+  - DOMAIN-SUFFIX,cym520.top
   - DOMAIN-SUFFIX,cyouzai.com
   - DOMAIN-SUFFIX,d4ctech.com
   - DOMAIN-SUFFIX,dadateach.com
@@ -314,6 +315,7 @@ payload:
   - DOMAIN-SUFFIX,fssbcc.top
   - DOMAIN-SUFFIX,fsytss.com
   - DOMAIN-SUFFIX,ft07.com
+  - DOMAIN-SUFFIX,ftqq.com
   - DOMAIN-SUFFIX,functorz.com
   - DOMAIN-SUFFIX,fus.cdn.krcom.cn
   - DOMAIN-SUFFIX,fussengroup.com
@@ -383,6 +385,7 @@ payload:
   - DOMAIN-SUFFIX,ham.xin
   - DOMAIN-SUFFIX,hangnakeji.com
   - DOMAIN-SUFFIX,haofanhuoban.com
+  - DOMAIN-SUFFIX,haojieyun.com
   - DOMAIN-SUFFIX,haoxueche.com
   - DOMAIN-SUFFIX,harbourmooc.com
   - DOMAIN-SUFFIX,hbcof.com
@@ -476,6 +479,7 @@ payload:
   - DOMAIN-SUFFIX,jieyoutsg.com
   - DOMAIN-SUFFIX,jiliuwang.net
   - DOMAIN-SUFFIX,jingheiot.com
+  - DOMAIN-SUFFIX,jinzanzan.com
   - DOMAIN-SUFFIX,jiqw.com
   - DOMAIN-SUFFIX,jjzyy.org
   - DOMAIN-SUFFIX,joyhd.net
@@ -861,6 +865,7 @@ payload:
   - DOMAIN-SUFFIX,ztytech.com
   - DOMAIN-SUFFIX,zuobiao.press
   - DOMAIN-SUFFIX,zysou.com
+  - DOMAIN-SUFFIX,zzclass.com
   - DOMAIN-SUFFIX,zzr.cc
   - DOMAIN-SUFFIX,zzz-log-upload-os.hoyoverse.com
   - DOMAIN-KEYWORD,amp-api.podcasts.apple.com
