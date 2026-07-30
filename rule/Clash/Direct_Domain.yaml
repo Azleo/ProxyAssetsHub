@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-07-30 06:00:48
+# UPDATED: UTC+8 2026-07-31 06:04:57
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 803
+# DOMAIN-SUFFIX: 805
 # DOMAIN-KEYWORD: 39
-# TOTAL: 900
+# TOTAL: 902
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -279,6 +279,7 @@ payload:
   - DOMAIN-SUFFIX,eastgame.org
   - DOMAIN-SUFFIX,easytier.top
   - DOMAIN-SUFFIX,easytomessage.com
+  - DOMAIN-SUFFIX,eceshi.com
   - DOMAIN-SUFFIX,einfo-tech.com
   - DOMAIN-SUFFIX,emby.yun
   - DOMAIN-SUFFIX,empornium.me
@@ -419,6 +420,7 @@ payload:
   - DOMAIN-SUFFIX,hitpt.com
   - DOMAIN-SUFFIX,hiwms.com
   - DOMAIN-SUFFIX,hkchat.app
+  - DOMAIN-SUFFIX,hnchasing.com
   - DOMAIN-SUFFIX,hnxzctec.com
   - DOMAIN-SUFFIX,hongxingdl.com
   - DOMAIN-SUFFIX,hongxingdl.love
