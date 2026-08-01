@@ -1,11 +1,11 @@
 # NAME: AdvertisingLite规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-08-01 06:04:54
-# DOMAIN: 23956
+# UPDATED: UTC+8 2026-08-02 05:55:46
+# DOMAIN: 23952
 # DOMAIN-SUFFIX: 14444
 # DOMAIN-KEYWORD: 189
-# TOTAL: 38589
+# TOTAL: 38585
 payload:
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
@@ -113,7 +113,6 @@ payload:
   - DOMAIN,114yeah.com
   - DOMAIN,11599jgj.com
   - DOMAIN,116b.com
-  - DOMAIN,118.89.204.198
   - DOMAIN,118114.cn
   - DOMAIN,1188.com
   - DOMAIN,11888vip.cn
@@ -2817,7 +2816,6 @@ payload:
   - DOMAIN,apparest.com
   - DOMAIN,appboy.eu
   - DOMAIN,appboycdn.com
-  - DOMAIN,appcloud2.in.zhihu.com
   - DOMAIN,appconsent.io
   - DOMAIN,appendad.com
   - DOMAIN,applog-perf.uc.cn
@@ -13556,7 +13554,6 @@ payload:
   - DOMAIN,mqnklgnucy.com
   - DOMAIN,mqohsosljexz.com
   - DOMAIN,mqpx4.com
-  - DOMAIN,mqtt.zhihu.com
   - DOMAIN,mquvqdhzgfyjl.com
   - DOMAIN,mr-rank.de
   - DOMAIN,mrhtltayffbrgv.com
@@ -19184,7 +19181,6 @@ payload:
   - DOMAIN,sudvykphfph.com
   - DOMAIN,suedai.com
   - DOMAIN,suewgrsq.com
-  - DOMAIN,sugar.zhihu.com
   - DOMAIN,sugarcurtain.com
   - DOMAIN,sugqlryshxarn.com
   - DOMAIN,suite6ixty6ix.com

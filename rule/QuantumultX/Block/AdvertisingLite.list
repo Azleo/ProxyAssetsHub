@@ -1,14 +1,13 @@
 # NAME: AdvertisingLite规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-08-01 06:04:54
-# HOST: 23956
+# UPDATED: UTC+8 2026-08-02 05:55:46
+# HOST: 23952
 # HOST-SUFFIX: 14444
 # HOST-KEYWORD: 189
-# USER-AGENT: 1
-# IP-CIDR: 187
-# IP6-CIDR: 2
-# TOTAL: 38779
+# IP-CIDR: 186
+# IP6-CIDR: 1
+# TOTAL: 38772
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
 HOST,0026645142c89aeb1.com,AdvertisingLite
@@ -115,7 +114,6 @@ HOST,114study.adsame.com,AdvertisingLite
 HOST,114yeah.com,AdvertisingLite
 HOST,11599jgj.com,AdvertisingLite
 HOST,116b.com,AdvertisingLite
-HOST,118.89.204.198,AdvertisingLite
 HOST,118114.cn,AdvertisingLite
 HOST,1188.com,AdvertisingLite
 HOST,11888vip.cn,AdvertisingLite
@@ -2819,7 +2817,6 @@ HOST,apparede.com,AdvertisingLite
 HOST,apparest.com,AdvertisingLite
 HOST,appboy.eu,AdvertisingLite
 HOST,appboycdn.com,AdvertisingLite
-HOST,appcloud2.in.zhihu.com,AdvertisingLite
 HOST,appconsent.io,AdvertisingLite
 HOST,appendad.com,AdvertisingLite
 HOST,applog-perf.uc.cn,AdvertisingLite
@@ -13558,7 +13555,6 @@ HOST,mqmtjoshdvlow.com,AdvertisingLite
 HOST,mqnklgnucy.com,AdvertisingLite
 HOST,mqohsosljexz.com,AdvertisingLite
 HOST,mqpx4.com,AdvertisingLite
-HOST,mqtt.zhihu.com,AdvertisingLite
 HOST,mquvqdhzgfyjl.com,AdvertisingLite
 HOST,mr-rank.de,AdvertisingLite
 HOST,mrhtltayffbrgv.com,AdvertisingLite
@@ -19186,7 +19182,6 @@ HOST,suddensidewalk.com,AdvertisingLite
 HOST,sudvykphfph.com,AdvertisingLite
 HOST,suedai.com,AdvertisingLite
 HOST,suewgrsq.com,AdvertisingLite
-HOST,sugar.zhihu.com,AdvertisingLite
 HOST,sugarcurtain.com,AdvertisingLite
 HOST,sugqlryshxarn.com,AdvertisingLite
 HOST,suite6ixty6ix.com,AdvertisingLite
@@ -38598,7 +38593,6 @@ HOST-KEYWORD,xn--2qux23c9ziyrq,AdvertisingLite
 HOST-KEYWORD,xxshuyuan,AdvertisingLite
 HOST-KEYWORD,ynuf.alipay.com,AdvertisingLite
 HOST-KEYWORD,zjtoolbar,AdvertisingLite
-USER-AGENT,avos*,AdvertisingLite
 IP-CIDR,1.3.0.10/32,AdvertisingLite
 IP-CIDR,10.72.25.0/24,AdvertisingLite
 IP-CIDR,101.124.19.122/32,AdvertisingLite
@@ -38646,7 +38640,6 @@ IP-CIDR,117.92.229.188/32,AdvertisingLite
 IP-CIDR,118.144.88.126/32,AdvertisingLite
 IP-CIDR,118.144.88.215/32,AdvertisingLite
 IP-CIDR,118.144.88.216/32,AdvertisingLite
-IP-CIDR,118.89.204.198/32,AdvertisingLite
 IP-CIDR,119.188.13.0/24,AdvertisingLite
 IP-CIDR,119.4.249.166/32,AdvertisingLite
 IP-CIDR,120.132.57.41/32,AdvertisingLite
@@ -38786,5 +38779,4 @@ IP-CIDR,67.229.224.28/32,AdvertisingLite
 IP-CIDR,69.28.57.245/32,AdvertisingLite
 IP-CIDR,74.117.182.77/32,AdvertisingLite
 IP-CIDR,78.140.131.214/32,AdvertisingLite
-IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,AdvertisingLite
 IP6-CIDR,2402:db40:5100:1011::5/128,AdvertisingLite
