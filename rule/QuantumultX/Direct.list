@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-08-04 06:08:03
+# UPDATED: UTC+8 2026-08-05 06:11:21
 # HOST: 58
-# HOST-SUFFIX: 809
+# HOST-SUFFIX: 813
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 917
+# TOTAL: 921
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -213,6 +213,7 @@ HOST-SUFFIX,cheshire.top,Direct
 HOST-SUFFIX,chessease.net,Direct
 HOST-SUFFIX,chii.in,Direct
 HOST-SUFFIX,chinatle.com,Direct
+HOST-SUFFIX,chuguansmart.com,Direct
 HOST-SUFFIX,chujingapp.com,Direct
 HOST-SUFFIX,chushi.cool,Direct
 HOST-SUFFIX,cinemageddon.net,Direct
@@ -254,6 +255,7 @@ HOST-SUFFIX,dfhog.com,Direct
 HOST-SUFFIX,dhub.kubesre.xyz,Direct
 HOST-SUFFIX,dicmusic.club,Direct
 HOST-SUFFIX,dingdingzn.com,Direct
+HOST-SUFFIX,dircleaner.com,Direct
 HOST-SUFFIX,discfan.net,Direct
 HOST-SUFFIX,diskstation.me,Direct
 HOST-SUFFIX,divoiotcloud.com,Direct
@@ -825,6 +827,7 @@ HOST-SUFFIX,xn--4kq62z5rby2qupq9ub.top,Direct
 HOST-SUFFIX,xn--cesw6hd3s99f.com,Direct
 HOST-SUFFIX,xn--mmz.cc,Direct
 HOST-SUFFIX,xn--vhqr42drhf5k7b.com,Direct
+HOST-SUFFIX,xn--zfru1ggxt.fun,Direct
 HOST-SUFFIX,xopenbeta.com,Direct
 HOST-SUFFIX,xuanyuancode.com,Direct
 HOST-SUFFIX,xuepaipai.com,Direct
@@ -842,6 +845,7 @@ HOST-SUFFIX,yingshi.dog,Direct
 HOST-SUFFIX,yiso.fun,Direct
 HOST-SUFFIX,yixc.com,Direct
 HOST-SUFFIX,ymzec.com,Direct
+HOST-SUFFIX,ynsj001.com,Direct
 HOST-SUFFIX,yongyu.xyz,Direct
 HOST-SUFFIX,yooc.me,Direct
 HOST-SUFFIX,youzhiyouxing.com,Direct
