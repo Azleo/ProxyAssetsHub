@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-08-07 08:59:59
+# UPDATED: UTC+8 2026-08-08 05:38:08
 # HOST: 58
-# HOST-SUFFIX: 820
+# HOST-SUFFIX: 824
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 928
+# TOTAL: 932
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -686,6 +686,7 @@ HOST-SUFFIX,sdbits.org,Direct
 HOST-SUFFIX,sdk-log-upload-os.hoyoverse.com,Direct
 HOST-SUFFIX,seaflysoft.com,Direct
 HOST-SUFFIX,seedpace.com,Direct
+HOST-SUFFIX,senachina.com,Direct
 HOST-SUFFIX,server2.cn2gias.uk,Direct
 HOST-SUFFIX,sgtv.ii00.cc,Direct
 HOST-SUFFIX,shanghai-parking.com,Direct
@@ -714,7 +715,9 @@ HOST-SUFFIX,starlink.uno,Direct
 HOST-SUFFIX,staticfile.org,Direct
 HOST-SUFFIX,stats.qiumibao.com,Direct
 HOST-SUFFIX,stkfanli.com,Direct
+HOST-SUFFIX,sufe.me,Direct
 HOST-SUFFIX,sunrisecontent.akamaized.net,Direct
+HOST-SUFFIX,suntl.com,Direct
 HOST-SUFFIX,susudesu.com,Direct
 HOST-SUFFIX,suu-fun.com,Direct
 HOST-SUFFIX,suyur.com,Direct
@@ -884,6 +887,7 @@ HOST-SUFFIX,ztytech.com,Direct
 HOST-SUFFIX,zuobiao.press,Direct
 HOST-SUFFIX,zysou.com,Direct
 HOST-SUFFIX,zzclass.com,Direct
+HOST-SUFFIX,zzqrgs3148.vip,Direct
 HOST-SUFFIX,zzr.cc,Direct
 HOST-SUFFIX,zzz-log-upload-os.hoyoverse.com,Direct
 HOST-KEYWORD,amp-api.podcasts.apple.com,Direct
