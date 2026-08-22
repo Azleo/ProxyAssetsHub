@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-08-22 05:23:13
+# UPDATED: UTC+8 2026-08-23 05:20:41
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 845
+# DOMAIN-SUFFIX: 851
 # DOMAIN-KEYWORD: 39
-# TOTAL: 942
+# TOTAL: 948
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -207,6 +207,7 @@ payload:
   - DOMAIN-SUFFIX,ccfbits.org
   - DOMAIN-SUFFIX,ccw.site
   - DOMAIN-SUFFIX,cdn.ist
+  - DOMAIN-SUFFIX,cdut.top
   - DOMAIN-SUFFIX,centbrowser.net
   - DOMAIN-SUFFIX,cftunnel.com
   - DOMAIN-SUFFIX,cg3da.com
@@ -394,6 +395,7 @@ payload:
   - DOMAIN-SUFFIX,gsnhcg.com
   - DOMAIN-SUFFIX,gsstic.com
   - DOMAIN-SUFFIX,guaitao.cc
+  - DOMAIN-SUFFIX,guang233.com
   - DOMAIN-SUFFIX,guangyapan.com
   - DOMAIN-SUFFIX,gvgoo.com
   - DOMAIN-SUFFIX,gwmapp-w.com
@@ -654,6 +656,7 @@ payload:
   - DOMAIN-SUFFIX,pool.ntp.org
   - DOMAIN-SUFFIX,pornbits.net
   - DOMAIN-SUFFIX,powershellgallery.com
+  - DOMAIN-SUFFIX,ppt28.com
   - DOMAIN-SUFFIX,privateapi.xyz
   - DOMAIN-SUFFIX,privatehd.to
   - DOMAIN-SUFFIX,pterclub.com
@@ -906,10 +909,13 @@ payload:
   - DOMAIN-SUFFIX,ztytech.com
   - DOMAIN-SUFFIX,zuobiao.press
   - DOMAIN-SUFFIX,zysou.com
+  - DOMAIN-SUFFIX,zyyct.com
   - DOMAIN-SUFFIX,zzclass.com
   - DOMAIN-SUFFIX,zzqrgs3148.vip
   - DOMAIN-SUFFIX,zzr.cc
   - DOMAIN-SUFFIX,zzz-log-upload-os.hoyoverse.com
+  - DOMAIN-SUFFIX,zzzcaculator.top
+  - DOMAIN-SUFFIX,zzzmap.com
   - DOMAIN-KEYWORD,amp-api.podcasts.apple.com
   - DOMAIN-KEYWORD,anti-ad.net
   - DOMAIN-KEYWORD,api-adservices.apple.com

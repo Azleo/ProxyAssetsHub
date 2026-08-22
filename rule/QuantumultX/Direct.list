@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-08-22 05:23:13
+# UPDATED: UTC+8 2026-08-23 05:20:41
 # HOST: 58
-# HOST-SUFFIX: 845
+# HOST-SUFFIX: 851
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 953
+# TOTAL: 959
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -208,6 +208,7 @@ HOST-SUFFIX,cangjie-lang.net,Direct
 HOST-SUFFIX,ccfbits.org,Direct
 HOST-SUFFIX,ccw.site,Direct
 HOST-SUFFIX,cdn.ist,Direct
+HOST-SUFFIX,cdut.top,Direct
 HOST-SUFFIX,centbrowser.net,Direct
 HOST-SUFFIX,cftunnel.com,Direct
 HOST-SUFFIX,cg3da.com,Direct
@@ -395,6 +396,7 @@ HOST-SUFFIX,gsjkjt.com,Direct
 HOST-SUFFIX,gsnhcg.com,Direct
 HOST-SUFFIX,gsstic.com,Direct
 HOST-SUFFIX,guaitao.cc,Direct
+HOST-SUFFIX,guang233.com,Direct
 HOST-SUFFIX,guangyapan.com,Direct
 HOST-SUFFIX,gvgoo.com,Direct
 HOST-SUFFIX,gwmapp-w.com,Direct
@@ -655,6 +657,7 @@ HOST-SUFFIX,ponyemu.com,Direct
 HOST-SUFFIX,pool.ntp.org,Direct
 HOST-SUFFIX,pornbits.net,Direct
 HOST-SUFFIX,powershellgallery.com,Direct
+HOST-SUFFIX,ppt28.com,Direct
 HOST-SUFFIX,privateapi.xyz,Direct
 HOST-SUFFIX,privatehd.to,Direct
 HOST-SUFFIX,pterclub.com,Direct
@@ -907,10 +910,13 @@ HOST-SUFFIX,zsytit.com,Direct
 HOST-SUFFIX,ztytech.com,Direct
 HOST-SUFFIX,zuobiao.press,Direct
 HOST-SUFFIX,zysou.com,Direct
+HOST-SUFFIX,zyyct.com,Direct
 HOST-SUFFIX,zzclass.com,Direct
 HOST-SUFFIX,zzqrgs3148.vip,Direct
 HOST-SUFFIX,zzr.cc,Direct
 HOST-SUFFIX,zzz-log-upload-os.hoyoverse.com,Direct
+HOST-SUFFIX,zzzcaculator.top,Direct
+HOST-SUFFIX,zzzmap.com,Direct
 HOST-KEYWORD,amp-api.podcasts.apple.com,Direct
 HOST-KEYWORD,anti-ad.net,Direct
 HOST-KEYWORD,api-adservices.apple.com,Direct
