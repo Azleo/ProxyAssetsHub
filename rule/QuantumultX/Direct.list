@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-08-24 05:20:38
+# UPDATED: UTC+8 2026-08-25 05:28:03
 # HOST: 58
-# HOST-SUFFIX: 857
+# HOST-SUFFIX: 866
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 965
+# TOTAL: 974
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -74,6 +74,7 @@ HOST-SUFFIX,0759mall.com,Direct
 HOST-SUFFIX,112114.xyz,Direct
 HOST-SUFFIX,115cdn.de,Direct
 HOST-SUFFIX,123795.com,Direct
+HOST-SUFFIX,123clouddisk.com,Direct
 HOST-SUFFIX,17van.com,Direct
 HOST-SUFFIX,1996999.xyz,Direct
 HOST-SUFFIX,204cloud.com,Direct
@@ -166,6 +167,7 @@ HOST-SUFFIX,avistaz.to,Direct
 HOST-SUFFIX,awesome-hd.me,Direct
 HOST-SUFFIX,awstme.top,Direct
 HOST-SUFFIX,axuex.top,Direct
+HOST-SUFFIX,b7f3192.com,Direct
 HOST-SUFFIX,ba-hospital.com,Direct
 HOST-SUFFIX,babawar.com,Direct
 HOST-SUFFIX,baicaf.com,Direct
@@ -207,8 +209,10 @@ HOST-SUFFIX,ca-sinfusi.com,Direct
 HOST-SUFFIX,cabdirect.org,Direct
 HOST-SUFFIX,canghaiip.com,Direct
 HOST-SUFFIX,cangjie-lang.net,Direct
+HOST-SUFFIX,cc39ute.shop,Direct
 HOST-SUFFIX,ccfbits.org,Direct
 HOST-SUFFIX,ccw.site,Direct
+HOST-SUFFIX,cdn.doctor,Direct
 HOST-SUFFIX,cdn.ist,Direct
 HOST-SUFFIX,cdut.top,Direct
 HOST-SUFFIX,centbrowser.net,Direct
@@ -291,6 +295,7 @@ HOST-SUFFIX,dskj-ops.com,Direct
 HOST-SUFFIX,dsmynas.com,Direct
 HOST-SUFFIX,dsmynas.net,Direct
 HOST-SUFFIX,dsmynas.org,Direct
+HOST-SUFFIX,dtproj.top,Direct
 HOST-SUFFIX,dushe1.app,Direct
 HOST-SUFFIX,dxdhd.com,Direct
 HOST-SUFFIX,dytt8.com,Direct
@@ -404,6 +409,7 @@ HOST-SUFFIX,gvgoo.com,Direct
 HOST-SUFFIX,gwmapp-w.com,Direct
 HOST-SUFFIX,gxnnjidingkeji.top,Direct
 HOST-SUFFIX,gzybao.com,Direct
+HOST-SUFFIX,h6009.top,Direct
 HOST-SUFFIX,haimaiedu.net,Direct
 HOST-SUFFIX,halvie.com,Direct
 HOST-SUFFIX,ham.xin,Direct
@@ -664,6 +670,7 @@ HOST-SUFFIX,powershellgallery.com,Direct
 HOST-SUFFIX,ppt28.com,Direct
 HOST-SUFFIX,privateapi.xyz,Direct
 HOST-SUFFIX,privatehd.to,Direct
+HOST-SUFFIX,psf0404.shop,Direct
 HOST-SUFFIX,pterclub.com,Direct
 HOST-SUFFIX,pthome.net,Direct
 HOST-SUFFIX,ptlgs.org,Direct
@@ -682,6 +689,7 @@ HOST-SUFFIX,qiuquan.org,Direct
 HOST-SUFFIX,qjmotorlink.com,Direct
 HOST-SUFFIX,qmeng.top,Direct
 HOST-SUFFIX,quanxinfu.com,Direct
+HOST-SUFFIX,quxuanshu.com,Direct
 HOST-SUFFIX,qweapi.com,Direct
 HOST-SUFFIX,qweatherapi.com,Direct
 HOST-SUFFIX,qzyun.net,Direct
@@ -809,6 +817,7 @@ HOST-SUFFIX,vclbroker.com,Direct
 HOST-SUFFIX,vclbrokers.com,Direct
 HOST-SUFFIX,vcltrade.com,Direct
 HOST-SUFFIX,vgogbuy.com,Direct
+HOST-SUFFIX,vip-cdn.com,Direct
 HOST-SUFFIX,vpsjyz.com,Direct
 HOST-SUFFIX,vv1865.com,Direct
 HOST-SUFFIX,warmheart.top,Direct
