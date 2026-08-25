@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-08-25 05:28:03
+# UPDATED: UTC+8 2026-08-26 05:27:10
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 866
+# DOMAIN-SUFFIX: 878
 # DOMAIN-KEYWORD: 39
-# TOTAL: 963
+# TOTAL: 975
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -118,6 +118,7 @@ payload:
   - DOMAIN-SUFFIX,998tool.com
   - DOMAIN-SUFFIX,a0d.top
   - DOMAIN-SUFFIX,aaawz.cc
+  - DOMAIN-SUFFIX,abctougu.com
   - DOMAIN-SUFFIX,acepanel.net
   - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,acgdraw.com
@@ -165,6 +166,7 @@ payload:
   - DOMAIN-SUFFIX,avistaz.to
   - DOMAIN-SUFFIX,awesome-hd.me
   - DOMAIN-SUFFIX,awstme.top
+  - DOMAIN-SUFFIX,ax1x.com
   - DOMAIN-SUFFIX,axuex.top
   - DOMAIN-SUFFIX,b7f3192.com
   - DOMAIN-SUFFIX,ba-hospital.com
@@ -204,6 +206,7 @@ payload:
   - DOMAIN-SUFFIX,bt.neu6.edu.cn
   - DOMAIN-SUFFIX,btschool.club
   - DOMAIN-SUFFIX,bunny.net
+  - DOMAIN-SUFFIX,bvmlt.top
   - DOMAIN-SUFFIX,ca-sinfusi.com
   - DOMAIN-SUFFIX,cabdirect.org
   - DOMAIN-SUFFIX,canghaiip.com
@@ -232,6 +235,7 @@ payload:
   - DOMAIN-SUFFIX,chuguansmart.com
   - DOMAIN-SUFFIX,chujingapp.com
   - DOMAIN-SUFFIX,chushi.cool
+  - DOMAIN-SUFFIX,ciallo.party
   - DOMAIN-SUFFIX,cinemageddon.net
   - DOMAIN-SUFFIX,cinematik.net
   - DOMAIN-SUFFIX,cinemaz.to
@@ -343,6 +347,7 @@ payload:
   - DOMAIN-SUFFIX,ft07.com
   - DOMAIN-SUFFIX,ftqq.com
   - DOMAIN-SUFFIX,functorz.com
+  - DOMAIN-SUFFIX,funmob.top
   - DOMAIN-SUFFIX,fus.cdn.krcom.cn
   - DOMAIN-SUFFIX,fussengroup.com
   - DOMAIN-SUFFIX,fuyinkeji.top
@@ -446,6 +451,7 @@ payload:
   - DOMAIN-SUFFIX,hfhs8x.info
   - DOMAIN-SUFFIX,hhtvc.com
   - DOMAIN-SUFFIX,hijin.vip
+  - DOMAIN-SUFFIX,hiocloud.com
   - DOMAIN-SUFFIX,hitpt.com
   - DOMAIN-SUFFIX,hiwms.com
   - DOMAIN-SUFFIX,hkchat.app
@@ -455,6 +461,7 @@ payload:
   - DOMAIN-SUFFIX,hongxingdl.com
   - DOMAIN-SUFFIX,hongxingdl.love
   - DOMAIN-SUFFIX,hprtupgrade.com
+  - DOMAIN-SUFFIX,hrhgstock.com
   - DOMAIN-SUFFIX,hsbc.com.hk
   - DOMAIN-SUFFIX,hstbroker.com
   - DOMAIN-SUFFIX,hszq6.com
@@ -558,6 +565,7 @@ payload:
   - DOMAIN-SUFFIX,liunn.com
   - DOMAIN-SUFFIX,liveperson.net
   - DOMAIN-SUFFIX,longmenshuju.com
+  - DOMAIN-SUFFIX,loveutips.com
   - DOMAIN-SUFFIX,lsbj365.com
   - DOMAIN-SUFFIX,lucky.gd
   - DOMAIN-SUFFIX,lyihub.com
@@ -599,6 +607,7 @@ payload:
   - DOMAIN-SUFFIX,msg.vg
   - DOMAIN-SUFFIX,mslmc.net
   - DOMAIN-SUFFIX,mtaokj.com
+  - DOMAIN-SUFFIX,muhemob.com
   - DOMAIN-SUFFIX,myanonamouse.net
   - DOMAIN-SUFFIX,myds.me
   - DOMAIN-SUFFIX,mykuaidi.com
@@ -621,6 +630,7 @@ payload:
   - DOMAIN-SUFFIX,nkxingxh.top
   - DOMAIN-SUFFIX,nlyd.club
   - DOMAIN-SUFFIX,nn.ci
+  - DOMAIN-SUFFIX,no-mad-sub.one
   - DOMAIN-SUFFIX,nodcloud.com
   - DOMAIN-SUFFIX,noyer.eu.org
   - DOMAIN-SUFFIX,npupt.com
@@ -717,6 +727,7 @@ payload:
   - DOMAIN-SUFFIX,seaflysoft.com
   - DOMAIN-SUFFIX,seedpace.com
   - DOMAIN-SUFFIX,senachina.com
+  - DOMAIN-SUFFIX,senmuse.com
   - DOMAIN-SUFFIX,server2.cn2gias.uk
   - DOMAIN-SUFFIX,sgtv.ii00.cc
   - DOMAIN-SUFFIX,shanghai-parking.com
@@ -913,6 +924,7 @@ payload:
   - DOMAIN-SUFFIX,zhongancloud.com
   - DOMAIN-SUFFIX,zhouyiy.com
   - DOMAIN-SUFFIX,zhu.today
+  - DOMAIN-SUFFIX,zhytstudio.com
   - DOMAIN-SUFFIX,zjjslawyer.com
   - DOMAIN-SUFFIX,zjshulong.com
   - DOMAIN-SUFFIX,zjxhedu.com

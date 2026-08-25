@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-08-25 05:28:03
+# UPDATED: UTC+8 2026-08-26 05:27:10
 # HOST: 58
-# HOST-SUFFIX: 866
+# HOST-SUFFIX: 878
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 974
+# TOTAL: 986
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -119,6 +119,7 @@ HOST-SUFFIX,985hezi.com,Direct
 HOST-SUFFIX,998tool.com,Direct
 HOST-SUFFIX,a0d.top,Direct
 HOST-SUFFIX,aaawz.cc,Direct
+HOST-SUFFIX,abctougu.com,Direct
 HOST-SUFFIX,acepanel.net,Direct
 HOST-SUFFIX,acg.rip,Direct
 HOST-SUFFIX,acgdraw.com,Direct
@@ -166,6 +167,7 @@ HOST-SUFFIX,avgv.cc,Direct
 HOST-SUFFIX,avistaz.to,Direct
 HOST-SUFFIX,awesome-hd.me,Direct
 HOST-SUFFIX,awstme.top,Direct
+HOST-SUFFIX,ax1x.com,Direct
 HOST-SUFFIX,axuex.top,Direct
 HOST-SUFFIX,b7f3192.com,Direct
 HOST-SUFFIX,ba-hospital.com,Direct
@@ -205,6 +207,7 @@ HOST-SUFFIX,bt.byr.cn,Direct
 HOST-SUFFIX,bt.neu6.edu.cn,Direct
 HOST-SUFFIX,btschool.club,Direct
 HOST-SUFFIX,bunny.net,Direct
+HOST-SUFFIX,bvmlt.top,Direct
 HOST-SUFFIX,ca-sinfusi.com,Direct
 HOST-SUFFIX,cabdirect.org,Direct
 HOST-SUFFIX,canghaiip.com,Direct
@@ -233,6 +236,7 @@ HOST-SUFFIX,chinatle.com,Direct
 HOST-SUFFIX,chuguansmart.com,Direct
 HOST-SUFFIX,chujingapp.com,Direct
 HOST-SUFFIX,chushi.cool,Direct
+HOST-SUFFIX,ciallo.party,Direct
 HOST-SUFFIX,cinemageddon.net,Direct
 HOST-SUFFIX,cinematik.net,Direct
 HOST-SUFFIX,cinemaz.to,Direct
@@ -344,6 +348,7 @@ HOST-SUFFIX,fsytss.com,Direct
 HOST-SUFFIX,ft07.com,Direct
 HOST-SUFFIX,ftqq.com,Direct
 HOST-SUFFIX,functorz.com,Direct
+HOST-SUFFIX,funmob.top,Direct
 HOST-SUFFIX,fus.cdn.krcom.cn,Direct
 HOST-SUFFIX,fussengroup.com,Direct
 HOST-SUFFIX,fuyinkeji.top,Direct
@@ -447,6 +452,7 @@ HOST-SUFFIX,hf-mirror.com,Direct
 HOST-SUFFIX,hfhs8x.info,Direct
 HOST-SUFFIX,hhtvc.com,Direct
 HOST-SUFFIX,hijin.vip,Direct
+HOST-SUFFIX,hiocloud.com,Direct
 HOST-SUFFIX,hitpt.com,Direct
 HOST-SUFFIX,hiwms.com,Direct
 HOST-SUFFIX,hkchat.app,Direct
@@ -456,6 +462,7 @@ HOST-SUFFIX,hoaihe.store,Direct
 HOST-SUFFIX,hongxingdl.com,Direct
 HOST-SUFFIX,hongxingdl.love,Direct
 HOST-SUFFIX,hprtupgrade.com,Direct
+HOST-SUFFIX,hrhgstock.com,Direct
 HOST-SUFFIX,hsbc.com.hk,Direct
 HOST-SUFFIX,hstbroker.com,Direct
 HOST-SUFFIX,hszq6.com,Direct
@@ -559,6 +566,7 @@ HOST-SUFFIX,listenai.com,Direct
 HOST-SUFFIX,liunn.com,Direct
 HOST-SUFFIX,liveperson.net,Direct
 HOST-SUFFIX,longmenshuju.com,Direct
+HOST-SUFFIX,loveutips.com,Direct
 HOST-SUFFIX,lsbj365.com,Direct
 HOST-SUFFIX,lucky.gd,Direct
 HOST-SUFFIX,lyihub.com,Direct
@@ -600,6 +608,7 @@ HOST-SUFFIX,msftncsi.com,Direct
 HOST-SUFFIX,msg.vg,Direct
 HOST-SUFFIX,mslmc.net,Direct
 HOST-SUFFIX,mtaokj.com,Direct
+HOST-SUFFIX,muhemob.com,Direct
 HOST-SUFFIX,myanonamouse.net,Direct
 HOST-SUFFIX,myds.me,Direct
 HOST-SUFFIX,mykuaidi.com,Direct
@@ -622,6 +631,7 @@ HOST-SUFFIX,njonemall.com,Direct
 HOST-SUFFIX,nkxingxh.top,Direct
 HOST-SUFFIX,nlyd.club,Direct
 HOST-SUFFIX,nn.ci,Direct
+HOST-SUFFIX,no-mad-sub.one,Direct
 HOST-SUFFIX,nodcloud.com,Direct
 HOST-SUFFIX,noyer.eu.org,Direct
 HOST-SUFFIX,npupt.com,Direct
@@ -718,6 +728,7 @@ HOST-SUFFIX,sdk-log-upload-os.hoyoverse.com,Direct
 HOST-SUFFIX,seaflysoft.com,Direct
 HOST-SUFFIX,seedpace.com,Direct
 HOST-SUFFIX,senachina.com,Direct
+HOST-SUFFIX,senmuse.com,Direct
 HOST-SUFFIX,server2.cn2gias.uk,Direct
 HOST-SUFFIX,sgtv.ii00.cc,Direct
 HOST-SUFFIX,shanghai-parking.com,Direct
@@ -914,6 +925,7 @@ HOST-SUFFIX,zhixingyunke.com,Direct
 HOST-SUFFIX,zhongancloud.com,Direct
 HOST-SUFFIX,zhouyiy.com,Direct
 HOST-SUFFIX,zhu.today,Direct
+HOST-SUFFIX,zhytstudio.com,Direct
 HOST-SUFFIX,zjjslawyer.com,Direct
 HOST-SUFFIX,zjshulong.com,Direct
 HOST-SUFFIX,zjxhedu.com,Direct
