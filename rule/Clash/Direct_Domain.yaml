@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-08-28 13:07:36
+# UPDATED: UTC+8 2026-08-29 11:04:54
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 917
+# DOMAIN-SUFFIX: 929
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1014
+# TOTAL: 1026
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -110,6 +110,7 @@ payload:
   - DOMAIN-SUFFIX,7sef.com
   - DOMAIN-SUFFIX,85sc.com
   - DOMAIN-SUFFIX,86656.net
+  - DOMAIN-SUFFIX,888lm02.com
   - DOMAIN-SUFFIX,88996api.cloud
   - DOMAIN-SUFFIX,8kc.top
   - DOMAIN-SUFFIX,8x14khzwmi.com
@@ -128,6 +129,8 @@ payload:
   - DOMAIN-SUFFIX,acggit.com
   - DOMAIN-SUFFIX,acm.org
   - DOMAIN-SUFFIX,adhuanxiao.com
+  - DOMAIN-SUFFIX,admpv.com
+  - DOMAIN-SUFFIX,admpv.net
   - DOMAIN-SUFFIX,adobe.com
   - DOMAIN-SUFFIX,adosmo.com
   - DOMAIN-SUFFIX,afeica.com
@@ -276,6 +279,7 @@ payload:
   - DOMAIN-SUFFIX,dcshfu.com
   - DOMAIN-SUFFIX,ddsrem.com
   - DOMAIN-SUFFIX,ddzn.tech
+  - DOMAIN-SUFFIX,deepzero.com
   - DOMAIN-SUFFIX,dell.com
   - DOMAIN-SUFFIX,dfhog.com
   - DOMAIN-SUFFIX,dhub.kubesre.xyz
@@ -416,6 +420,7 @@ payload:
   - DOMAIN-SUFFIX,gsstic.com
   - DOMAIN-SUFFIX,guaitao.cc
   - DOMAIN-SUFFIX,guang233.com
+  - DOMAIN-SUFFIX,guangshiting.top
   - DOMAIN-SUFFIX,guangyapan.com
   - DOMAIN-SUFFIX,gvgoo.com
   - DOMAIN-SUFFIX,gwmapp-w.com
@@ -496,6 +501,7 @@ payload:
   - DOMAIN-SUFFIX,icetorrent.org
   - DOMAIN-SUFFIX,icvcs.com
   - DOMAIN-SUFFIX,idazhe.net
+  - DOMAIN-SUFFIX,idphotoplus.com
   - DOMAIN-SUFFIX,idsduf.com
   - DOMAIN-SUFFIX,ieee.org
   - DOMAIN-SUFFIX,ifconfig.co
@@ -532,6 +538,7 @@ payload:
   - DOMAIN-SUFFIX,jieyoutsg.com
   - DOMAIN-SUFFIX,jiliuwang.net
   - DOMAIN-SUFFIX,jingheiot.com
+  - DOMAIN-SUFFIX,jinsan168.com
   - DOMAIN-SUFFIX,jinzanzan.com
   - DOMAIN-SUFFIX,jiqw.com
   - DOMAIN-SUFFIX,jjzyy.org
@@ -612,6 +619,7 @@ payload:
   - DOMAIN-SUFFIX,miaotixing.com
   - DOMAIN-SUFFIX,micu.hk
   - DOMAIN-SUFFIX,micun.com
+  - DOMAIN-SUFFIX,midoci.com
   - DOMAIN-SUFFIX,mifeng.plus
   - DOMAIN-SUFFIX,mifon.com
   - DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
@@ -699,6 +707,7 @@ payload:
   - DOMAIN-SUFFIX,plusus2.younoyes.com
   - DOMAIN-SUFFIX,plusus3.younoyes.com
   - DOMAIN-SUFFIX,ponyemu.com
+  - DOMAIN-SUFFIX,pookcdn.net
   - DOMAIN-SUFFIX,pool.ntp.org
   - DOMAIN-SUFFIX,pornbits.net
   - DOMAIN-SUFFIX,powershellgallery.com
@@ -831,6 +840,7 @@ payload:
   - DOMAIN-SUFFIX,topwd.top
   - DOMAIN-SUFFIX,totheglory.im
   - DOMAIN-SUFFIX,touchgal.ink
+  - DOMAIN-SUFFIX,touchgaloss.com
   - DOMAIN-SUFFIX,tozi-cn.top
   - DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
   - DOMAIN-SUFFIX,trjho.com
@@ -892,6 +902,7 @@ payload:
   - DOMAIN-SUFFIX,xdqtech.com
   - DOMAIN-SUFFIX,xdtool.com
   - DOMAIN-SUFFIX,xesabc.com
+  - DOMAIN-SUFFIX,xesim.net
   - DOMAIN-SUFFIX,xfltd.org
   - DOMAIN-SUFFIX,xgzb.top
   - DOMAIN-SUFFIX,xianghuiin.com
@@ -943,6 +954,7 @@ payload:
   - DOMAIN-SUFFIX,ynsj001.com
   - DOMAIN-SUFFIX,yongyu.xyz
   - DOMAIN-SUFFIX,yooc.me
+  - DOMAIN-SUFFIX,youqian.pro
   - DOMAIN-SUFFIX,youzhiyouxing.com
   - DOMAIN-SUFFIX,yunqin.online
   - DOMAIN-SUFFIX,yunzuoye.net

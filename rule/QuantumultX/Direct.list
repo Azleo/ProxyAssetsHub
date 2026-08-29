@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-08-28 13:07:36
+# UPDATED: UTC+8 2026-08-29 11:04:54
 # HOST: 58
-# HOST-SUFFIX: 917
+# HOST-SUFFIX: 929
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1025
+# TOTAL: 1037
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -111,6 +111,7 @@ HOST-SUFFIX,77shuku.org,Direct
 HOST-SUFFIX,7sef.com,Direct
 HOST-SUFFIX,85sc.com,Direct
 HOST-SUFFIX,86656.net,Direct
+HOST-SUFFIX,888lm02.com,Direct
 HOST-SUFFIX,88996api.cloud,Direct
 HOST-SUFFIX,8kc.top,Direct
 HOST-SUFFIX,8x14khzwmi.com,Direct
@@ -129,6 +130,8 @@ HOST-SUFFIX,acgdraw.com,Direct
 HOST-SUFFIX,acggit.com,Direct
 HOST-SUFFIX,acm.org,Direct
 HOST-SUFFIX,adhuanxiao.com,Direct
+HOST-SUFFIX,admpv.com,Direct
+HOST-SUFFIX,admpv.net,Direct
 HOST-SUFFIX,adobe.com,Direct
 HOST-SUFFIX,adosmo.com,Direct
 HOST-SUFFIX,afeica.com,Direct
@@ -277,6 +280,7 @@ HOST-SUFFIX,dcgstd.com,Direct
 HOST-SUFFIX,dcshfu.com,Direct
 HOST-SUFFIX,ddsrem.com,Direct
 HOST-SUFFIX,ddzn.tech,Direct
+HOST-SUFFIX,deepzero.com,Direct
 HOST-SUFFIX,dell.com,Direct
 HOST-SUFFIX,dfhog.com,Direct
 HOST-SUFFIX,dhub.kubesre.xyz,Direct
@@ -417,6 +421,7 @@ HOST-SUFFIX,gsnhcg.com,Direct
 HOST-SUFFIX,gsstic.com,Direct
 HOST-SUFFIX,guaitao.cc,Direct
 HOST-SUFFIX,guang233.com,Direct
+HOST-SUFFIX,guangshiting.top,Direct
 HOST-SUFFIX,guangyapan.com,Direct
 HOST-SUFFIX,gvgoo.com,Direct
 HOST-SUFFIX,gwmapp-w.com,Direct
@@ -497,6 +502,7 @@ HOST-SUFFIX,ibwm5lynb6.com,Direct
 HOST-SUFFIX,icetorrent.org,Direct
 HOST-SUFFIX,icvcs.com,Direct
 HOST-SUFFIX,idazhe.net,Direct
+HOST-SUFFIX,idphotoplus.com,Direct
 HOST-SUFFIX,idsduf.com,Direct
 HOST-SUFFIX,ieee.org,Direct
 HOST-SUFFIX,ifconfig.co,Direct
@@ -533,6 +539,7 @@ HOST-SUFFIX,jiasule.com,Direct
 HOST-SUFFIX,jieyoutsg.com,Direct
 HOST-SUFFIX,jiliuwang.net,Direct
 HOST-SUFFIX,jingheiot.com,Direct
+HOST-SUFFIX,jinsan168.com,Direct
 HOST-SUFFIX,jinzanzan.com,Direct
 HOST-SUFFIX,jiqw.com,Direct
 HOST-SUFFIX,jjzyy.org,Direct
@@ -613,6 +620,7 @@ HOST-SUFFIX,meoof-pet.com,Direct
 HOST-SUFFIX,miaotixing.com,Direct
 HOST-SUFFIX,micu.hk,Direct
 HOST-SUFFIX,micun.com,Direct
+HOST-SUFFIX,midoci.com,Direct
 HOST-SUFFIX,mifeng.plus,Direct
 HOST-SUFFIX,mifon.com,Direct
 HOST-SUFFIX,minor-api-os.hoyoverse.com,Direct
@@ -700,6 +708,7 @@ HOST-SUFFIX,plusus1.younoyes.com,Direct
 HOST-SUFFIX,plusus2.younoyes.com,Direct
 HOST-SUFFIX,plusus3.younoyes.com,Direct
 HOST-SUFFIX,ponyemu.com,Direct
+HOST-SUFFIX,pookcdn.net,Direct
 HOST-SUFFIX,pool.ntp.org,Direct
 HOST-SUFFIX,pornbits.net,Direct
 HOST-SUFFIX,powershellgallery.com,Direct
@@ -832,6 +841,7 @@ HOST-SUFFIX,tool56.com,Direct
 HOST-SUFFIX,topwd.top,Direct
 HOST-SUFFIX,totheglory.im,Direct
 HOST-SUFFIX,touchgal.ink,Direct
+HOST-SUFFIX,touchgaloss.com,Direct
 HOST-SUFFIX,tozi-cn.top,Direct
 HOST-SUFFIX,tracking-protection.cdn.mozilla.net,Direct
 HOST-SUFFIX,trjho.com,Direct
@@ -893,6 +903,7 @@ HOST-SUFFIX,xboxfan.com,Direct
 HOST-SUFFIX,xdqtech.com,Direct
 HOST-SUFFIX,xdtool.com,Direct
 HOST-SUFFIX,xesabc.com,Direct
+HOST-SUFFIX,xesim.net,Direct
 HOST-SUFFIX,xfltd.org,Direct
 HOST-SUFFIX,xgzb.top,Direct
 HOST-SUFFIX,xianghuiin.com,Direct
@@ -944,6 +955,7 @@ HOST-SUFFIX,ymzec.com,Direct
 HOST-SUFFIX,ynsj001.com,Direct
 HOST-SUFFIX,yongyu.xyz,Direct
 HOST-SUFFIX,yooc.me,Direct
+HOST-SUFFIX,youqian.pro,Direct
 HOST-SUFFIX,youzhiyouxing.com,Direct
 HOST-SUFFIX,yunqin.online,Direct
 HOST-SUFFIX,yunzuoye.net,Direct
