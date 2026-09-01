@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-08-31 07:13:27
+# UPDATED: UTC+8 2026-09-01 08:24:02
 # HOST: 58
-# HOST-SUFFIX: 931
+# HOST-SUFFIX: 938
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1039
+# TOTAL: 1046
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -109,6 +109,7 @@ HOST-SUFFIX,6v520.net,Direct
 HOST-SUFFIX,737698.xyz,Direct
 HOST-SUFFIX,77shuku.org,Direct
 HOST-SUFFIX,7sef.com,Direct
+HOST-SUFFIX,800686.xyz,Direct
 HOST-SUFFIX,85sc.com,Direct
 HOST-SUFFIX,86656.net,Direct
 HOST-SUFFIX,888lm02.com,Direct
@@ -219,6 +220,7 @@ HOST-SUFFIX,bunny.net,Direct
 HOST-SUFFIX,bvmlt.top,Direct
 HOST-SUFFIX,ca-sinfusi.com,Direct
 HOST-SUFFIX,cabdirect.org,Direct
+HOST-SUFFIX,calmate.cc,Direct
 HOST-SUFFIX,canghaiip.com,Direct
 HOST-SUFFIX,cangjie-lang.net,Direct
 HOST-SUFFIX,cc39ute.shop,Direct
@@ -352,6 +354,7 @@ HOST-SUFFIX,filelist.io,Direct
 HOST-SUFFIX,fjpit.com,Direct
 HOST-SUFFIX,flingtrainer.com,Direct
 HOST-SUFFIX,fofuai.com,Direct
+HOST-SUFFIX,founderyt.com,Direct
 HOST-SUFFIX,fowep.com,Direct
 HOST-SUFFIX,freetv.top,Direct
 HOST-SUFFIX,frp-ski.com,Direct
@@ -618,6 +621,7 @@ HOST-SUFFIX,melecode.com,Direct
 HOST-SUFFIX,meloong.com,Direct
 HOST-SUFFIX,members.3322.org,Direct
 HOST-SUFFIX,meoof-pet.com,Direct
+HOST-SUFFIX,mfdqsc.com,Direct
 HOST-SUFFIX,miaotixing.com,Direct
 HOST-SUFFIX,micu.hk,Direct
 HOST-SUFFIX,micun.com,Direct
@@ -642,7 +646,9 @@ HOST-SUFFIX,mtaokj.com,Direct
 HOST-SUFFIX,muhemob.com,Direct
 HOST-SUFFIX,myanonamouse.net,Direct
 HOST-SUFFIX,myds.me,Direct
+HOST-SUFFIX,myfenghua.com,Direct
 HOST-SUFFIX,mykuaidi.com,Direct
+HOST-SUFFIX,mypikpak.net,Direct
 HOST-SUFFIX,myrny.xin,Direct
 HOST-SUFFIX,myshopex.com,Direct
 HOST-SUFFIX,mystery0.vip,Direct
@@ -922,6 +928,7 @@ HOST-SUFFIX,ximogo.com,Direct
 HOST-SUFFIX,xingaochengtai.com,Direct
 HOST-SUFFIX,xinghaiwaimai.com,Direct
 HOST-SUFFIX,xingyaozhilian.com,Direct
+HOST-SUFFIX,xinstall.top,Direct
 HOST-SUFFIX,xiqueer.com,Direct
 HOST-SUFFIX,xiuxitong.com,Direct
 HOST-SUFFIX,xiwang.com,Direct
