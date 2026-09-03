@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-03 07:00:07
+# UPDATED: UTC+8 2026-09-04 06:59:09
 # HOST: 58
-# HOST-SUFFIX: 943
+# HOST-SUFFIX: 944
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1051
+# TOTAL: 1052
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -245,6 +245,7 @@ HOST-SUFFIX,cheriexsky.love,Direct
 HOST-SUFFIX,cheshire.top,Direct
 HOST-SUFFIX,chessease.net,Direct
 HOST-SUFFIX,chii.in,Direct
+HOST-SUFFIX,china-amass.com,Direct
 HOST-SUFFIX,chinatle.com,Direct
 HOST-SUFFIX,chuguansmart.com,Direct
 HOST-SUFFIX,chujingapp.com,Direct
