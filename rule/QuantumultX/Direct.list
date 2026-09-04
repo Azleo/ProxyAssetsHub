@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-04 06:59:09
+# UPDATED: UTC+8 2026-09-05 06:47:31
 # HOST: 58
-# HOST-SUFFIX: 944
+# HOST-SUFFIX: 947
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1052
+# TOTAL: 1055
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -225,6 +225,7 @@ HOST-SUFFIX,cabdirect.org,Direct
 HOST-SUFFIX,calmate.cc,Direct
 HOST-SUFFIX,canghaiip.com,Direct
 HOST-SUFFIX,cangjie-lang.net,Direct
+HOST-SUFFIX,cc.ink,Direct
 HOST-SUFFIX,cc39ute.shop,Direct
 HOST-SUFFIX,ccfbits.org,Direct
 HOST-SUFFIX,ccw.site,Direct
@@ -491,6 +492,7 @@ HOST-SUFFIX,hsbc.com.hk,Direct
 HOST-SUFFIX,hstbroker.com,Direct
 HOST-SUFFIX,hszq6.com,Direct
 HOST-SUFFIX,htkgsx.com,Direct
+HOST-SUFFIX,huacheng2025.com,Direct
 HOST-SUFFIX,hub.crdz.gq,Direct
 HOST-SUFFIX,hub.gitmirror.com,Direct
 HOST-SUFFIX,hub.rat.dev,Direct
@@ -747,6 +749,7 @@ HOST-SUFFIX,qiuquan.org,Direct
 HOST-SUFFIX,qjmotorlink.com,Direct
 HOST-SUFFIX,qmeng.top,Direct
 HOST-SUFFIX,quanxinfu.com,Direct
+HOST-SUFFIX,quanzhua.com,Direct
 HOST-SUFFIX,quxuanshu.com,Direct
 HOST-SUFFIX,qweapi.com,Direct
 HOST-SUFFIX,qweatherapi.com,Direct
