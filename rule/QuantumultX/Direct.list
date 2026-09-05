@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-05 06:47:31
+# UPDATED: UTC+8 2026-09-06 06:39:41
 # HOST: 58
-# HOST-SUFFIX: 947
+# HOST-SUFFIX: 956
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1055
+# TOTAL: 1064
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -106,6 +106,7 @@ HOST-SUFFIX,580ai.net,Direct
 HOST-SUFFIX,657192.com,Direct
 HOST-SUFFIX,66990000.xyz,Direct
 HOST-SUFFIX,6v520.net,Direct
+HOST-SUFFIX,71.am,Direct
 HOST-SUFFIX,737698.xyz,Direct
 HOST-SUFFIX,77shuku.org,Direct
 HOST-SUFFIX,7sef.com,Direct
@@ -271,6 +272,7 @@ HOST-SUFFIX,cone-x.com,Direct
 HOST-SUFFIX,congmiqq.com,Direct
 HOST-SUFFIX,constasj.me,Direct
 HOST-SUFFIX,coros.com,Direct
+HOST-SUFFIX,cqnbmarathon.com,Direct
 HOST-SUFFIX,crrcgo.cc,Direct
 HOST-SUFFIX,crtyhr.com,Direct
 HOST-SUFFIX,csqaq.com,Direct
@@ -293,6 +295,7 @@ HOST-SUFFIX,dfhog.com,Direct
 HOST-SUFFIX,dhub.kubesre.xyz,Direct
 HOST-SUFFIX,dicmusic.club,Direct
 HOST-SUFFIX,dingdingzn.com,Direct
+HOST-SUFFIX,dingstock.net,Direct
 HOST-SUFFIX,dircleaner.com,Direct
 HOST-SUFFIX,discfan.net,Direct
 HOST-SUFFIX,diskstation.me,Direct
@@ -385,6 +388,7 @@ HOST-SUFFIX,gaojiua.com,Direct
 HOST-SUFFIX,gaze.run,Direct
 HOST-SUFFIX,gazellegames.net,Direct
 HOST-SUFFIX,gdcucc.v1.mk,Direct
+HOST-SUFFIX,gdzhimou.com,Direct
 HOST-SUFFIX,geektool.top,Direct
 HOST-SUFFIX,gegeselect.hk,Direct
 HOST-SUFFIX,gelaiyun.net,Direct
@@ -527,6 +531,7 @@ HOST-SUFFIX,immortalwrt.org,Direct
 HOST-SUFFIX,indeedpower.com,Direct
 HOST-SUFFIX,inetlab.top,Direct
 HOST-SUFFIX,infini-fantasy.com,Direct
+HOST-SUFFIX,initaq.com,Direct
 HOST-SUFFIX,inte.net,Direct
 HOST-SUFFIX,iosgujian.com,Direct
 HOST-SUFFIX,iot889.com,Direct
@@ -554,6 +559,7 @@ HOST-SUFFIX,jinsan168.com,Direct
 HOST-SUFFIX,jinzanzan.com,Direct
 HOST-SUFFIX,jiqw.com,Direct
 HOST-SUFFIX,jjzyy.org,Direct
+HOST-SUFFIX,jkgeek.com,Direct
 HOST-SUFFIX,joyhd.net,Direct
 HOST-SUFFIX,jpopsuki.eu,Direct
 HOST-SUFFIX,jsdelivr.com,Direct
@@ -589,6 +595,7 @@ HOST-SUFFIX,koodomobile.com,Direct
 HOST-SUFFIX,kuaicha888.com,Direct
 HOST-SUFFIX,kudashi.com,Direct
 HOST-SUFFIX,kukongjian.com,Direct
+HOST-SUFFIX,kwai.net,Direct
 HOST-SUFFIX,lanyun.net,Direct
 HOST-SUFFIX,laogongju.com,Direct
 HOST-SUFFIX,latexlive.com,Direct
@@ -680,6 +687,7 @@ HOST-SUFFIX,nodcloud.com,Direct
 HOST-SUFFIX,noyer.eu.org,Direct
 HOST-SUFFIX,npupt.com,Direct
 HOST-SUFFIX,nxog.top,Direct
+HOST-SUFFIX,nyxcuy.com,Direct
 HOST-SUFFIX,oai.sb,Direct
 HOST-SUFFIX,oceando.cloud,Direct
 HOST-SUFFIX,ok321.top,Direct
@@ -697,6 +705,7 @@ HOST-SUFFIX,orence.net,Direct
 HOST-SUFFIX,orpheus.network,Direct
 HOST-SUFFIX,osapublishing.org,Direct
 HOST-SUFFIX,osbdf.com,Direct
+HOST-SUFFIX,ossrs.net,Direct
 HOST-SUFFIX,ottai.com,Direct
 HOST-SUFFIX,ottiptv.cc,Direct
 HOST-SUFFIX,oup.com,Direct
