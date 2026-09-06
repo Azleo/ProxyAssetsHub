@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-06 06:39:41
+# UPDATED: UTC+8 2026-09-07 06:43:09
 # HOST: 58
-# HOST-SUFFIX: 956
+# HOST-SUFFIX: 966
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1064
+# TOTAL: 1074
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -82,6 +82,7 @@ HOST-SUFFIX,25mao.com,Direct
 HOST-SUFFIX,2mcnxs.cc,Direct
 HOST-SUFFIX,365ting.com,Direct
 HOST-SUFFIX,365wp.top,Direct
+HOST-SUFFIX,3ced.top,Direct
 HOST-SUFFIX,3d-apollo.com,Direct
 HOST-SUFFIX,3dwhere.com,Direct
 HOST-SUFFIX,3gxk.net,Direct
@@ -132,6 +133,7 @@ HOST-SUFFIX,acgdraw.com,Direct
 HOST-SUFFIX,acggit.com,Direct
 HOST-SUFFIX,acm.org,Direct
 HOST-SUFFIX,adhuanxiao.com,Direct
+HOST-SUFFIX,admobile.top,Direct
 HOST-SUFFIX,admpv.com,Direct
 HOST-SUFFIX,admpv.net,Direct
 HOST-SUFFIX,adobe.com,Direct
@@ -441,6 +443,7 @@ HOST-SUFFIX,gwmapp-w.com,Direct
 HOST-SUFFIX,gxnnjidingkeji.top,Direct
 HOST-SUFFIX,gzjkoa.com,Direct
 HOST-SUFFIX,gzybao.com,Direct
+HOST-SUFFIX,h5bqb.top,Direct
 HOST-SUFFIX,h6009.top,Direct
 HOST-SUFFIX,haimaiedu.net,Direct
 HOST-SUFFIX,halvie.com,Direct
@@ -532,6 +535,7 @@ HOST-SUFFIX,indeedpower.com,Direct
 HOST-SUFFIX,inetlab.top,Direct
 HOST-SUFFIX,infini-fantasy.com,Direct
 HOST-SUFFIX,initaq.com,Direct
+HOST-SUFFIX,inmobicdn.net,Direct
 HOST-SUFFIX,inte.net,Direct
 HOST-SUFFIX,iosgujian.com,Direct
 HOST-SUFFIX,iot889.com,Direct
@@ -543,6 +547,7 @@ HOST-SUFFIX,iposl.com,Direct
 HOST-SUFFIX,ipshu.com,Direct
 HOST-SUFFIX,istoreos.com,Direct
 HOST-SUFFIX,itptg.com,Direct
+HOST-SUFFIX,itui.cc,Direct
 HOST-SUFFIX,j99.info,Direct
 HOST-SUFFIX,jbsy20riz9.com,Direct
 HOST-SUFFIX,jduoduo.com,Direct
@@ -626,6 +631,7 @@ HOST-SUFFIX,mblyun.com,Direct
 HOST-SUFFIX,mc-user.com,Direct
 HOST-SUFFIX,mcar.vip,Direct
 HOST-SUFFIX,mchuiji.com,Direct
+HOST-SUFFIX,mcrmb.com,Direct
 HOST-SUFFIX,mcxyzt.cc,Direct
 HOST-SUFFIX,medtechshare.com,Direct
 HOST-SUFFIX,meijian.com,Direct
@@ -640,6 +646,7 @@ HOST-SUFFIX,miaotixing.com,Direct
 HOST-SUFFIX,micu.hk,Direct
 HOST-SUFFIX,micun.com,Direct
 HOST-SUFFIX,midoci.com,Direct
+HOST-SUFFIX,midoci.top,Direct
 HOST-SUFFIX,mifeng.plus,Direct
 HOST-SUFFIX,mifon.com,Direct
 HOST-SUFFIX,minor-api-os.hoyoverse.com,Direct
@@ -692,6 +699,7 @@ HOST-SUFFIX,oai.sb,Direct
 HOST-SUFFIX,oceando.cloud,Direct
 HOST-SUFFIX,ok321.top,Direct
 HOST-SUFFIX,ol.epicgames.com,Direct
+HOST-SUFFIX,omq.cc,Direct
 HOST-SUFFIX,onebuygz.com,Direct
 HOST-SUFFIX,onetoken.sh,Direct
 HOST-SUFFIX,onetools.top,Direct
@@ -818,6 +826,7 @@ HOST-SUFFIX,ssjj2.com,Direct
 HOST-SUFFIX,starlink.uno,Direct
 HOST-SUFFIX,startssl.com,Direct
 HOST-SUFFIX,staticfile.org,Direct
+HOST-SUFFIX,staticmeow.com,Direct
 HOST-SUFFIX,stats.qiumibao.com,Direct
 HOST-SUFFIX,stkfanli.com,Direct
 HOST-SUFFIX,sufe.me,Direct
@@ -970,6 +979,7 @@ HOST-SUFFIX,xzsckj.com,Direct
 HOST-SUFFIX,xzzhtc.com,Direct
 HOST-SUFFIX,yayi360.com,Direct
 HOST-SUFFIX,ycjintou.com,Direct
+HOST-SUFFIX,ycyct.com,Direct
 HOST-SUFFIX,ydayc.com,Direct
 HOST-SUFFIX,yhxjkj.top,Direct
 HOST-SUFFIX,yibanbianji.com,Direct
