@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-07 06:43:09
+# UPDATED: UTC+8 2026-09-08 07:17:29
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 966
+# DOMAIN-SUFFIX: 974
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1063
+# TOTAL: 1071
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -164,6 +164,8 @@ payload:
   - DOMAIN-SUFFIX,anycubic.com
   - DOMAIN-SUFFIX,anythinktech.com
   - DOMAIN-SUFFIX,anytocopy.com
+  - DOMAIN-SUFFIX,aoc.com
+  - DOMAIN-SUFFIX,aocdisplays.com
   - DOMAIN-SUFFIX,ap-leasing.com
   - DOMAIN-SUFFIX,api.myip.com
   - DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
@@ -212,6 +214,7 @@ payload:
   - DOMAIN-SUFFIX,bochaai.com
   - DOMAIN-SUFFIX,bochk.com
   - DOMAIN-SUFFIX,bootcss.com
+  - DOMAIN-SUFFIX,boowayun.com
   - DOMAIN-SUFFIX,bowenkj.com
   - DOMAIN-SUFFIX,boxim.online
   - DOMAIN-SUFFIX,boyuemobile.com
@@ -222,6 +225,7 @@ payload:
   - DOMAIN-SUFFIX,btschool.club
   - DOMAIN-SUFFIX,bunny.net
   - DOMAIN-SUFFIX,bvmlt.top
+  - DOMAIN-SUFFIX,bxlsj.com
   - DOMAIN-SUFFIX,ca-sinfusi.com
   - DOMAIN-SUFFIX,cabdirect.org
   - DOMAIN-SUFFIX,calmate.cc
@@ -345,6 +349,7 @@ payload:
   - DOMAIN-SUFFIX,exiliumgf.com
   - DOMAIN-SUFFIX,exoticaz.to
   - DOMAIN-SUFFIX,f.video.weibocdn.com
+  - DOMAIN-SUFFIX,faka163.com
   - DOMAIN-SUFFIX,familyds.com
   - DOMAIN-SUFFIX,familyds.net
   - DOMAIN-SUFFIX,familyds.org
@@ -466,6 +471,7 @@ payload:
   - DOMAIN-SUFFIX,hdbz.net
   - DOMAIN-SUFFIX,hdchina.org
   - DOMAIN-SUFFIX,hdcity.city
+  - DOMAIN-SUFFIX,hdcm00.com
   - DOMAIN-SUFFIX,hddolby.com
   - DOMAIN-SUFFIX,hdfans.org
   - DOMAIN-SUFFIX,hdhome.org
@@ -492,6 +498,7 @@ payload:
   - DOMAIN-SUFFIX,hongxingdl.com
   - DOMAIN-SUFFIX,hongxingdl.love
   - DOMAIN-SUFFIX,hooos.com
+  - DOMAIN-SUFFIX,hpr7e.top
   - DOMAIN-SUFFIX,hprtupgrade.com
   - DOMAIN-SUFFIX,hrhgstock.com
   - DOMAIN-SUFFIX,hsbc.com.hk
@@ -764,6 +771,7 @@ payload:
   - DOMAIN-SUFFIX,qiuquan.org
   - DOMAIN-SUFFIX,qjmotorlink.com
   - DOMAIN-SUFFIX,qmeng.top
+  - DOMAIN-SUFFIX,qmpx.net
   - DOMAIN-SUFFIX,quanxinfu.com
   - DOMAIN-SUFFIX,quanzhua.com
   - DOMAIN-SUFFIX,quxuanshu.com
