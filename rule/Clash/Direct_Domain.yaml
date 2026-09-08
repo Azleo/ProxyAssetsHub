@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-08 07:17:29
+# UPDATED: UTC+8 2026-09-09 07:12:27
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 974
+# DOMAIN-SUFFIX: 986
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1071
+# TOTAL: 1083
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -103,6 +103,7 @@ payload:
   - DOMAIN-SUFFIX,55555.ink
   - DOMAIN-SUFFIX,56tvc.com
   - DOMAIN-SUFFIX,580ai.net
+  - DOMAIN-SUFFIX,618208.xyz
   - DOMAIN-SUFFIX,657192.com
   - DOMAIN-SUFFIX,66990000.xyz
   - DOMAIN-SUFFIX,6v520.net
@@ -157,6 +158,7 @@ payload:
   - DOMAIN-SUFFIX,alonginwind.top
   - DOMAIN-SUFFIX,aloys233.top
   - DOMAIN-SUFFIX,alpharatio.cc
+  - DOMAIN-SUFFIX,amap-cdn.com
   - DOMAIN-SUFFIX,animebytes.tv
   - DOMAIN-SUFFIX,anthelion.me
   - DOMAIN-SUFFIX,antping.com
@@ -394,6 +396,7 @@ payload:
   - DOMAIN-SUFFIX,gaze.run
   - DOMAIN-SUFFIX,gazellegames.net
   - DOMAIN-SUFFIX,gdcucc.v1.mk
+  - DOMAIN-SUFFIX,gdpcdz.com
   - DOMAIN-SUFFIX,gdzhimou.com
   - DOMAIN-SUFFIX,geektool.top
   - DOMAIN-SUFFIX,gegeselect.hk
@@ -624,6 +627,7 @@ payload:
   - DOMAIN-SUFFIX,loveutips.com
   - DOMAIN-SUFFIX,lsbj365.com
   - DOMAIN-SUFFIX,lsposed.zip
+  - DOMAIN-SUFFIX,lty02.com
   - DOMAIN-SUFFIX,lucky.gd
   - DOMAIN-SUFFIX,lyihub.com
   - DOMAIN-SUFFIX,lyilife.com
@@ -699,6 +703,7 @@ payload:
   - DOMAIN-SUFFIX,nodcloud.com
   - DOMAIN-SUFFIX,noyer.eu.org
   - DOMAIN-SUFFIX,npupt.com
+  - DOMAIN-SUFFIX,nwiztech.com
   - DOMAIN-SUFFIX,nxog.top
   - DOMAIN-SUFFIX,nyxcuy.com
   - DOMAIN-SUFFIX,oai.sb
@@ -812,6 +817,7 @@ payload:
   - DOMAIN-SUFFIX,share123.top
   - DOMAIN-SUFFIX,shineacc.com
   - DOMAIN-SUFFIX,shuangqingtech.com
+  - DOMAIN-SUFFIX,shuangxiumall.com
   - DOMAIN-SUFFIX,shuinfo.com
   - DOMAIN-SUFFIX,shunjing.xin
   - DOMAIN-SUFFIX,shuqiandiqiu.com
@@ -825,6 +831,7 @@ payload:
   - DOMAIN-SUFFIX,snltty.com
   - DOMAIN-SUFFIX,soulteary.com
   - DOMAIN-SUFFIX,soulvoice.club
+  - DOMAIN-SUFFIX,spisec.com
   - DOMAIN-SUFFIX,springer.com
   - DOMAIN-SUFFIX,springernature.com
   - DOMAIN-SUFFIX,springsunday.net
@@ -912,6 +919,7 @@ payload:
   - DOMAIN-SUFFIX,vcltrade.com
   - DOMAIN-SUFFIX,vgogbuy.com
   - DOMAIN-SUFFIX,vip-cdn.com
+  - DOMAIN-SUFFIX,vlan5.com
   - DOMAIN-SUFFIX,vpsjyz.com
   - DOMAIN-SUFFIX,vv1865.com
   - DOMAIN-SUFFIX,warmheart.top
@@ -929,6 +937,7 @@ payload:
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-SUFFIX,wjx.top
   - DOMAIN-SUFFIX,wlcdn88.com
+  - DOMAIN-SUFFIX,wlkac.com
   - DOMAIN-SUFFIX,wlups.com
   - DOMAIN-SUFFIX,wologic.net
   - DOMAIN-SUFFIX,wpurl.cc
@@ -960,6 +969,7 @@ payload:
   - DOMAIN-SUFFIX,ximogo.com
   - DOMAIN-SUFFIX,xingaochengtai.com
   - DOMAIN-SUFFIX,xinghaiwaimai.com
+  - DOMAIN-SUFFIX,xingmojs.com
   - DOMAIN-SUFFIX,xingyaozhilian.com
   - DOMAIN-SUFFIX,xinstall.top
   - DOMAIN-SUFFIX,xiqueer.com
@@ -969,6 +979,7 @@ payload:
   - DOMAIN-SUFFIX,xkkapk.com
   - DOMAIN-SUFFIX,xn--4kq62z5rby2qupq9ub.top
   - DOMAIN-SUFFIX,xn--cesw6hd3s99f.com
+  - DOMAIN-SUFFIX,xn--id-ov2cb7n32b01yl6auun2bpzk4p2dgip.com
   - DOMAIN-SUFFIX,xn--mmz.cc
   - DOMAIN-SUFFIX,xn--vhqr42drhf5k7b.com
   - DOMAIN-SUFFIX,xn--zfru1ggxt.fun
@@ -1030,6 +1041,7 @@ payload:
   - DOMAIN-SUFFIX,zqin758.xyz
   - DOMAIN-SUFFIX,zsytit.com
   - DOMAIN-SUFFIX,ztytech.com
+  - DOMAIN-SUFFIX,zuidazym3u8.com
   - DOMAIN-SUFFIX,zuobiao.press
   - DOMAIN-SUFFIX,zysou.com
   - DOMAIN-SUFFIX,zyyct.com

@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-08 07:17:29
+# UPDATED: UTC+8 2026-09-09 07:12:27
 # HOST: 58
-# HOST-SUFFIX: 974
+# HOST-SUFFIX: 986
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1082
+# TOTAL: 1094
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -104,6 +104,7 @@ HOST-SUFFIX,52youzai.com,Direct
 HOST-SUFFIX,55555.ink,Direct
 HOST-SUFFIX,56tvc.com,Direct
 HOST-SUFFIX,580ai.net,Direct
+HOST-SUFFIX,618208.xyz,Direct
 HOST-SUFFIX,657192.com,Direct
 HOST-SUFFIX,66990000.xyz,Direct
 HOST-SUFFIX,6v520.net,Direct
@@ -158,6 +159,7 @@ HOST-SUFFIX,alonginwind.to,Direct
 HOST-SUFFIX,alonginwind.top,Direct
 HOST-SUFFIX,aloys233.top,Direct
 HOST-SUFFIX,alpharatio.cc,Direct
+HOST-SUFFIX,amap-cdn.com,Direct
 HOST-SUFFIX,animebytes.tv,Direct
 HOST-SUFFIX,anthelion.me,Direct
 HOST-SUFFIX,antping.com,Direct
@@ -395,6 +397,7 @@ HOST-SUFFIX,gaojiua.com,Direct
 HOST-SUFFIX,gaze.run,Direct
 HOST-SUFFIX,gazellegames.net,Direct
 HOST-SUFFIX,gdcucc.v1.mk,Direct
+HOST-SUFFIX,gdpcdz.com,Direct
 HOST-SUFFIX,gdzhimou.com,Direct
 HOST-SUFFIX,geektool.top,Direct
 HOST-SUFFIX,gegeselect.hk,Direct
@@ -625,6 +628,7 @@ HOST-SUFFIX,longmenshuju.com,Direct
 HOST-SUFFIX,loveutips.com,Direct
 HOST-SUFFIX,lsbj365.com,Direct
 HOST-SUFFIX,lsposed.zip,Direct
+HOST-SUFFIX,lty02.com,Direct
 HOST-SUFFIX,lucky.gd,Direct
 HOST-SUFFIX,lyihub.com,Direct
 HOST-SUFFIX,lyilife.com,Direct
@@ -700,6 +704,7 @@ HOST-SUFFIX,no-mad-sub.one,Direct
 HOST-SUFFIX,nodcloud.com,Direct
 HOST-SUFFIX,noyer.eu.org,Direct
 HOST-SUFFIX,npupt.com,Direct
+HOST-SUFFIX,nwiztech.com,Direct
 HOST-SUFFIX,nxog.top,Direct
 HOST-SUFFIX,nyxcuy.com,Direct
 HOST-SUFFIX,oai.sb,Direct
@@ -813,6 +818,7 @@ HOST-SUFFIX,shanghongbei.com,Direct
 HOST-SUFFIX,share123.top,Direct
 HOST-SUFFIX,shineacc.com,Direct
 HOST-SUFFIX,shuangqingtech.com,Direct
+HOST-SUFFIX,shuangxiumall.com,Direct
 HOST-SUFFIX,shuinfo.com,Direct
 HOST-SUFFIX,shunjing.xin,Direct
 HOST-SUFFIX,shuqiandiqiu.com,Direct
@@ -826,6 +832,7 @@ HOST-SUFFIX,snfox.com,Direct
 HOST-SUFFIX,snltty.com,Direct
 HOST-SUFFIX,soulteary.com,Direct
 HOST-SUFFIX,soulvoice.club,Direct
+HOST-SUFFIX,spisec.com,Direct
 HOST-SUFFIX,springer.com,Direct
 HOST-SUFFIX,springernature.com,Direct
 HOST-SUFFIX,springsunday.net,Direct
@@ -913,6 +920,7 @@ HOST-SUFFIX,vclbrokers.com,Direct
 HOST-SUFFIX,vcltrade.com,Direct
 HOST-SUFFIX,vgogbuy.com,Direct
 HOST-SUFFIX,vip-cdn.com,Direct
+HOST-SUFFIX,vlan5.com,Direct
 HOST-SUFFIX,vpsjyz.com,Direct
 HOST-SUFFIX,vv1865.com,Direct
 HOST-SUFFIX,warmheart.top,Direct
@@ -930,6 +938,7 @@ HOST-SUFFIX,wildfirechat.net,Direct
 HOST-SUFFIX,wiley.com,Direct
 HOST-SUFFIX,wjx.top,Direct
 HOST-SUFFIX,wlcdn88.com,Direct
+HOST-SUFFIX,wlkac.com,Direct
 HOST-SUFFIX,wlups.com,Direct
 HOST-SUFFIX,wologic.net,Direct
 HOST-SUFFIX,wpurl.cc,Direct
@@ -961,6 +970,7 @@ HOST-SUFFIX,xiberia.net,Direct
 HOST-SUFFIX,ximogo.com,Direct
 HOST-SUFFIX,xingaochengtai.com,Direct
 HOST-SUFFIX,xinghaiwaimai.com,Direct
+HOST-SUFFIX,xingmojs.com,Direct
 HOST-SUFFIX,xingyaozhilian.com,Direct
 HOST-SUFFIX,xinstall.top,Direct
 HOST-SUFFIX,xiqueer.com,Direct
@@ -970,6 +980,7 @@ HOST-SUFFIX,xixih.cc,Direct
 HOST-SUFFIX,xkkapk.com,Direct
 HOST-SUFFIX,xn--4kq62z5rby2qupq9ub.top,Direct
 HOST-SUFFIX,xn--cesw6hd3s99f.com,Direct
+HOST-SUFFIX,xn--id-ov2cb7n32b01yl6auun2bpzk4p2dgip.com,Direct
 HOST-SUFFIX,xn--mmz.cc,Direct
 HOST-SUFFIX,xn--vhqr42drhf5k7b.com,Direct
 HOST-SUFFIX,xn--zfru1ggxt.fun,Direct
@@ -1031,6 +1042,7 @@ HOST-SUFFIX,znztv.com,Direct
 HOST-SUFFIX,zqin758.xyz,Direct
 HOST-SUFFIX,zsytit.com,Direct
 HOST-SUFFIX,ztytech.com,Direct
+HOST-SUFFIX,zuidazym3u8.com,Direct
 HOST-SUFFIX,zuobiao.press,Direct
 HOST-SUFFIX,zysou.com,Direct
 HOST-SUFFIX,zyyct.com,Direct
