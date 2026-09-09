@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-09 07:12:27
+# UPDATED: UTC+8 2026-09-10 06:57:46
 # HOST: 58
-# HOST-SUFFIX: 986
+# HOST-SUFFIX: 993
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1094
+# TOTAL: 1101
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -301,6 +301,7 @@ HOST-SUFFIX,deepzero.com,Direct
 HOST-SUFFIX,dell.com,Direct
 HOST-SUFFIX,dfhog.com,Direct
 HOST-SUFFIX,dhub.kubesre.xyz,Direct
+HOST-SUFFIX,diandaojia.net,Direct
 HOST-SUFFIX,dicmusic.club,Direct
 HOST-SUFFIX,dingdingzn.com,Direct
 HOST-SUFFIX,dingstock.net,Direct
@@ -351,6 +352,7 @@ HOST-SUFFIX,everdrawing.com,Direct
 HOST-SUFFIX,excelbbx.net,Direct
 HOST-SUFFIX,exiliumgf.com,Direct
 HOST-SUFFIX,exoticaz.to,Direct
+HOST-SUFFIX,eye4cloud.com,Direct
 HOST-SUFFIX,f.video.weibocdn.com,Direct
 HOST-SUFFIX,faka163.com,Direct
 HOST-SUFFIX,familyds.com,Direct
@@ -386,6 +388,7 @@ HOST-SUFFIX,fus.cdn.krcom.cn,Direct
 HOST-SUFFIX,fussengroup.com,Direct
 HOST-SUFFIX,fuyinkeji.top,Direct
 HOST-SUFFIX,fuziche.com,Direct
+HOST-SUFFIX,fzedu.pub,Direct
 HOST-SUFFIX,fzshouji.com,Direct
 HOST-SUFFIX,fzvcolco.com,Direct
 HOST-SUFFIX,fzwqq.com,Direct
@@ -501,6 +504,7 @@ HOST-SUFFIX,hnxzctec.com,Direct
 HOST-SUFFIX,hoaihe.store,Direct
 HOST-SUFFIX,hongxingdl.com,Direct
 HOST-SUFFIX,hongxingdl.love,Direct
+HOST-SUFFIX,hongyanyanbaihuo.online,Direct
 HOST-SUFFIX,hooos.com,Direct
 HOST-SUFFIX,hpr7e.top,Direct
 HOST-SUFFIX,hprtupgrade.com,Direct
@@ -555,6 +559,7 @@ HOST-SUFFIX,ip6.seeip.org,Direct
 HOST-SUFFIX,ipapi.co,Direct
 HOST-SUFFIX,iposl.com,Direct
 HOST-SUFFIX,ipshu.com,Direct
+HOST-SUFFIX,iquantumad.com,Direct
 HOST-SUFFIX,istoreos.com,Direct
 HOST-SUFFIX,itptg.com,Direct
 HOST-SUFFIX,itui.cc,Direct
@@ -660,6 +665,7 @@ HOST-SUFFIX,midoci.com,Direct
 HOST-SUFFIX,midoci.top,Direct
 HOST-SUFFIX,mifeng.plus,Direct
 HOST-SUFFIX,mifon.com,Direct
+HOST-SUFFIX,mifosy.com,Direct
 HOST-SUFFIX,minor-api-os.hoyoverse.com,Direct
 HOST-SUFFIX,miraiemby.com,Direct
 HOST-SUFFIX,mixly.org,Direct
@@ -957,6 +963,7 @@ HOST-SUFFIX,xesabc.com,Direct
 HOST-SUFFIX,xesim.net,Direct
 HOST-SUFFIX,xfltd.org,Direct
 HOST-SUFFIX,xgzb.top,Direct
+HOST-SUFFIX,xhey.top,Direct
 HOST-SUFFIX,xianghuiin.com,Direct
 HOST-SUFFIX,xiankabao.com,Direct
 HOST-SUFFIX,xiaobeiyangji.com,Direct
