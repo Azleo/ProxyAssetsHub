@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-11 06:56:46
+# UPDATED: UTC+8 2026-09-12 07:00:00
 # HOST: 58
-# HOST-SUFFIX: 995
+# HOST-SUFFIX: 1000
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1103
+# TOTAL: 1108
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -434,6 +434,7 @@ HOST-SUFFIX,gmya.net,Direct
 HOST-SUFFIX,goalmapapp.com,Direct
 HOST-SUFFIX,goka.top,Direct
 HOST-SUFFIX,gongxiangjizhang.com,Direct
+HOST-SUFFIX,goodq.top,Direct
 HOST-SUFFIX,goofish.pro,Direct
 HOST-SUFFIX,googletraveladservices-cn.com,Direct
 HOST-SUFFIX,googletraveladservices.com,Direct
@@ -453,6 +454,7 @@ HOST-SUFFIX,guangyapan.com,Direct
 HOST-SUFFIX,gvgoo.com,Direct
 HOST-SUFFIX,gwmapp-w.com,Direct
 HOST-SUFFIX,gxnnjidingkeji.top,Direct
+HOST-SUFFIX,gxrke1715.com,Direct
 HOST-SUFFIX,gzjkoa.com,Direct
 HOST-SUFFIX,gzybao.com,Direct
 HOST-SUFFIX,h5bqb.top,Direct
@@ -555,6 +557,7 @@ HOST-SUFFIX,inte.net,Direct
 HOST-SUFFIX,iosgujian.com,Direct
 HOST-SUFFIX,iot889.com,Direct
 HOST-SUFFIX,iotrix.net,Direct
+HOST-SUFFIX,ip.plus,Direct
 HOST-SUFFIX,ip159.com,Direct
 HOST-SUFFIX,ip6.seeip.org,Direct
 HOST-SUFFIX,ipapi.co,Direct
@@ -596,6 +599,7 @@ HOST-SUFFIX,kaijiacloud.com,Direct
 HOST-SUFFIX,kaijiejinrong.com,Direct
 HOST-SUFFIX,kaipanhong.com,Direct
 HOST-SUFFIX,kancaibao.com,Direct
+HOST-SUFFIX,kanxiquan.com,Direct
 HOST-SUFFIX,karagarga.in,Direct
 HOST-SUFFIX,kaspersky-labs.com,Direct
 HOST-SUFFIX,kaspersky.com,Direct
@@ -715,6 +719,7 @@ HOST-SUFFIX,nwiztech.com,Direct
 HOST-SUFFIX,nxog.top,Direct
 HOST-SUFFIX,nyxcuy.com,Direct
 HOST-SUFFIX,oai.sb,Direct
+HOST-SUFFIX,oath.com,Direct
 HOST-SUFFIX,oceando.cloud,Direct
 HOST-SUFFIX,ok321.top,Direct
 HOST-SUFFIX,ol.epicgames.com,Direct

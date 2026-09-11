@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-11 06:56:46
+# UPDATED: UTC+8 2026-09-12 07:00:00
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 995
+# DOMAIN-SUFFIX: 1000
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1092
+# TOTAL: 1097
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -433,6 +433,7 @@ payload:
   - DOMAIN-SUFFIX,goalmapapp.com
   - DOMAIN-SUFFIX,goka.top
   - DOMAIN-SUFFIX,gongxiangjizhang.com
+  - DOMAIN-SUFFIX,goodq.top
   - DOMAIN-SUFFIX,goofish.pro
   - DOMAIN-SUFFIX,googletraveladservices-cn.com
   - DOMAIN-SUFFIX,googletraveladservices.com
@@ -452,6 +453,7 @@ payload:
   - DOMAIN-SUFFIX,gvgoo.com
   - DOMAIN-SUFFIX,gwmapp-w.com
   - DOMAIN-SUFFIX,gxnnjidingkeji.top
+  - DOMAIN-SUFFIX,gxrke1715.com
   - DOMAIN-SUFFIX,gzjkoa.com
   - DOMAIN-SUFFIX,gzybao.com
   - DOMAIN-SUFFIX,h5bqb.top
@@ -554,6 +556,7 @@ payload:
   - DOMAIN-SUFFIX,iosgujian.com
   - DOMAIN-SUFFIX,iot889.com
   - DOMAIN-SUFFIX,iotrix.net
+  - DOMAIN-SUFFIX,ip.plus
   - DOMAIN-SUFFIX,ip159.com
   - DOMAIN-SUFFIX,ip6.seeip.org
   - DOMAIN-SUFFIX,ipapi.co
@@ -595,6 +598,7 @@ payload:
   - DOMAIN-SUFFIX,kaijiejinrong.com
   - DOMAIN-SUFFIX,kaipanhong.com
   - DOMAIN-SUFFIX,kancaibao.com
+  - DOMAIN-SUFFIX,kanxiquan.com
   - DOMAIN-SUFFIX,karagarga.in
   - DOMAIN-SUFFIX,kaspersky-labs.com
   - DOMAIN-SUFFIX,kaspersky.com
@@ -714,6 +718,7 @@ payload:
   - DOMAIN-SUFFIX,nxog.top
   - DOMAIN-SUFFIX,nyxcuy.com
   - DOMAIN-SUFFIX,oai.sb
+  - DOMAIN-SUFFIX,oath.com
   - DOMAIN-SUFFIX,oceando.cloud
   - DOMAIN-SUFFIX,ok321.top
   - DOMAIN-SUFFIX,ol.epicgames.com
