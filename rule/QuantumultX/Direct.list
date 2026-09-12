@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-12 07:00:00
+# UPDATED: UTC+8 2026-09-13 06:51:28
 # HOST: 58
-# HOST-SUFFIX: 1000
+# HOST-SUFFIX: 1007
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1108
+# TOTAL: 1115
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -120,6 +120,7 @@ HOST-SUFFIX,88996api.cloud,Direct
 HOST-SUFFIX,8kc.top,Direct
 HOST-SUFFIX,8x14khzwmi.com,Direct
 HOST-SUFFIX,900cha.com,Direct
+HOST-SUFFIX,91biu.work,Direct
 HOST-SUFFIX,91shenfan.com,Direct
 HOST-SUFFIX,975135.xyz,Direct
 HOST-SUFFIX,97973399.com,Direct
@@ -161,6 +162,7 @@ HOST-SUFFIX,aloys233.top,Direct
 HOST-SUFFIX,alpharatio.cc,Direct
 HOST-SUFFIX,amap-cdn.com,Direct
 HOST-SUFFIX,animebytes.tv,Direct
+HOST-SUFFIX,ankltoken.com,Direct
 HOST-SUFFIX,anthelion.me,Direct
 HOST-SUFFIX,antping.com,Direct
 HOST-SUFFIX,anvnjmc.com,Direct
@@ -372,6 +374,7 @@ HOST-SUFFIX,ffhome.com,Direct
 HOST-SUFFIX,filelist.io,Direct
 HOST-SUFFIX,fjpit.com,Direct
 HOST-SUFFIX,flingtrainer.com,Direct
+HOST-SUFFIX,fnspeed.net,Direct
 HOST-SUFFIX,fofuai.com,Direct
 HOST-SUFFIX,founderyt.com,Direct
 HOST-SUFFIX,fowep.com,Direct
@@ -531,6 +534,7 @@ HOST-SUFFIX,hwzuku.com,Direct
 HOST-SUFFIX,hybiome.com,Direct
 HOST-SUFFIX,hzlawyer.net,Direct
 HOST-SUFFIX,hzqsn.com,Direct
+HOST-SUFFIX,hzyi.eu.org,Direct
 HOST-SUFFIX,i234.me,Direct
 HOST-SUFFIX,ibnjl.shop,Direct
 HOST-SUFFIX,ibwm5lynb6.com,Direct
@@ -732,6 +736,7 @@ HOST-SUFFIX,openappfilter.com,Direct
 HOST-SUFFIX,openevai.com,Direct
 HOST-SUFFIX,openkylin.top,Direct
 HOST-SUFFIX,opentrust.net,Direct
+HOST-SUFFIX,opera.com,Direct
 HOST-SUFFIX,oppaiti.me,Direct
 HOST-SUFFIX,orence.net,Direct
 HOST-SUFFIX,orpheus.network,Direct
@@ -909,6 +914,7 @@ HOST-SUFFIX,trjho.com,Direct
 HOST-SUFFIX,trontv.com,Direct
 HOST-SUFFIX,ts3.ink,Direct
 HOST-SUFFIX,ttshitu.com,Direct
+HOST-SUFFIX,tualatin.club,Direct
 HOST-SUFFIX,tulipsport.com,Direct
 HOST-SUFFIX,tumukaoyan.com,Direct
 HOST-SUFFIX,tuxing.art,Direct
@@ -1038,6 +1044,7 @@ HOST-SUFFIX,zctnet.top,Direct
 HOST-SUFFIX,zeekrline.com,Direct
 HOST-SUFFIX,zhaiad.com,Direct
 HOST-SUFFIX,zhangleglobal.com,Direct
+HOST-SUFFIX,zhewx.com,Direct
 HOST-SUFFIX,zhi10.com,Direct
 HOST-SUFFIX,zhiexa.com,Direct
 HOST-SUFFIX,zhituwujie.com,Direct
