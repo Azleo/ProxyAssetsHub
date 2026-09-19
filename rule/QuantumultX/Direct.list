@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-19 07:02:36
+# UPDATED: UTC+8 2026-09-20 06:41:50
 # HOST: 58
-# HOST-SUFFIX: 1018
+# HOST-SUFFIX: 1023
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1126
+# TOTAL: 1131
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -278,6 +278,7 @@ HOST-SUFFIX,cn-music.mefun.vip,Direct
 HOST-SUFFIX,cnb.space,Direct
 HOST-SUFFIX,cocav.com,Direct
 HOST-SUFFIX,code-relay.com,Direct
+HOST-SUFFIX,code.fun,Direct
 HOST-SUFFIX,codeloop.top,Direct
 HOST-SUFFIX,coffee-iot.com,Direct
 HOST-SUFFIX,comicat.org,Direct
@@ -667,6 +668,7 @@ HOST-SUFFIX,mchuiji.com,Direct
 HOST-SUFFIX,mcrmb.com,Direct
 HOST-SUFFIX,mcxyzt.cc,Direct
 HOST-SUFFIX,medtechshare.com,Direct
+HOST-SUFFIX,meetkb.com,Direct
 HOST-SUFFIX,meijian.com,Direct
 HOST-SUFFIX,meishiffx.online,Direct
 HOST-SUFFIX,meiyitou.top,Direct
@@ -846,6 +848,7 @@ HOST-SUFFIX,shsw.top,Direct
 HOST-SUFFIX,shuangqingtech.com,Direct
 HOST-SUFFIX,shuangxiumall.com,Direct
 HOST-SUFFIX,shuinfo.com,Direct
+HOST-SUFFIX,shulex.com,Direct
 HOST-SUFFIX,shunjing.xin,Direct
 HOST-SUFFIX,shuqiandiqiu.com,Direct
 HOST-SUFFIX,shyxhy.com,Direct
@@ -950,8 +953,10 @@ HOST-SUFFIX,vclbrokers.com,Direct
 HOST-SUFFIX,vcltrade.com,Direct
 HOST-SUFFIX,vgogbuy.com,Direct
 HOST-SUFFIX,vip-cdn.com,Direct
+HOST-SUFFIX,visionariopro.com,Direct
 HOST-SUFFIX,vlan5.com,Direct
 HOST-SUFFIX,vpsjyz.com,Direct
+HOST-SUFFIX,vtools.online,Direct
 HOST-SUFFIX,vv1865.com,Direct
 HOST-SUFFIX,warmheart.top,Direct
 HOST-SUFFIX,we-stats.com,Direct
