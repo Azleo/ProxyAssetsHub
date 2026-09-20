@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-20 06:41:50
+# UPDATED: UTC+8 2026-09-21 07:01:20
 # HOST: 58
-# HOST-SUFFIX: 1023
+# HOST-SUFFIX: 1026
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1131
+# TOTAL: 1134
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -127,6 +127,7 @@ HOST-SUFFIX,975135.xyz,Direct
 HOST-SUFFIX,97973399.com,Direct
 HOST-SUFFIX,985hezi.com,Direct
 HOST-SUFFIX,998tool.com,Direct
+HOST-SUFFIX,9999jt.com,Direct
 HOST-SUFFIX,a0d.top,Direct
 HOST-SUFFIX,aaawz.cc,Direct
 HOST-SUFFIX,abctougu.com,Direct
@@ -378,6 +379,7 @@ HOST-SUFFIX,fenno.ai,Direct
 HOST-SUFFIX,fffff.games,Direct
 HOST-SUFFIX,ffhome.com,Direct
 HOST-SUFFIX,filelist.io,Direct
+HOST-SUFFIX,fjdejing.com,Direct
 HOST-SUFFIX,fjpit.com,Direct
 HOST-SUFFIX,flingtrainer.com,Direct
 HOST-SUFFIX,fnspeed.net,Direct
@@ -765,6 +767,7 @@ HOST-SUFFIX,paperang.com,Direct
 HOST-SUFFIX,passnat.com,Direct
 HOST-SUFFIX,passthepopcorn.me,Direct
 HOST-SUFFIX,pcwatch.com,Direct
+HOST-SUFFIX,pdf001.com,Direct
 HOST-SUFFIX,piedaochuan.top,Direct
 HOST-SUFFIX,pinshuxsw.com,Direct
 HOST-SUFFIX,pixcheese.com,Direct
