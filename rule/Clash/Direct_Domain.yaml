@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-22 07:51:01
+# UPDATED: UTC+8 2026-09-23 07:30:08
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 1026
+# DOMAIN-SUFFIX: 1027
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1123
+# TOTAL: 1124
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -263,6 +263,7 @@ payload:
   - DOMAIN-SUFFIX,chii.in
   - DOMAIN-SUFFIX,china-amass.com
   - DOMAIN-SUFFIX,chinatle.com
+  - DOMAIN-SUFFIX,chocolateswap.com
   - DOMAIN-SUFFIX,chuguansmart.com
   - DOMAIN-SUFFIX,chujingapp.com
   - DOMAIN-SUFFIX,chushi.cool
