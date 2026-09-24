@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-24 07:26:02
+# UPDATED: UTC+8 2026-09-25 07:46:17
 # HOST: 58
-# HOST-SUFFIX: 1028
+# HOST-SUFFIX: 1037
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1136
+# TOTAL: 1145
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -247,6 +247,7 @@ HOST-SUFFIX,ccfbits.org,Direct
 HOST-SUFFIX,ccw.site,Direct
 HOST-SUFFIX,cdn.doctor,Direct
 HOST-SUFFIX,cdn.ist,Direct
+HOST-SUFFIX,cdn362.cc,Direct
 HOST-SUFFIX,cdut.top,Direct
 HOST-SUFFIX,centbrowser.net,Direct
 HOST-SUFFIX,cftunnel.com,Direct
@@ -274,6 +275,7 @@ HOST-SUFFIX,cinematik.net,Direct
 HOST-SUFFIX,cinemaz.to,Direct
 HOST-SUFFIX,classix-unlimited.co.uk,Direct
 HOST-SUFFIX,clivia.fun,Direct
+HOST-SUFFIX,cloudllll.com,Direct
 HOST-SUFFIX,cmbc.run,Direct
 HOST-SUFFIX,cmhk.com,Direct
 HOST-SUFFIX,cn-music.mefun.vip,Direct
@@ -604,6 +606,7 @@ HOST-SUFFIX,jpopsuki.eu,Direct
 HOST-SUFFIX,jsdelivr.com,Direct
 HOST-SUFFIX,jsdelivr.net,Direct
 HOST-SUFFIX,jsj.top,Direct
+HOST-SUFFIX,jspvz.com,Direct
 HOST-SUFFIX,jstor.org,Direct
 HOST-SUFFIX,julebu.co,Direct
 HOST-SUFFIX,jxjktzjt.com,Direct
@@ -636,6 +639,7 @@ HOST-SUFFIX,koodomobile.com,Direct
 HOST-SUFFIX,kuaicha888.com,Direct
 HOST-SUFFIX,kudashi.com,Direct
 HOST-SUFFIX,kukongjian.com,Direct
+HOST-SUFFIX,kuktxu.com,Direct
 HOST-SUFFIX,kwai.net,Direct
 HOST-SUFFIX,lanyun.net,Direct
 HOST-SUFFIX,laogongju.com,Direct
@@ -787,6 +791,7 @@ HOST-SUFFIX,pookcdn.net,Direct
 HOST-SUFFIX,pool.ntp.org,Direct
 HOST-SUFFIX,pornbits.net,Direct
 HOST-SUFFIX,powershellgallery.com,Direct
+HOST-SUFFIX,ppqrrs.com,Direct
 HOST-SUFFIX,ppt28.com,Direct
 HOST-SUFFIX,privateapi.xyz,Direct
 HOST-SUFFIX,privatehd.to,Direct
@@ -796,6 +801,7 @@ HOST-SUFFIX,pthome.net,Direct
 HOST-SUFFIX,ptlgs.org,Direct
 HOST-SUFFIX,ptsbao.club,Direct
 HOST-SUFFIX,pubsub.tech,Direct
+HOST-SUFFIX,pvz1.com,Direct
 HOST-SUFFIX,pwithe.com,Direct
 HOST-SUFFIX,qianfan.app,Direct
 HOST-SUFFIX,qiankunshopping.com,Direct
@@ -859,6 +865,7 @@ HOST-SUFFIX,shuqiandiqiu.com,Direct
 HOST-SUFFIX,shyxhy.com,Direct
 HOST-SUFFIX,sisiim.com,Direct
 HOST-SUFFIX,sixloy428.top,Direct
+HOST-SUFFIX,sjchess.com,Direct
 HOST-SUFFIX,skktec.com,Direct
 HOST-SUFFIX,sksight.com,Direct
 HOST-SUFFIX,skxvc.com,Direct
@@ -969,6 +976,7 @@ HOST-SUFFIX,weather-analytics-events.apple.com,Direct
 HOST-SUFFIX,weather-data.apple.com,Direct
 HOST-SUFFIX,weather-map.apple.com,Direct
 HOST-SUFFIX,webs.vc,Direct
+HOST-SUFFIX,weixinpcs.com,Direct
 HOST-SUFFIX,wenyi188.com,Direct
 HOST-SUFFIX,wera.eu.org,Direct
 HOST-SUFFIX,weshape3d.com,Direct
@@ -1000,6 +1008,7 @@ HOST-SUFFIX,xgzb.top,Direct
 HOST-SUFFIX,xhey.top,Direct
 HOST-SUFFIX,xianghuiin.com,Direct
 HOST-SUFFIX,xiankabao.com,Direct
+HOST-SUFFIX,xiaoai.live,Direct
 HOST-SUFFIX,xiaobeiyangji.com,Direct
 HOST-SUFFIX,xiaocaiyuan.com,Direct
 HOST-SUFFIX,xiaochuanyun.com,Direct

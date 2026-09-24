@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-24 07:26:02
+# UPDATED: UTC+8 2026-09-25 07:46:17
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 1028
+# DOMAIN-SUFFIX: 1037
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1125
+# TOTAL: 1134
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -246,6 +246,7 @@ payload:
   - DOMAIN-SUFFIX,ccw.site
   - DOMAIN-SUFFIX,cdn.doctor
   - DOMAIN-SUFFIX,cdn.ist
+  - DOMAIN-SUFFIX,cdn362.cc
   - DOMAIN-SUFFIX,cdut.top
   - DOMAIN-SUFFIX,centbrowser.net
   - DOMAIN-SUFFIX,cftunnel.com
@@ -273,6 +274,7 @@ payload:
   - DOMAIN-SUFFIX,cinemaz.to
   - DOMAIN-SUFFIX,classix-unlimited.co.uk
   - DOMAIN-SUFFIX,clivia.fun
+  - DOMAIN-SUFFIX,cloudllll.com
   - DOMAIN-SUFFIX,cmbc.run
   - DOMAIN-SUFFIX,cmhk.com
   - DOMAIN-SUFFIX,cn-music.mefun.vip
@@ -603,6 +605,7 @@ payload:
   - DOMAIN-SUFFIX,jsdelivr.com
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,jsj.top
+  - DOMAIN-SUFFIX,jspvz.com
   - DOMAIN-SUFFIX,jstor.org
   - DOMAIN-SUFFIX,julebu.co
   - DOMAIN-SUFFIX,jxjktzjt.com
@@ -635,6 +638,7 @@ payload:
   - DOMAIN-SUFFIX,kuaicha888.com
   - DOMAIN-SUFFIX,kudashi.com
   - DOMAIN-SUFFIX,kukongjian.com
+  - DOMAIN-SUFFIX,kuktxu.com
   - DOMAIN-SUFFIX,kwai.net
   - DOMAIN-SUFFIX,lanyun.net
   - DOMAIN-SUFFIX,laogongju.com
@@ -786,6 +790,7 @@ payload:
   - DOMAIN-SUFFIX,pool.ntp.org
   - DOMAIN-SUFFIX,pornbits.net
   - DOMAIN-SUFFIX,powershellgallery.com
+  - DOMAIN-SUFFIX,ppqrrs.com
   - DOMAIN-SUFFIX,ppt28.com
   - DOMAIN-SUFFIX,privateapi.xyz
   - DOMAIN-SUFFIX,privatehd.to
@@ -795,6 +800,7 @@ payload:
   - DOMAIN-SUFFIX,ptlgs.org
   - DOMAIN-SUFFIX,ptsbao.club
   - DOMAIN-SUFFIX,pubsub.tech
+  - DOMAIN-SUFFIX,pvz1.com
   - DOMAIN-SUFFIX,pwithe.com
   - DOMAIN-SUFFIX,qianfan.app
   - DOMAIN-SUFFIX,qiankunshopping.com
@@ -858,6 +864,7 @@ payload:
   - DOMAIN-SUFFIX,shyxhy.com
   - DOMAIN-SUFFIX,sisiim.com
   - DOMAIN-SUFFIX,sixloy428.top
+  - DOMAIN-SUFFIX,sjchess.com
   - DOMAIN-SUFFIX,skktec.com
   - DOMAIN-SUFFIX,sksight.com
   - DOMAIN-SUFFIX,skxvc.com
@@ -968,6 +975,7 @@ payload:
   - DOMAIN-SUFFIX,weather-data.apple.com
   - DOMAIN-SUFFIX,weather-map.apple.com
   - DOMAIN-SUFFIX,webs.vc
+  - DOMAIN-SUFFIX,weixinpcs.com
   - DOMAIN-SUFFIX,wenyi188.com
   - DOMAIN-SUFFIX,wera.eu.org
   - DOMAIN-SUFFIX,weshape3d.com
@@ -999,6 +1007,7 @@ payload:
   - DOMAIN-SUFFIX,xhey.top
   - DOMAIN-SUFFIX,xianghuiin.com
   - DOMAIN-SUFFIX,xiankabao.com
+  - DOMAIN-SUFFIX,xiaoai.live
   - DOMAIN-SUFFIX,xiaobeiyangji.com
   - DOMAIN-SUFFIX,xiaocaiyuan.com
   - DOMAIN-SUFFIX,xiaochuanyun.com
