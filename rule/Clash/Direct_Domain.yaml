@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-26 07:51:41
+# UPDATED: UTC+8 2026-09-27 07:23:08
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 1042
+# DOMAIN-SUFFIX: 1048
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1139
+# TOTAL: 1145
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -158,6 +158,7 @@ payload:
   - DOMAIN-SUFFIX,aistudio-app.com
   - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,allptt.com
   - DOMAIN-SUFFIX,alonginwind.eu.org
   - DOMAIN-SUFFIX,alonginwind.to
   - DOMAIN-SUFFIX,alonginwind.top
@@ -198,6 +199,7 @@ payload:
   - DOMAIN-SUFFIX,baiyishequ.com
   - DOMAIN-SUFFIX,bajie.la
   - DOMAIN-SUFFIX,banban.work
+  - DOMAIN-SUFFIX,banxueketang.com
   - DOMAIN-SUFFIX,baominggongju.com
   - DOMAIN-SUFFIX,baomitu.com
   - DOMAIN-SUFFIX,batchat.com
@@ -290,6 +292,7 @@ payload:
   - DOMAIN-SUFFIX,congmiqq.com
   - DOMAIN-SUFFIX,constasj.me
   - DOMAIN-SUFFIX,coros.com
+  - DOMAIN-SUFFIX,cqjypg.com
   - DOMAIN-SUFFIX,cqnbmarathon.com
   - DOMAIN-SUFFIX,crrcgo.cc
   - DOMAIN-SUFFIX,crtyhr.com
@@ -649,6 +652,7 @@ payload:
   - DOMAIN-SUFFIX,leaguehd.com
   - DOMAIN-SUFFIX,leelen.com
   - DOMAIN-SUFFIX,letaoedu.com
+  - DOMAIN-SUFFIX,lezuan6.com
   - DOMAIN-SUFFIX,lg3000.top
   - DOMAIN-SUFFIX,lightmake.site
   - DOMAIN-SUFFIX,linka2a.net
@@ -914,6 +918,8 @@ payload:
   - DOMAIN-SUFFIX,terra-master.com
   - DOMAIN-SUFFIX,terrabbs.ink
   - DOMAIN-SUFFIX,tggfl.com
+  - DOMAIN-SUFFIX,tgpro.net
+  - DOMAIN-SUFFIX,tgpro.top
   - DOMAIN-SUFFIX,theluyuan.com
   - DOMAIN-SUFFIX,theuwa.com
   - DOMAIN-SUFFIX,thinkerride.com

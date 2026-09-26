@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-26 07:51:41
+# UPDATED: UTC+8 2026-09-27 07:23:08
 # HOST: 58
-# HOST-SUFFIX: 1042
+# HOST-SUFFIX: 1048
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1150
+# TOTAL: 1156
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -159,6 +159,7 @@ HOST-SUFFIX,aisnogames.com,Direct
 HOST-SUFFIX,aistudio-app.com,Direct
 HOST-SUFFIX,akamaihd.net,Direct
 HOST-SUFFIX,akamaized.net,Direct
+HOST-SUFFIX,allptt.com,Direct
 HOST-SUFFIX,alonginwind.eu.org,Direct
 HOST-SUFFIX,alonginwind.to,Direct
 HOST-SUFFIX,alonginwind.top,Direct
@@ -199,6 +200,7 @@ HOST-SUFFIX,baidu94.com,Direct
 HOST-SUFFIX,baiyishequ.com,Direct
 HOST-SUFFIX,bajie.la,Direct
 HOST-SUFFIX,banban.work,Direct
+HOST-SUFFIX,banxueketang.com,Direct
 HOST-SUFFIX,baominggongju.com,Direct
 HOST-SUFFIX,baomitu.com,Direct
 HOST-SUFFIX,batchat.com,Direct
@@ -291,6 +293,7 @@ HOST-SUFFIX,cone-x.com,Direct
 HOST-SUFFIX,congmiqq.com,Direct
 HOST-SUFFIX,constasj.me,Direct
 HOST-SUFFIX,coros.com,Direct
+HOST-SUFFIX,cqjypg.com,Direct
 HOST-SUFFIX,cqnbmarathon.com,Direct
 HOST-SUFFIX,crrcgo.cc,Direct
 HOST-SUFFIX,crtyhr.com,Direct
@@ -650,6 +653,7 @@ HOST-SUFFIX,leadweigh.com,Direct
 HOST-SUFFIX,leaguehd.com,Direct
 HOST-SUFFIX,leelen.com,Direct
 HOST-SUFFIX,letaoedu.com,Direct
+HOST-SUFFIX,lezuan6.com,Direct
 HOST-SUFFIX,lg3000.top,Direct
 HOST-SUFFIX,lightmake.site,Direct
 HOST-SUFFIX,linka2a.net,Direct
@@ -915,6 +919,8 @@ HOST-SUFFIX,tdrgame.top,Direct
 HOST-SUFFIX,terra-master.com,Direct
 HOST-SUFFIX,terrabbs.ink,Direct
 HOST-SUFFIX,tggfl.com,Direct
+HOST-SUFFIX,tgpro.net,Direct
+HOST-SUFFIX,tgpro.top,Direct
 HOST-SUFFIX,theluyuan.com,Direct
 HOST-SUFFIX,theuwa.com,Direct
 HOST-SUFFIX,thinkerride.com,Direct
