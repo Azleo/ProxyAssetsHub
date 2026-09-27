@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-27 07:23:08
+# UPDATED: UTC+8 2026-09-28 07:40:25
 # HOST: 58
-# HOST-SUFFIX: 1048
+# HOST-SUFFIX: 1052
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1156
+# TOTAL: 1160
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -157,6 +157,7 @@ HOST-SUFFIX,aigodlike.com,Direct
 HOST-SUFFIX,ainfinit.com,Direct
 HOST-SUFFIX,aisnogames.com,Direct
 HOST-SUFFIX,aistudio-app.com,Direct
+HOST-SUFFIX,aiyohoo.com,Direct
 HOST-SUFFIX,akamaihd.net,Direct
 HOST-SUFFIX,akamaized.net,Direct
 HOST-SUFFIX,allptt.com,Direct
@@ -532,6 +533,7 @@ HOST-SUFFIX,hpr7e.top,Direct
 HOST-SUFFIX,hprtupgrade.com,Direct
 HOST-SUFFIX,hrhgstock.com,Direct
 HOST-SUFFIX,hsbc.com.hk,Direct
+HOST-SUFFIX,hsdxdl.com,Direct
 HOST-SUFFIX,hstbroker.com,Direct
 HOST-SUFFIX,hszq6.com,Direct
 HOST-SUFFIX,htkgsx.com,Direct
@@ -613,6 +615,7 @@ HOST-SUFFIX,jsdelivr.net,Direct
 HOST-SUFFIX,jsj.top,Direct
 HOST-SUFFIX,jspvz.com,Direct
 HOST-SUFFIX,jstor.org,Direct
+HOST-SUFFIX,juantui.com,Direct
 HOST-SUFFIX,julebu.co,Direct
 HOST-SUFFIX,jxjktzjt.com,Direct
 HOST-SUFFIX,jxpp.com,Direct
@@ -661,6 +664,7 @@ HOST-SUFFIX,linux.sb,Direct
 HOST-SUFFIX,listenai.com,Direct
 HOST-SUFFIX,liunn.com,Direct
 HOST-SUFFIX,liveperson.net,Direct
+HOST-SUFFIX,ljj233.top,Direct
 HOST-SUFFIX,longmenshuju.com,Direct
 HOST-SUFFIX,loveutips.com,Direct
 HOST-SUFFIX,lsbj365.com,Direct

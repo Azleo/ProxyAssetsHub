@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-27 07:23:08
+# UPDATED: UTC+8 2026-09-28 07:40:25
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 1048
+# DOMAIN-SUFFIX: 1052
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1145
+# TOTAL: 1149
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -156,6 +156,7 @@ payload:
   - DOMAIN-SUFFIX,ainfinit.com
   - DOMAIN-SUFFIX,aisnogames.com
   - DOMAIN-SUFFIX,aistudio-app.com
+  - DOMAIN-SUFFIX,aiyohoo.com
   - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,allptt.com
@@ -531,6 +532,7 @@ payload:
   - DOMAIN-SUFFIX,hprtupgrade.com
   - DOMAIN-SUFFIX,hrhgstock.com
   - DOMAIN-SUFFIX,hsbc.com.hk
+  - DOMAIN-SUFFIX,hsdxdl.com
   - DOMAIN-SUFFIX,hstbroker.com
   - DOMAIN-SUFFIX,hszq6.com
   - DOMAIN-SUFFIX,htkgsx.com
@@ -612,6 +614,7 @@ payload:
   - DOMAIN-SUFFIX,jsj.top
   - DOMAIN-SUFFIX,jspvz.com
   - DOMAIN-SUFFIX,jstor.org
+  - DOMAIN-SUFFIX,juantui.com
   - DOMAIN-SUFFIX,julebu.co
   - DOMAIN-SUFFIX,jxjktzjt.com
   - DOMAIN-SUFFIX,jxpp.com
@@ -660,6 +663,7 @@ payload:
   - DOMAIN-SUFFIX,listenai.com
   - DOMAIN-SUFFIX,liunn.com
   - DOMAIN-SUFFIX,liveperson.net
+  - DOMAIN-SUFFIX,ljj233.top
   - DOMAIN-SUFFIX,longmenshuju.com
   - DOMAIN-SUFFIX,loveutips.com
   - DOMAIN-SUFFIX,lsbj365.com
