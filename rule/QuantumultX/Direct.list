@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-29 08:49:53
+# UPDATED: UTC+8 2026-09-30 08:04:31
 # HOST: 58
-# HOST-SUFFIX: 1054
+# HOST-SUFFIX: 1057
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1162
+# TOTAL: 1165
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -348,6 +348,7 @@ HOST-SUFFIX,dtproj.top,Direct
 HOST-SUFFIX,dushe1.app,Direct
 HOST-SUFFIX,dxdhd.com,Direct
 HOST-SUFFIX,dytt8.com,Direct
+HOST-SUFFIX,e0x233.com,Direct
 HOST-SUFFIX,eagsen.com,Direct
 HOST-SUFFIX,eastgame.org,Direct
 HOST-SUFFIX,easytier.top,Direct
@@ -378,6 +379,7 @@ HOST-SUFFIX,fastify.cc,Direct
 HOST-SUFFIX,fb71ef91e1014.beer,Direct
 HOST-SUFFIX,fdfinvoice.com,Direct
 HOST-SUFFIX,feihengip.com,Direct
+HOST-SUFFIX,feiniugo.com,Direct
 HOST-SUFFIX,feiyujiaju.com,Direct
 HOST-SUFFIX,feizhiyi.com,Direct
 HOST-SUFFIX,fengda.me,Direct
@@ -460,6 +462,7 @@ HOST-SUFFIX,googoc.com,Direct
 HOST-SUFFIX,gootho.com,Direct
 HOST-SUFFIX,gpetrip.com,Direct
 HOST-SUFFIX,gpgwx.com,Direct
+HOST-SUFFIX,grz-hx.com,Direct
 HOST-SUFFIX,gseen.com,Direct
 HOST-SUFFIX,gsgltz.com,Direct
 HOST-SUFFIX,gsjkjt.com,Direct
