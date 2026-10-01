@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-09-30 08:04:31
+# UPDATED: UTC+8 2026-10-01 08:23:26
 # HOST: 58
-# HOST-SUFFIX: 1057
+# HOST-SUFFIX: 1058
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1165
+# TOTAL: 1166
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -492,6 +492,7 @@ HOST-SUFFIX,harbourmooc.com,Direct
 HOST-SUFFIX,hbcof.com,Direct
 HOST-SUFFIX,hbctic.com,Direct
 HOST-SUFFIX,hbymfswz.com,Direct
+HOST-SUFFIX,hclassplatform.com,Direct
 HOST-SUFFIX,hd-space.org,Direct
 HOST-SUFFIX,hd4.xyz,Direct
 HOST-SUFFIX,hd4fans.org,Direct
