@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-10-01 08:23:26
+# UPDATED: UTC+8 2026-10-02 08:33:11
 # HOST: 58
-# HOST-SUFFIX: 1058
+# HOST-SUFFIX: 1061
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1166
+# TOTAL: 1169
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -90,6 +90,7 @@ HOST-SUFFIX,3gxk.net,Direct
 HOST-SUFFIX,419g.com,Direct
 HOST-SUFFIX,4399zmxy.com,Direct
 HOST-SUFFIX,44nc.com,Direct
+HOST-SUFFIX,4942.cc,Direct
 HOST-SUFFIX,4kgj.com,Direct
 HOST-SUFFIX,4xiaoshuo.org,Direct
 HOST-SUFFIX,51kandianshi.com,Direct
@@ -344,6 +345,7 @@ HOST-SUFFIX,dskj-ops.com,Direct
 HOST-SUFFIX,dsmynas.com,Direct
 HOST-SUFFIX,dsmynas.net,Direct
 HOST-SUFFIX,dsmynas.org,Direct
+HOST-SUFFIX,dtinsure.com,Direct
 HOST-SUFFIX,dtproj.top,Direct
 HOST-SUFFIX,dushe1.app,Direct
 HOST-SUFFIX,dxdhd.com,Direct
@@ -474,6 +476,7 @@ HOST-SUFFIX,guangshiting.top,Direct
 HOST-SUFFIX,guangyapan.com,Direct
 HOST-SUFFIX,gvgoo.com,Direct
 HOST-SUFFIX,gwmapp-w.com,Direct
+HOST-SUFFIX,gxcould.com,Direct
 HOST-SUFFIX,gxnnjidingkeji.top,Direct
 HOST-SUFFIX,gxrke1715.com,Direct
 HOST-SUFFIX,gzjkoa.com,Direct

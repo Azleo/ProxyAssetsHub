@@ -1,11 +1,11 @@
 # NAME: AI-ALL规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-10-01 08:23:32
+# UPDATED: UTC+8 2026-10-02 08:33:18
 # DOMAIN: 38
-# DOMAIN-SUFFIX: 111
+# DOMAIN-SUFFIX: 114
 # DOMAIN-KEYWORD: 8
-# TOTAL: 157
+# TOTAL: 160
 payload:
   - DOMAIN,ai.google.dev
   - DOMAIN,aistudio.google.com
@@ -101,6 +101,8 @@ payload:
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,gemini.gstatic.com
+  - DOMAIN-SUFFIX,geminiweb-pa.clients.google.com
+  - DOMAIN-SUFFIX,geminiweb-pa.clients6.google.com
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,githubcopilot.com
@@ -115,6 +117,7 @@ payload:
   - DOMAIN-SUFFIX,jules.google.com
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
+  - DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,livekit.cloud
   - DOMAIN-SUFFIX,makersuite.google.com
