@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-10-12 08:14:36
+# UPDATED: UTC+8 2026-10-13 10:25:18
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 1123
+# DOMAIN-SUFFIX: 1126
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1220
+# TOTAL: 1223
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -284,6 +284,7 @@ payload:
   - DOMAIN-SUFFIX,cinemageddon.net
   - DOMAIN-SUFFIX,cinematik.net
   - DOMAIN-SUFFIX,cinemaz.to
+  - DOMAIN-SUFFIX,ciyuancenter.cc
   - DOMAIN-SUFFIX,classix-unlimited.co.uk
   - DOMAIN-SUFFIX,clivia.fun
   - DOMAIN-SUFFIX,cloudllll.com
@@ -740,10 +741,12 @@ payload:
   - DOMAIN-SUFFIX,mifeng.plus
   - DOMAIN-SUFFIX,mifon.com
   - DOMAIN-SUFFIX,mifosy.com
+  - DOMAIN-SUFFIX,minekuai.com
   - DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
   - DOMAIN-SUFFIX,miraiemby.com
   - DOMAIN-SUFFIX,mixly.org
   - DOMAIN-SUFFIX,mobai.sbs
+  - DOMAIN-SUFFIX,moctory.com
   - DOMAIN-SUFFIX,modaiyun.com
   - DOMAIN-SUFFIX,modelscope.net
   - DOMAIN-SUFFIX,moecat.best
