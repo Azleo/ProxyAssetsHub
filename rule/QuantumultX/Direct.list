@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-10-16 07:32:49
+# UPDATED: UTC+8 2026-10-17 07:16:14
 # HOST: 58
-# HOST-SUFFIX: 1129
+# HOST-SUFFIX: 1136
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1237
+# TOTAL: 1244
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -191,6 +191,7 @@ HOST-SUFFIX,argotunnel.com,Direct
 HOST-SUFFIX,armvm.com,Direct
 HOST-SUFFIX,asgardion.space,Direct
 HOST-SUFFIX,asiancinema.me,Direct
+HOST-SUFFIX,astrobox.online,Direct
 HOST-SUFFIX,atticus.vip,Direct
 HOST-SUFFIX,avgv.cc,Direct
 HOST-SUFFIX,avistaz.to,Direct
@@ -205,6 +206,7 @@ HOST-SUFFIX,baicaf.com,Direct
 HOST-SUFFIX,baidu94.com,Direct
 HOST-SUFFIX,baiyishequ.com,Direct
 HOST-SUFFIX,bajie.la,Direct
+HOST-SUFFIX,bambulab.com,Direct
 HOST-SUFFIX,banban.work,Direct
 HOST-SUFFIX,banxueketang.com,Direct
 HOST-SUFFIX,baominggongju.com,Direct
@@ -507,6 +509,7 @@ HOST-SUFFIX,h6009.top,Direct
 HOST-SUFFIX,haimaiedu.net,Direct
 HOST-SUFFIX,halvie.com,Direct
 HOST-SUFFIX,ham.xin,Direct
+HOST-SUFFIX,handfree.work,Direct
 HOST-SUFFIX,hangnakeji.com,Direct
 HOST-SUFFIX,hanqiuming888.com,Direct
 HOST-SUFFIX,haofanhuoban.com,Direct
@@ -710,6 +713,7 @@ HOST-SUFFIX,lucky.gd,Direct
 HOST-SUFFIX,lw5.co,Direct
 HOST-SUFFIX,lyihub.com,Direct
 HOST-SUFFIX,lyilife.com,Direct
+HOST-SUFFIX,lzgame.top,Direct
 HOST-SUFFIX,lztr.me,Direct
 HOST-SUFFIX,m-team.cc,Direct
 HOST-SUFFIX,m-team.io,Direct
@@ -799,6 +803,7 @@ HOST-SUFFIX,ok321.top,Direct
 HOST-SUFFIX,ol.epicgames.com,Direct
 HOST-SUFFIX,omq.cc,Direct
 HOST-SUFFIX,onebuygz.com,Direct
+HOST-SUFFIX,onesetapp.com,Direct
 HOST-SUFFIX,onetoken.sh,Direct
 HOST-SUFFIX,onetools.top,Direct
 HOST-SUFFIX,open.cd,Direct
@@ -1053,6 +1058,7 @@ HOST-SUFFIX,vpsjyz.com,Direct
 HOST-SUFFIX,vtools.online,Direct
 HOST-SUFFIX,vv1865.com,Direct
 HOST-SUFFIX,warmheart.top,Direct
+HOST-SUFFIX,wawo.cc,Direct
 HOST-SUFFIX,we-stats.com,Direct
 HOST-SUFFIX,weather-analytics-events.apple.com,Direct
 HOST-SUFFIX,weather-data.apple.com,Direct
@@ -1115,6 +1121,7 @@ HOST-SUFFIX,xixih.cc,Direct
 HOST-SUFFIX,xkkapk.com,Direct
 HOST-SUFFIX,xn--4kq62z5rby2qupq9ub.top,Direct
 HOST-SUFFIX,xn--cesw6hd3s99f.com,Direct
+HOST-SUFFIX,xn--estr6ge7tok1a.com,Direct
 HOST-SUFFIX,xn--id-ov2cb7n32b01yl6auun2bpzk4p2dgip.com,Direct
 HOST-SUFFIX,xn--mmz.cc,Direct
 HOST-SUFFIX,xn--vhqr42drhf5k7b.com,Direct
