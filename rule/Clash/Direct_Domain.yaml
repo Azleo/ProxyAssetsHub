@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-10-17 07:16:14
+# UPDATED: UTC+8 2026-10-18 06:54:32
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 1136
+# DOMAIN-SUFFIX: 1142
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1233
+# TOTAL: 1239
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -267,6 +267,7 @@ payload:
   - DOMAIN-SUFFIX,cg3da.com
   - DOMAIN-SUFFIX,cgicop.com
   - DOMAIN-SUFFIX,cgpeers.com
+  - DOMAIN-SUFFIX,changjirb.com
   - DOMAIN-SUFFIX,chaxunjiao.com
   - DOMAIN-SUFFIX,chaz.fun
   - DOMAIN-SUFFIX,checkip.dyndns.org
@@ -370,6 +371,7 @@ payload:
   - DOMAIN-SUFFIX,easytier.top
   - DOMAIN-SUFFIX,easytomessage.com
   - DOMAIN-SUFFIX,eceshi.com
+  - DOMAIN-SUFFIX,ectaiping.com
   - DOMAIN-SUFFIX,einfo-tech.com
   - DOMAIN-SUFFIX,emby.yun
   - DOMAIN-SUFFIX,empornium.me
@@ -540,6 +542,7 @@ payload:
   - DOMAIN-SUFFIX,hdupt.com
   - DOMAIN-SUFFIX,hdzone.me
   - DOMAIN-SUFFIX,hexiny.com
+  - DOMAIN-SUFFIX,heysida.com
   - DOMAIN-SUFFIX,hezuvip.com
   - DOMAIN-SUFFIX,hf-mirror.com
   - DOMAIN-SUFFIX,hfhs8x.info
@@ -621,6 +624,7 @@ payload:
   - DOMAIN-SUFFIX,ipjrh.com
   - DOMAIN-SUFFIX,iposl.com
   - DOMAIN-SUFFIX,ipshu.com
+  - DOMAIN-SUFFIX,iq.com
   - DOMAIN-SUFFIX,iquantumad.com
   - DOMAIN-SUFFIX,istoreos.com
   - DOMAIN-SUFFIX,itptg.com
@@ -858,6 +862,7 @@ payload:
   - DOMAIN-SUFFIX,psf0404.shop
   - DOMAIN-SUFFIX,pterclub.com
   - DOMAIN-SUFFIX,pthome.net
+  - DOMAIN-SUFFIX,pthqzpc100.com
   - DOMAIN-SUFFIX,ptlgs.org
   - DOMAIN-SUFFIX,ptsbao.club
   - DOMAIN-SUFFIX,ptxzn.com
@@ -1028,6 +1033,7 @@ payload:
   - DOMAIN-SUFFIX,tumukaoyan.com
   - DOMAIN-SUFFIX,tuxing.art
   - DOMAIN-SUFFIX,twinkstar.com
+  - DOMAIN-SUFFIX,twtapp.com
   - DOMAIN-SUFFIX,type.fun
   - DOMAIN-SUFFIX,tztec.top
   - DOMAIN-SUFFIX,u-carloan.com

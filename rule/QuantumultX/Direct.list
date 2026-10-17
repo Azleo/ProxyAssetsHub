@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-10-17 07:16:14
+# UPDATED: UTC+8 2026-10-18 06:54:32
 # HOST: 58
-# HOST-SUFFIX: 1136
+# HOST-SUFFIX: 1142
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1244
+# TOTAL: 1250
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -268,6 +268,7 @@ HOST-SUFFIX,cftunnel.com,Direct
 HOST-SUFFIX,cg3da.com,Direct
 HOST-SUFFIX,cgicop.com,Direct
 HOST-SUFFIX,cgpeers.com,Direct
+HOST-SUFFIX,changjirb.com,Direct
 HOST-SUFFIX,chaxunjiao.com,Direct
 HOST-SUFFIX,chaz.fun,Direct
 HOST-SUFFIX,checkip.dyndns.org,Direct
@@ -371,6 +372,7 @@ HOST-SUFFIX,eastgame.org,Direct
 HOST-SUFFIX,easytier.top,Direct
 HOST-SUFFIX,easytomessage.com,Direct
 HOST-SUFFIX,eceshi.com,Direct
+HOST-SUFFIX,ectaiping.com,Direct
 HOST-SUFFIX,einfo-tech.com,Direct
 HOST-SUFFIX,emby.yun,Direct
 HOST-SUFFIX,empornium.me,Direct
@@ -541,6 +543,7 @@ HOST-SUFFIX,hdtime.org,Direct
 HOST-SUFFIX,hdupt.com,Direct
 HOST-SUFFIX,hdzone.me,Direct
 HOST-SUFFIX,hexiny.com,Direct
+HOST-SUFFIX,heysida.com,Direct
 HOST-SUFFIX,hezuvip.com,Direct
 HOST-SUFFIX,hf-mirror.com,Direct
 HOST-SUFFIX,hfhs8x.info,Direct
@@ -622,6 +625,7 @@ HOST-SUFFIX,ipapi.co,Direct
 HOST-SUFFIX,ipjrh.com,Direct
 HOST-SUFFIX,iposl.com,Direct
 HOST-SUFFIX,ipshu.com,Direct
+HOST-SUFFIX,iq.com,Direct
 HOST-SUFFIX,iquantumad.com,Direct
 HOST-SUFFIX,istoreos.com,Direct
 HOST-SUFFIX,itptg.com,Direct
@@ -859,6 +863,7 @@ HOST-SUFFIX,privatehd.to,Direct
 HOST-SUFFIX,psf0404.shop,Direct
 HOST-SUFFIX,pterclub.com,Direct
 HOST-SUFFIX,pthome.net,Direct
+HOST-SUFFIX,pthqzpc100.com,Direct
 HOST-SUFFIX,ptlgs.org,Direct
 HOST-SUFFIX,ptsbao.club,Direct
 HOST-SUFFIX,ptxzn.com,Direct
@@ -1029,6 +1034,7 @@ HOST-SUFFIX,tulipsport.com,Direct
 HOST-SUFFIX,tumukaoyan.com,Direct
 HOST-SUFFIX,tuxing.art,Direct
 HOST-SUFFIX,twinkstar.com,Direct
+HOST-SUFFIX,twtapp.com,Direct
 HOST-SUFFIX,type.fun,Direct
 HOST-SUFFIX,tztec.top,Direct
 HOST-SUFFIX,u-carloan.com,Direct
