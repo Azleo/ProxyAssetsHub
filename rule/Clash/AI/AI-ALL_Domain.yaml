@@ -1,11 +1,11 @@
 # NAME: AI-ALL规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-10-19 06:48:12
+# UPDATED: UTC+8 2026-10-20 08:06:43
 # DOMAIN: 38
-# DOMAIN-SUFFIX: 114
+# DOMAIN-SUFFIX: 115
 # DOMAIN-KEYWORD: 8
-# TOTAL: 160
+# TOTAL: 161
 payload:
   - DOMAIN,ai.google.dev
   - DOMAIN,aistudio.google.com
@@ -137,6 +137,7 @@ payload:
   - DOMAIN-SUFFIX,opal.google.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,openai.org
   - DOMAIN-SUFFIX,openai.qualtrics.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,openaiassets.blob.core.windows.net

@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-10-19 06:48:04
+# UPDATED: UTC+8 2026-10-20 08:06:38
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 1143
+# DOMAIN-SUFFIX: 1148
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1240
+# TOTAL: 1245
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -255,8 +255,10 @@ payload:
   - DOMAIN-SUFFIX,calmate.cc
   - DOMAIN-SUFFIX,canghaiip.com
   - DOMAIN-SUFFIX,cangjie-lang.net
+  - DOMAIN-SUFFIX,cbn.id
   - DOMAIN-SUFFIX,cc.ink
   - DOMAIN-SUFFIX,cc39ute.shop
+  - DOMAIN-SUFFIX,cc44dd.com
   - DOMAIN-SUFFIX,ccfbits.org
   - DOMAIN-SUFFIX,ccw.site
   - DOMAIN-SUFFIX,cdn.doctor
@@ -694,6 +696,7 @@ payload:
   - DOMAIN-SUFFIX,lanyun.net
   - DOMAIN-SUFFIX,laogongju.com
   - DOMAIN-SUFFIX,latexlive.com
+  - DOMAIN-SUFFIX,laupqc.com
   - DOMAIN-SUFFIX,leadweigh.com
   - DOMAIN-SUFFIX,leaguehd.com
   - DOMAIN-SUFFIX,leelen.com
@@ -1063,6 +1066,8 @@ payload:
   - DOMAIN-SUFFIX,vpsjyz.com
   - DOMAIN-SUFFIX,vtools.online
   - DOMAIN-SUFFIX,vv1865.com
+  - DOMAIN-SUFFIX,vvhan.com
+  - DOMAIN-SUFFIX,wallecube.com
   - DOMAIN-SUFFIX,warmheart.top
   - DOMAIN-SUFFIX,wawo.cc
   - DOMAIN-SUFFIX,we-stats.com
