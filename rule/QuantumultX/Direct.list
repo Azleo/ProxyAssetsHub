@@ -1,7 +1,7 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-10-21 07:38:19
+# UPDATED: UTC+8 2026-10-22 07:54:18
 # HOST: 58
 # HOST-SUFFIX: 1151
 # HOST-KEYWORD: 39
@@ -519,6 +519,7 @@ HOST-SUFFIX,ham.xin,Direct
 HOST-SUFFIX,handfree.work,Direct
 HOST-SUFFIX,hangnakeji.com,Direct
 HOST-SUFFIX,hanqiuming888.com,Direct
+HOST-SUFFIX,hanzhe.site,Direct
 HOST-SUFFIX,haofanhuoban.com,Direct
 HOST-SUFFIX,haojieyun.com,Direct
 HOST-SUFFIX,haoxueche.com,Direct
@@ -612,7 +613,6 @@ HOST-SUFFIX,igpsport.com,Direct
 HOST-SUFFIX,ijingyi.com,Direct
 HOST-SUFFIX,ilucky.net,Direct
 HOST-SUFFIX,imacos.top,Direct
-HOST-SUFFIX,immortalwrt.org,Direct
 HOST-SUFFIX,indeedpower.com,Direct
 HOST-SUFFIX,inetlab.top,Direct
 HOST-SUFFIX,inextos.com,Direct
