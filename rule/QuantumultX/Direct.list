@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-10-22 07:54:18
+# UPDATED: UTC+8 2026-10-23 07:53:10
 # HOST: 58
-# HOST-SUFFIX: 1151
+# HOST-SUFFIX: 1154
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1259
+# TOTAL: 1262
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -310,6 +310,7 @@ HOST-SUFFIX,comicat.org,Direct
 HOST-SUFFIX,concertos.live,Direct
 HOST-SUFFIX,cone-x.com,Direct
 HOST-SUFFIX,congmiqq.com,Direct
+HOST-SUFFIX,constantinefun.com,Direct
 HOST-SUFFIX,constasj.me,Direct
 HOST-SUFFIX,coros.com,Direct
 HOST-SUFFIX,cqjypg.com,Direct
@@ -344,6 +345,7 @@ HOST-SUFFIX,diskstation.me,Direct
 HOST-SUFFIX,divoiotcloud.com,Direct
 HOST-SUFFIX,diyiedu.com,Direct
 HOST-SUFFIX,dizhensubao.getui.com,Direct
+HOST-SUFFIX,dns.weixin.qq.com,Direct
 HOST-SUFFIX,dns.weixin.qq.com.cn,Direct
 HOST-SUFFIX,dnshe.com,Direct
 HOST-SUFFIX,docker.1panel.live,Direct
@@ -617,6 +619,7 @@ HOST-SUFFIX,indeedpower.com,Direct
 HOST-SUFFIX,inetlab.top,Direct
 HOST-SUFFIX,inextos.com,Direct
 HOST-SUFFIX,infini-fantasy.com,Direct
+HOST-SUFFIX,infistar.cc,Direct
 HOST-SUFFIX,initaq.com,Direct
 HOST-SUFFIX,inmobicdn.net,Direct
 HOST-SUFFIX,inte.net,Direct
