@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-10-25 06:55:12
+# UPDATED: UTC+8 2026-10-26 07:01:40
 # HOST: 58
-# HOST-SUFFIX: 1157
+# HOST-SUFFIX: 1160
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1265
+# TOTAL: 1268
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -163,6 +163,7 @@ HOST-SUFFIX,aigodlike.com,Direct
 HOST-SUFFIX,ainfinit.com,Direct
 HOST-SUFFIX,aisnogames.com,Direct
 HOST-SUFFIX,aistudio-app.com,Direct
+HOST-SUFFIX,aitongqian.com,Direct
 HOST-SUFFIX,aiyohoo.com,Direct
 HOST-SUFFIX,akamaihd.net,Direct
 HOST-SUFFIX,akamaized.net,Direct
@@ -1059,6 +1060,7 @@ HOST-SUFFIX,ulife.group,Direct
 HOST-SUFFIX,umiwi.com,Direct
 HOST-SUFFIX,upaiyun.com,Direct
 HOST-SUFFIX,us.ci,Direct
+HOST-SUFFIX,v-koolsh.com,Direct
 HOST-SUFFIX,vanjee.net,Direct
 HOST-SUFFIX,vbkhk.com,Direct
 HOST-SUFFIX,vbkr.com,Direct
@@ -1077,6 +1079,7 @@ HOST-SUFFIX,vtools.online,Direct
 HOST-SUFFIX,vv1865.com,Direct
 HOST-SUFFIX,vvhan.com,Direct
 HOST-SUFFIX,wallecube.com,Direct
+HOST-SUFFIX,wanzd.com,Direct
 HOST-SUFFIX,warmheart.top,Direct
 HOST-SUFFIX,wawo.cc,Direct
 HOST-SUFFIX,we-stats.com,Direct
