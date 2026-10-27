@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-10-26 07:01:40
+# UPDATED: UTC+8 2026-10-27 08:14:22
 # HOST: 58
-# HOST-SUFFIX: 1160
+# HOST-SUFFIX: 1163
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1268
+# TOTAL: 1271
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -292,6 +292,7 @@ HOST-SUFFIX,chuguansmart.com,Direct
 HOST-SUFFIX,chujingapp.com,Direct
 HOST-SUFFIX,chushi.cool,Direct
 HOST-SUFFIX,ciallo.party,Direct
+HOST-SUFFIX,cindy.app,Direct
 HOST-SUFFIX,cinemageddon.net,Direct
 HOST-SUFFIX,cinematik.net,Direct
 HOST-SUFFIX,cinemaz.to,Direct
@@ -1103,11 +1104,13 @@ HOST-SUFFIX,wlups.com,Direct
 HOST-SUFFIX,wologic.net,Direct
 HOST-SUFFIX,wpurl.cc,Direct
 HOST-SUFFIX,wty-yy.top,Direct
+HOST-SUFFIX,wuhanjijin.com,Direct
 HOST-SUFFIX,wwwh.eu.org,Direct
 HOST-SUFFIX,wwwwqq.com,Direct
 HOST-SUFFIX,wxdw.top,Direct
 HOST-SUFFIX,x-gpu.com,Direct
 HOST-SUFFIX,x86pi.com,Direct
+HOST-SUFFIX,xaippc.com,Direct
 HOST-SUFFIX,xbcloudprint.com,Direct
 HOST-SUFFIX,xbgjw.com,Direct
 HOST-SUFFIX,xboxfan.com,Direct
