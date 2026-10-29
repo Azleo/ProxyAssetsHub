@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-10-28 08:15:40
+# UPDATED: UTC+8 2026-10-29 08:36:59
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 1164
+# DOMAIN-SUFFIX: 1173
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1261
+# TOTAL: 1270
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -115,6 +115,7 @@ payload:
   - DOMAIN-SUFFIX,6v520.net
   - DOMAIN-SUFFIX,71.am
   - DOMAIN-SUFFIX,737698.xyz
+  - DOMAIN-SUFFIX,757abc.com
   - DOMAIN-SUFFIX,77shuku.info
   - DOMAIN-SUFFIX,77shuku.org
   - DOMAIN-SUFFIX,7sef.com
@@ -275,6 +276,7 @@ payload:
   - DOMAIN-SUFFIX,cgicop.com
   - DOMAIN-SUFFIX,cgpeers.com
   - DOMAIN-SUFFIX,changjirb.com
+  - DOMAIN-SUFFIX,changzhi.top
   - DOMAIN-SUFFIX,chaxunjiao.com
   - DOMAIN-SUFFIX,chaz.fun
   - DOMAIN-SUFFIX,checkip.dyndns.org
@@ -590,6 +592,7 @@ payload:
   - DOMAIN-SUFFIX,hudbt.hust.edu.cn
   - DOMAIN-SUFFIX,hueihuei.top
   - DOMAIN-SUFFIX,huikao8.com
+  - DOMAIN-SUFFIX,human-horizons.com
   - DOMAIN-SUFFIX,hutaoyun.top
   - DOMAIN-SUFFIX,hwbim.com
   - DOMAIN-SUFFIX,hwjianmo.com
@@ -683,6 +686,7 @@ payload:
   - DOMAIN-SUFFIX,kaspersky-labs.com
   - DOMAIN-SUFFIX,kaspersky.com
   - DOMAIN-SUFFIX,kasperskydaily.com
+  - DOMAIN-SUFFIX,kbser.com
   - DOMAIN-SUFFIX,kcbd.top
   - DOMAIN-SUFFIX,kcttpa.com
   - DOMAIN-SUFFIX,keepfrds.com
@@ -705,6 +709,7 @@ payload:
   - DOMAIN-SUFFIX,laogongju.com
   - DOMAIN-SUFFIX,latexlive.com
   - DOMAIN-SUFFIX,laupqc.com
+  - DOMAIN-SUFFIX,ldboost.com
   - DOMAIN-SUFFIX,leadweigh.com
   - DOMAIN-SUFFIX,leaguehd.com
   - DOMAIN-SUFFIX,leelen.com
@@ -720,6 +725,7 @@ payload:
   - DOMAIN-SUFFIX,liveperson.net
   - DOMAIN-SUFFIX,liyunol.com
   - DOMAIN-SUFFIX,ljj233.top
+  - DOMAIN-SUFFIX,lodop.net
   - DOMAIN-SUFFIX,longmenshuju.com
   - DOMAIN-SUFFIX,loveutips.com
   - DOMAIN-SUFFIX,lsbj365.com
@@ -902,6 +908,7 @@ payload:
   - DOMAIN-SUFFIX,quxuanshu.com
   - DOMAIN-SUFFIX,qweapi.com
   - DOMAIN-SUFFIX,qweatherapi.com
+  - DOMAIN-SUFFIX,qzy.xyz
   - DOMAIN-SUFFIX,qzyun.net
   - DOMAIN-SUFFIX,ranwen.tw
   - DOMAIN-SUFFIX,rayws.top
@@ -978,6 +985,7 @@ payload:
   - DOMAIN-SUFFIX,stats.qiumibao.com
   - DOMAIN-SUFFIX,stkfanli.com
   - DOMAIN-SUFFIX,sufe.me
+  - DOMAIN-SUFFIX,sun-panel.top
   - DOMAIN-SUFFIX,sunrisecontent.akamaized.net
   - DOMAIN-SUFFIX,suntl.com
   - DOMAIN-SUFFIX,susudesu.com
@@ -1132,6 +1140,7 @@ payload:
   - DOMAIN-SUFFIX,xiaolikj.online
   - DOMAIN-SUFFIX,xiaomaicn.com
   - DOMAIN-SUFFIX,xiaoxia.vip
+  - DOMAIN-SUFFIX,xiaoyao.co
   - DOMAIN-SUFFIX,xiaoyuan888.com
   - DOMAIN-SUFFIX,xiberia.net
   - DOMAIN-SUFFIX,ximogo.com

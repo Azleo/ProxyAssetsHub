@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-10-28 08:15:40
+# UPDATED: UTC+8 2026-10-29 08:36:59
 # HOST: 58
-# HOST-SUFFIX: 1164
+# HOST-SUFFIX: 1173
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1272
+# TOTAL: 1281
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -116,6 +116,7 @@ HOST-SUFFIX,66990000.xyz,Direct
 HOST-SUFFIX,6v520.net,Direct
 HOST-SUFFIX,71.am,Direct
 HOST-SUFFIX,737698.xyz,Direct
+HOST-SUFFIX,757abc.com,Direct
 HOST-SUFFIX,77shuku.info,Direct
 HOST-SUFFIX,77shuku.org,Direct
 HOST-SUFFIX,7sef.com,Direct
@@ -276,6 +277,7 @@ HOST-SUFFIX,cg3da.com,Direct
 HOST-SUFFIX,cgicop.com,Direct
 HOST-SUFFIX,cgpeers.com,Direct
 HOST-SUFFIX,changjirb.com,Direct
+HOST-SUFFIX,changzhi.top,Direct
 HOST-SUFFIX,chaxunjiao.com,Direct
 HOST-SUFFIX,chaz.fun,Direct
 HOST-SUFFIX,checkip.dyndns.org,Direct
@@ -591,6 +593,7 @@ HOST-SUFFIX,hub.xdark.top,Direct
 HOST-SUFFIX,hudbt.hust.edu.cn,Direct
 HOST-SUFFIX,hueihuei.top,Direct
 HOST-SUFFIX,huikao8.com,Direct
+HOST-SUFFIX,human-horizons.com,Direct
 HOST-SUFFIX,hutaoyun.top,Direct
 HOST-SUFFIX,hwbim.com,Direct
 HOST-SUFFIX,hwjianmo.com,Direct
@@ -684,6 +687,7 @@ HOST-SUFFIX,karagarga.in,Direct
 HOST-SUFFIX,kaspersky-labs.com,Direct
 HOST-SUFFIX,kaspersky.com,Direct
 HOST-SUFFIX,kasperskydaily.com,Direct
+HOST-SUFFIX,kbser.com,Direct
 HOST-SUFFIX,kcbd.top,Direct
 HOST-SUFFIX,kcttpa.com,Direct
 HOST-SUFFIX,keepfrds.com,Direct
@@ -706,6 +710,7 @@ HOST-SUFFIX,lanyun.net,Direct
 HOST-SUFFIX,laogongju.com,Direct
 HOST-SUFFIX,latexlive.com,Direct
 HOST-SUFFIX,laupqc.com,Direct
+HOST-SUFFIX,ldboost.com,Direct
 HOST-SUFFIX,leadweigh.com,Direct
 HOST-SUFFIX,leaguehd.com,Direct
 HOST-SUFFIX,leelen.com,Direct
@@ -721,6 +726,7 @@ HOST-SUFFIX,liunn.com,Direct
 HOST-SUFFIX,liveperson.net,Direct
 HOST-SUFFIX,liyunol.com,Direct
 HOST-SUFFIX,ljj233.top,Direct
+HOST-SUFFIX,lodop.net,Direct
 HOST-SUFFIX,longmenshuju.com,Direct
 HOST-SUFFIX,loveutips.com,Direct
 HOST-SUFFIX,lsbj365.com,Direct
@@ -903,6 +909,7 @@ HOST-SUFFIX,quanzhua.com,Direct
 HOST-SUFFIX,quxuanshu.com,Direct
 HOST-SUFFIX,qweapi.com,Direct
 HOST-SUFFIX,qweatherapi.com,Direct
+HOST-SUFFIX,qzy.xyz,Direct
 HOST-SUFFIX,qzyun.net,Direct
 HOST-SUFFIX,ranwen.tw,Direct
 HOST-SUFFIX,rayws.top,Direct
@@ -979,6 +986,7 @@ HOST-SUFFIX,staticmeow.com,Direct
 HOST-SUFFIX,stats.qiumibao.com,Direct
 HOST-SUFFIX,stkfanli.com,Direct
 HOST-SUFFIX,sufe.me,Direct
+HOST-SUFFIX,sun-panel.top,Direct
 HOST-SUFFIX,sunrisecontent.akamaized.net,Direct
 HOST-SUFFIX,suntl.com,Direct
 HOST-SUFFIX,susudesu.com,Direct
@@ -1133,6 +1141,7 @@ HOST-SUFFIX,xiaochuanyun.com,Direct
 HOST-SUFFIX,xiaolikj.online,Direct
 HOST-SUFFIX,xiaomaicn.com,Direct
 HOST-SUFFIX,xiaoxia.vip,Direct
+HOST-SUFFIX,xiaoyao.co,Direct
 HOST-SUFFIX,xiaoyuan888.com,Direct
 HOST-SUFFIX,xiberia.net,Direct
 HOST-SUFFIX,ximogo.com,Direct
