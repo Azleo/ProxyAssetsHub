@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-10-31 08:25:30
+# UPDATED: UTC+8 2026-11-01 07:56:57
 # HOST: 58
-# HOST-SUFFIX: 1211
+# HOST-SUFFIX: 1214
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1319
+# TOTAL: 1322
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -174,6 +174,7 @@ HOST-SUFFIX,aiyohoo.com,Direct
 HOST-SUFFIX,akamaihd.net,Direct
 HOST-SUFFIX,akamaized.net,Direct
 HOST-SUFFIX,allptt.com,Direct
+HOST-SUFFIX,allsaints.top,Direct
 HOST-SUFFIX,alonginwind.eu.org,Direct
 HOST-SUFFIX,alonginwind.to,Direct
 HOST-SUFFIX,alonginwind.top,Direct
@@ -427,6 +428,7 @@ HOST-SUFFIX,fengsutb.com,Direct
 HOST-SUFFIX,fenno.ai,Direct
 HOST-SUFFIX,fffff.games,Direct
 HOST-SUFFIX,ffhome.com,Direct
+HOST-SUFFIX,fgaiservice.com,Direct
 HOST-SUFFIX,fileh.xyz,Direct
 HOST-SUFFIX,filej.xyz,Direct
 HOST-SUFFIX,filelist.io,Direct
@@ -925,6 +927,7 @@ HOST-SUFFIX,qiuquan.org,Direct
 HOST-SUFFIX,qjmotorlink.com,Direct
 HOST-SUFFIX,qmeng.top,Direct
 HOST-SUFFIX,qmpx.net,Direct
+HOST-SUFFIX,qpe27.top,Direct
 HOST-SUFFIX,quanxinfu.com,Direct
 HOST-SUFFIX,quanzhua.com,Direct
 HOST-SUFFIX,quxuanshu.com,Direct
