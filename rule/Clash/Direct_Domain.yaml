@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-01 07:56:57
+# UPDATED: UTC+8 2026-11-02 08:18:06
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 1214
+# DOMAIN-SUFFIX: 1220
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1311
+# TOTAL: 1317
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -83,6 +83,7 @@ payload:
   - DOMAIN-SUFFIX,17van.com
   - DOMAIN-SUFFIX,1996999.xyz
   - DOMAIN-SUFFIX,204cloud.com
+  - DOMAIN-SUFFIX,225284.xyz
   - DOMAIN-SUFFIX,25mao.com
   - DOMAIN-SUFFIX,2mcnxs.cc
   - DOMAIN-SUFFIX,365ting.com
@@ -340,6 +341,7 @@ payload:
   - DOMAIN-SUFFIX,dayilive.com
   - DOMAIN-SUFFIX,dcgstd.com
   - DOMAIN-SUFFIX,dcshfu.com
+  - DOMAIN-SUFFIX,dd3862.com
   - DOMAIN-SUFFIX,ddsrem.com
   - DOMAIN-SUFFIX,ddzn.tech
   - DOMAIN-SUFFIX,deepzero.com
@@ -570,6 +572,7 @@ payload:
   - DOMAIN-SUFFIX,hdtime.org
   - DOMAIN-SUFFIX,hdupt.com
   - DOMAIN-SUFFIX,hdzone.me
+  - DOMAIN-SUFFIX,hexieark.com
   - DOMAIN-SUFFIX,hexiny.com
   - DOMAIN-SUFFIX,heysida.com
   - DOMAIN-SUFFIX,hezuvip.com
@@ -584,6 +587,7 @@ payload:
   - DOMAIN-SUFFIX,hjgdrop.cc
   - DOMAIN-SUFFIX,hkchat.app
   - DOMAIN-SUFFIX,hnchasing.com
+  - DOMAIN-SUFFIX,hndk1.com
   - DOMAIN-SUFFIX,hnxzctec.com
   - DOMAIN-SUFFIX,hnzjyw.com
   - DOMAIN-SUFFIX,hoaihe.store
@@ -681,8 +685,6 @@ payload:
   - DOMAIN-SUFFIX,jnsjz.com
   - DOMAIN-SUFFIX,joyhd.net
   - DOMAIN-SUFFIX,jpopsuki.eu
-  - DOMAIN-SUFFIX,jsdelivr.com
-  - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,jsj.top
   - DOMAIN-SUFFIX,jspvz.com
   - DOMAIN-SUFFIX,jstor.org
@@ -713,6 +715,7 @@ payload:
   - DOMAIN-SUFFIX,kit327.com
   - DOMAIN-SUFFIX,kiwiot.com
   - DOMAIN-SUFFIX,kke.com.hk
+  - DOMAIN-SUFFIX,kkmmy.com
   - DOMAIN-SUFFIX,kldai.vip
   - DOMAIN-SUFFIX,kmeila.com
   - DOMAIN-SUFFIX,koebpmhcce.com
@@ -732,6 +735,7 @@ payload:
   - DOMAIN-SUFFIX,leaguehd.com
   - DOMAIN-SUFFIX,leelen.com
   - DOMAIN-SUFFIX,letaoedu.com
+  - DOMAIN-SUFFIX,leux.net
   - DOMAIN-SUFFIX,lezuan6.com
   - DOMAIN-SUFFIX,lg3000.top
   - DOMAIN-SUFFIX,lightmake.site
@@ -750,6 +754,7 @@ payload:
   - DOMAIN-SUFFIX,lsposed.zip
   - DOMAIN-SUFFIX,lty02.com
   - DOMAIN-SUFFIX,lucky.gd
+  - DOMAIN-SUFFIX,luxiangwu.com
   - DOMAIN-SUFFIX,lw5.co
   - DOMAIN-SUFFIX,lyihub.com
   - DOMAIN-SUFFIX,lyilife.com
@@ -1090,6 +1095,7 @@ payload:
   - DOMAIN-SUFFIX,tuxing.art
   - DOMAIN-SUFFIX,twinkstar.com
   - DOMAIN-SUFFIX,twtapp.com
+  - DOMAIN-SUFFIX,tylk.cc
   - DOMAIN-SUFFIX,type.fun
   - DOMAIN-SUFFIX,tztec.top
   - DOMAIN-SUFFIX,u-carloan.com

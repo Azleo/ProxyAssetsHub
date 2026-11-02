@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-01 07:56:57
+# UPDATED: UTC+8 2026-11-02 08:18:06
 # HOST: 58
-# HOST-SUFFIX: 1214
+# HOST-SUFFIX: 1220
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1322
+# TOTAL: 1328
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -84,6 +84,7 @@ HOST-SUFFIX,153532.com,Direct
 HOST-SUFFIX,17van.com,Direct
 HOST-SUFFIX,1996999.xyz,Direct
 HOST-SUFFIX,204cloud.com,Direct
+HOST-SUFFIX,225284.xyz,Direct
 HOST-SUFFIX,25mao.com,Direct
 HOST-SUFFIX,2mcnxs.cc,Direct
 HOST-SUFFIX,365ting.com,Direct
@@ -341,6 +342,7 @@ HOST-SUFFIX,day.app,Direct
 HOST-SUFFIX,dayilive.com,Direct
 HOST-SUFFIX,dcgstd.com,Direct
 HOST-SUFFIX,dcshfu.com,Direct
+HOST-SUFFIX,dd3862.com,Direct
 HOST-SUFFIX,ddsrem.com,Direct
 HOST-SUFFIX,ddzn.tech,Direct
 HOST-SUFFIX,deepzero.com,Direct
@@ -571,6 +573,7 @@ HOST-SUFFIX,hdsky.me,Direct
 HOST-SUFFIX,hdtime.org,Direct
 HOST-SUFFIX,hdupt.com,Direct
 HOST-SUFFIX,hdzone.me,Direct
+HOST-SUFFIX,hexieark.com,Direct
 HOST-SUFFIX,hexiny.com,Direct
 HOST-SUFFIX,heysida.com,Direct
 HOST-SUFFIX,hezuvip.com,Direct
@@ -585,6 +588,7 @@ HOST-SUFFIX,hiwms.com,Direct
 HOST-SUFFIX,hjgdrop.cc,Direct
 HOST-SUFFIX,hkchat.app,Direct
 HOST-SUFFIX,hnchasing.com,Direct
+HOST-SUFFIX,hndk1.com,Direct
 HOST-SUFFIX,hnxzctec.com,Direct
 HOST-SUFFIX,hnzjyw.com,Direct
 HOST-SUFFIX,hoaihe.store,Direct
@@ -682,8 +686,6 @@ HOST-SUFFIX,jkgeek.com,Direct
 HOST-SUFFIX,jnsjz.com,Direct
 HOST-SUFFIX,joyhd.net,Direct
 HOST-SUFFIX,jpopsuki.eu,Direct
-HOST-SUFFIX,jsdelivr.com,Direct
-HOST-SUFFIX,jsdelivr.net,Direct
 HOST-SUFFIX,jsj.top,Direct
 HOST-SUFFIX,jspvz.com,Direct
 HOST-SUFFIX,jstor.org,Direct
@@ -714,6 +716,7 @@ HOST-SUFFIX,kgithub.com,Direct
 HOST-SUFFIX,kit327.com,Direct
 HOST-SUFFIX,kiwiot.com,Direct
 HOST-SUFFIX,kke.com.hk,Direct
+HOST-SUFFIX,kkmmy.com,Direct
 HOST-SUFFIX,kldai.vip,Direct
 HOST-SUFFIX,kmeila.com,Direct
 HOST-SUFFIX,koebpmhcce.com,Direct
@@ -733,6 +736,7 @@ HOST-SUFFIX,leadweigh.com,Direct
 HOST-SUFFIX,leaguehd.com,Direct
 HOST-SUFFIX,leelen.com,Direct
 HOST-SUFFIX,letaoedu.com,Direct
+HOST-SUFFIX,leux.net,Direct
 HOST-SUFFIX,lezuan6.com,Direct
 HOST-SUFFIX,lg3000.top,Direct
 HOST-SUFFIX,lightmake.site,Direct
@@ -751,6 +755,7 @@ HOST-SUFFIX,lsbj365.com,Direct
 HOST-SUFFIX,lsposed.zip,Direct
 HOST-SUFFIX,lty02.com,Direct
 HOST-SUFFIX,lucky.gd,Direct
+HOST-SUFFIX,luxiangwu.com,Direct
 HOST-SUFFIX,lw5.co,Direct
 HOST-SUFFIX,lyihub.com,Direct
 HOST-SUFFIX,lyilife.com,Direct
@@ -1091,6 +1096,7 @@ HOST-SUFFIX,tumukaoyan.com,Direct
 HOST-SUFFIX,tuxing.art,Direct
 HOST-SUFFIX,twinkstar.com,Direct
 HOST-SUFFIX,twtapp.com,Direct
+HOST-SUFFIX,tylk.cc,Direct
 HOST-SUFFIX,type.fun,Direct
 HOST-SUFFIX,tztec.top,Direct
 HOST-SUFFIX,u-carloan.com,Direct
