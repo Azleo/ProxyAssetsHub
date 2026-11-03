@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-02 08:18:06
+# UPDATED: UTC+8 2026-11-03 10:46:06
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 1220
+# DOMAIN-SUFFIX: 1226
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1317
+# TOTAL: 1323
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -110,6 +110,7 @@ payload:
   - DOMAIN-SUFFIX,52muban.com
   - DOMAIN-SUFFIX,52pt.site
   - DOMAIN-SUFFIX,52youzai.com
+  - DOMAIN-SUFFIX,52ywp.com
   - DOMAIN-SUFFIX,55555.ink
   - DOMAIN-SUFFIX,56tvc.com
   - DOMAIN-SUFFIX,580ai.net
@@ -330,6 +331,7 @@ payload:
   - DOMAIN-SUFFIX,crrcgo.cc
   - DOMAIN-SUFFIX,crtyhr.com
   - DOMAIN-SUFFIX,csqaq.com
+  - DOMAIN-SUFFIX,cyberpig.tech
   - DOMAIN-SUFFIX,cydiabc.top
   - DOMAIN-SUFFIX,cym520.top
   - DOMAIN-SUFFIX,cyouzai.com
@@ -738,9 +740,11 @@ payload:
   - DOMAIN-SUFFIX,leux.net
   - DOMAIN-SUFFIX,lezuan6.com
   - DOMAIN-SUFFIX,lg3000.top
+  - DOMAIN-SUFFIX,lianguo-tech.com
   - DOMAIN-SUFFIX,lightmake.site
   - DOMAIN-SUFFIX,linka2a.net
   - DOMAIN-SUFFIX,linkcircle.net
+  - DOMAIN-SUFFIX,linkease.net
   - DOMAIN-SUFFIX,linux.sb
   - DOMAIN-SUFFIX,listenai.com
   - DOMAIN-SUFFIX,liunn.com
@@ -1000,6 +1004,7 @@ payload:
   - DOMAIN-SUFFIX,sksight.com
   - DOMAIN-SUFFIX,skxvc.com
   - DOMAIN-SUFFIX,skyey2.com
+  - DOMAIN-SUFFIX,skyts.net
   - DOMAIN-SUFFIX,snfox.com
   - DOMAIN-SUFFIX,snltty.com
   - DOMAIN-SUFFIX,sollin.top
@@ -1084,6 +1089,7 @@ payload:
   - DOMAIN-SUFFIX,touchgal.ink
   - DOMAIN-SUFFIX,touchgaloss.com
   - DOMAIN-SUFFIX,tozi-cn.top
+  - DOMAIN-SUFFIX,tracker.ink
   - DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
   - DOMAIN-SUFFIX,trjho.com
   - DOMAIN-SUFFIX,trontv.com

@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-02 08:18:06
+# UPDATED: UTC+8 2026-11-03 10:46:06
 # HOST: 58
-# HOST-SUFFIX: 1220
+# HOST-SUFFIX: 1226
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1328
+# TOTAL: 1334
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -111,6 +111,7 @@ HOST-SUFFIX,52met.com,Direct
 HOST-SUFFIX,52muban.com,Direct
 HOST-SUFFIX,52pt.site,Direct
 HOST-SUFFIX,52youzai.com,Direct
+HOST-SUFFIX,52ywp.com,Direct
 HOST-SUFFIX,55555.ink,Direct
 HOST-SUFFIX,56tvc.com,Direct
 HOST-SUFFIX,580ai.net,Direct
@@ -331,6 +332,7 @@ HOST-SUFFIX,cqnbmarathon.com,Direct
 HOST-SUFFIX,crrcgo.cc,Direct
 HOST-SUFFIX,crtyhr.com,Direct
 HOST-SUFFIX,csqaq.com,Direct
+HOST-SUFFIX,cyberpig.tech,Direct
 HOST-SUFFIX,cydiabc.top,Direct
 HOST-SUFFIX,cym520.top,Direct
 HOST-SUFFIX,cyouzai.com,Direct
@@ -739,9 +741,11 @@ HOST-SUFFIX,letaoedu.com,Direct
 HOST-SUFFIX,leux.net,Direct
 HOST-SUFFIX,lezuan6.com,Direct
 HOST-SUFFIX,lg3000.top,Direct
+HOST-SUFFIX,lianguo-tech.com,Direct
 HOST-SUFFIX,lightmake.site,Direct
 HOST-SUFFIX,linka2a.net,Direct
 HOST-SUFFIX,linkcircle.net,Direct
+HOST-SUFFIX,linkease.net,Direct
 HOST-SUFFIX,linux.sb,Direct
 HOST-SUFFIX,listenai.com,Direct
 HOST-SUFFIX,liunn.com,Direct
@@ -1001,6 +1005,7 @@ HOST-SUFFIX,skktec.com,Direct
 HOST-SUFFIX,sksight.com,Direct
 HOST-SUFFIX,skxvc.com,Direct
 HOST-SUFFIX,skyey2.com,Direct
+HOST-SUFFIX,skyts.net,Direct
 HOST-SUFFIX,snfox.com,Direct
 HOST-SUFFIX,snltty.com,Direct
 HOST-SUFFIX,sollin.top,Direct
@@ -1085,6 +1090,7 @@ HOST-SUFFIX,totheglory.im,Direct
 HOST-SUFFIX,touchgal.ink,Direct
 HOST-SUFFIX,touchgaloss.com,Direct
 HOST-SUFFIX,tozi-cn.top,Direct
+HOST-SUFFIX,tracker.ink,Direct
 HOST-SUFFIX,tracking-protection.cdn.mozilla.net,Direct
 HOST-SUFFIX,trjho.com,Direct
 HOST-SUFFIX,trontv.com,Direct
