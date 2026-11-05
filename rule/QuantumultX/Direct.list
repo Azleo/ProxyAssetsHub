@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-04 09:03:01
+# UPDATED: UTC+8 2026-11-05 09:18:17
 # HOST: 58
-# HOST-SUFFIX: 1246
+# HOST-SUFFIX: 1255
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1354
+# TOTAL: 1363
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -86,6 +86,7 @@ HOST-SUFFIX,1996999.xyz,Direct
 HOST-SUFFIX,204cloud.com,Direct
 HOST-SUFFIX,225284.xyz,Direct
 HOST-SUFFIX,25mao.com,Direct
+HOST-SUFFIX,264788.xyz,Direct
 HOST-SUFFIX,2mcnxs.cc,Direct
 HOST-SUFFIX,365ting.com,Direct
 HOST-SUFFIX,365wp.top,Direct
@@ -307,6 +308,7 @@ HOST-SUFFIX,chuguansmart.com,Direct
 HOST-SUFFIX,chujingapp.com,Direct
 HOST-SUFFIX,chushi.cool,Direct
 HOST-SUFFIX,ciallo.party,Direct
+HOST-SUFFIX,cilizhai.net,Direct
 HOST-SUFFIX,cindy.app,Direct
 HOST-SUFFIX,cinemageddon.net,Direct
 HOST-SUFFIX,cinematik.net,Direct
@@ -331,6 +333,7 @@ HOST-SUFFIX,congmiqq.com,Direct
 HOST-SUFFIX,constantinefun.com,Direct
 HOST-SUFFIX,constasj.me,Direct
 HOST-SUFFIX,coros.com,Direct
+HOST-SUFFIX,cqhy.fun,Direct
 HOST-SUFFIX,cqjypg.com,Direct
 HOST-SUFFIX,cqnbmarathon.com,Direct
 HOST-SUFFIX,crrcgo.cc,Direct
@@ -344,6 +347,7 @@ HOST-SUFFIX,d4ctech.com,Direct
 HOST-SUFFIX,dadateach.com,Direct
 HOST-SUFFIX,dahai96.com,Direct
 HOST-SUFFIX,daocloud.vip,Direct
+HOST-SUFFIX,darwinchow.com,Direct
 HOST-SUFFIX,day.app,Direct
 HOST-SUFFIX,dayilive.com,Direct
 HOST-SUFFIX,dcgstd.com,Direct
@@ -521,6 +525,7 @@ HOST-SUFFIX,googoc.com,Direct
 HOST-SUFFIX,gootho.com,Direct
 HOST-SUFFIX,gpetrip.com,Direct
 HOST-SUFFIX,gpgwx.com,Direct
+HOST-SUFFIX,greennet-inc.com,Direct
 HOST-SUFFIX,grz-hx.com,Direct
 HOST-SUFFIX,gseen.com,Direct
 HOST-SUFFIX,gsgltz.com,Direct
@@ -969,6 +974,7 @@ HOST-SUFFIX,registry.dockermirror.com,Direct
 HOST-SUFFIX,researchgate.net,Direct
 HOST-SUFFIX,rewards.bing.com,Direct
 HOST-SUFFIX,rkgamingstore.com,Direct
+HOST-SUFFIX,ro1029mango.com,Direct
 HOST-SUFFIX,royqh.net,Direct
 HOST-SUFFIX,rsfcxq.com,Direct
 HOST-SUFFIX,rsmods.cc,Direct
@@ -1178,6 +1184,7 @@ HOST-SUFFIX,wlkac.com,Direct
 HOST-SUFFIX,wlups.com,Direct
 HOST-SUFFIX,wologic.net,Direct
 HOST-SUFFIX,wpurl.cc,Direct
+HOST-SUFFIX,wt2zxk.com,Direct
 HOST-SUFFIX,wty-yy.top,Direct
 HOST-SUFFIX,wuhanjijin.com,Direct
 HOST-SUFFIX,wwwh.eu.org,Direct
@@ -1212,6 +1219,7 @@ HOST-SUFFIX,xiaoyao.co,Direct
 HOST-SUFFIX,xiaoyuan888.com,Direct
 HOST-SUFFIX,xiberia.net,Direct
 HOST-SUFFIX,ximogo.com,Direct
+HOST-SUFFIX,xincili01ng.top,Direct
 HOST-SUFFIX,xingaochengtai.com,Direct
 HOST-SUFFIX,xinghaiwaimai.com,Direct
 HOST-SUFFIX,xingmojs.com,Direct
@@ -1289,6 +1297,7 @@ HOST-SUFFIX,zhongancloud.com,Direct
 HOST-SUFFIX,zhouyiy.com,Direct
 HOST-SUFFIX,zhu.today,Direct
 HOST-SUFFIX,zhytstudio.com,Direct
+HOST-SUFFIX,zi1029panda.top,Direct
 HOST-SUFFIX,zjjslawyer.com,Direct
 HOST-SUFFIX,zjshulong.com,Direct
 HOST-SUFFIX,zjxhedu.com,Direct
