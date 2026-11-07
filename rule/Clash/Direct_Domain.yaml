@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-06 09:22:57
+# UPDATED: UTC+8 2026-11-07 08:37:57
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 1296
+# DOMAIN-SUFFIX: 1303
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1393
+# TOTAL: 1400
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -131,6 +131,7 @@ payload:
   - DOMAIN-SUFFIX,847ds.com
   - DOMAIN-SUFFIX,85sc.com
   - DOMAIN-SUFFIX,86656.net
+  - DOMAIN-SUFFIX,870833.com
   - DOMAIN-SUFFIX,888lm02.com
   - DOMAIN-SUFFIX,88996api.cloud
   - DOMAIN-SUFFIX,8kc.top
@@ -165,6 +166,7 @@ payload:
   - DOMAIN-SUFFIX,afuns.me
   - DOMAIN-SUFFIX,agentkey.app
   - DOMAIN-SUFFIX,agentscope.io
+  - DOMAIN-SUFFIX,agi2rjr.cc
   - DOMAIN-SUFFIX,ahlt10010.com
   - DOMAIN-SUFFIX,aibeike.com
   - DOMAIN-SUFFIX,aichangbaishan.com
@@ -259,6 +261,7 @@ payload:
   - DOMAIN-SUFFIX,boxim.online
   - DOMAIN-SUFFIX,boxkj.com
   - DOMAIN-SUFFIX,boyuemobile.com
+  - DOMAIN-SUFFIX,bro.pw
   - DOMAIN-SUFFIX,broadcasthe.net
   - DOMAIN-SUFFIX,browserscan.net
   - DOMAIN-SUFFIX,bs-iot.com
@@ -472,6 +475,7 @@ payload:
   - DOMAIN-SUFFIX,ft07.com
   - DOMAIN-SUFFIX,ftqq.com
   - DOMAIN-SUFFIX,ftsup.com
+  - DOMAIN-SUFFIX,fullo.top
   - DOMAIN-SUFFIX,functorz.com
   - DOMAIN-SUFFIX,funlinkads.com
   - DOMAIN-SUFFIX,funmob.top
@@ -498,6 +502,7 @@ payload:
   - DOMAIN-SUFFIX,geektool.top
   - DOMAIN-SUFFIX,gegeselect.hk
   - DOMAIN-SUFFIX,gelaiyun.net
+  - DOMAIN-SUFFIX,gexuanyi.top
   - DOMAIN-SUFFIX,gfxpeers.net
   - DOMAIN-SUFFIX,ggbond.org
   - DOMAIN-SUFFIX,gh-proxy.com
@@ -1005,6 +1010,7 @@ payload:
   - DOMAIN-SUFFIX,rewards.bing.com
   - DOMAIN-SUFFIX,rkgamingstore.com
   - DOMAIN-SUFFIX,ro1029mango.com
+  - DOMAIN-SUFFIX,rocrp.net
   - DOMAIN-SUFFIX,royqh.net
   - DOMAIN-SUFFIX,rsfcxq.com
   - DOMAIN-SUFFIX,rsmods.cc
@@ -1190,6 +1196,7 @@ payload:
   - DOMAIN-SUFFIX,vlan5.com
   - DOMAIN-SUFFIX,volcanomob.com
   - DOMAIN-SUFFIX,vpsjyz.com
+  - DOMAIN-SUFFIX,vryfh.top
   - DOMAIN-SUFFIX,vtools.online
   - DOMAIN-SUFFIX,vv1865.com
   - DOMAIN-SUFFIX,vvhan.com
