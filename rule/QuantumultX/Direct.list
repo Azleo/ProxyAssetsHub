@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-07 08:37:57
+# UPDATED: UTC+8 2026-11-08 08:12:43
 # HOST: 58
-# HOST-SUFFIX: 1303
+# HOST-SUFFIX: 1310
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1411
+# TOTAL: 1418
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -350,6 +350,7 @@ HOST-SUFFIX,crrcgo.cc,Direct
 HOST-SUFFIX,crtyhr.com,Direct
 HOST-SUFFIX,csqaq.com,Direct
 HOST-SUFFIX,csrqoa.com,Direct
+HOST-SUFFIX,ctzpj.com,Direct
 HOST-SUFFIX,cyberpig.tech,Direct
 HOST-SUFFIX,cydiabc.top,Direct
 HOST-SUFFIX,cym520.top,Direct
@@ -371,6 +372,7 @@ HOST-SUFFIX,deepzero.com,Direct
 HOST-SUFFIX,dell.com,Direct
 HOST-SUFFIX,dfhog.com,Direct
 HOST-SUFFIX,dg3yy.com,Direct
+HOST-SUFFIX,dggdjt.com,Direct
 HOST-SUFFIX,dhjsnx.com,Direct
 HOST-SUFFIX,dhub.kubesre.xyz,Direct
 HOST-SUFFIX,diandaojia.net,Direct
@@ -574,6 +576,7 @@ HOST-SUFFIX,h6009.top,Direct
 HOST-SUFFIX,haimaiedu.net,Direct
 HOST-SUFFIX,halvie.com,Direct
 HOST-SUFFIX,ham.xin,Direct
+HOST-SUFFIX,hanbodianzi.com,Direct
 HOST-SUFFIX,handfree.work,Direct
 HOST-SUFFIX,hangnakeji.com,Direct
 HOST-SUFFIX,hanoking.com,Direct
@@ -706,6 +709,7 @@ HOST-SUFFIX,iquantumad.com,Direct
 HOST-SUFFIX,istoreos.com,Direct
 HOST-SUFFIX,itptg.com,Direct
 HOST-SUFFIX,itui.cc,Direct
+HOST-SUFFIX,iya365.com,Direct
 HOST-SUFFIX,j99.info,Direct
 HOST-SUFFIX,jbsy20riz9.com,Direct
 HOST-SUFFIX,jduoduo.com,Direct
@@ -817,6 +821,7 @@ HOST-SUFFIX,madsrevolution.net,Direct
 HOST-SUFFIX,manfuz.co,Direct
 HOST-SUFFIX,maticooads.com,Direct
 HOST-SUFFIX,maxdo.tech,Direct
+HOST-SUFFIX,mb518.com,Direct
 HOST-SUFFIX,mblyun.com,Direct
 HOST-SUFFIX,mbm06.com,Direct
 HOST-SUFFIX,mc-user.com,Direct
@@ -1128,6 +1133,7 @@ HOST-SUFFIX,tgpro.net,Direct
 HOST-SUFFIX,tgpro.top,Direct
 HOST-SUFFIX,thejoyridegames.com,Direct
 HOST-SUFFIX,theluyuan.com,Direct
+HOST-SUFFIX,theshikilab.com,Direct
 HOST-SUFFIX,theuwa.com,Direct
 HOST-SUFFIX,thinkerride.com,Direct
 HOST-SUFFIX,thispx.com,Direct
@@ -1360,6 +1366,7 @@ HOST-SUFFIX,zudanje.com,Direct
 HOST-SUFFIX,zuidazym3u8.com,Direct
 HOST-SUFFIX,zuobiao.press,Direct
 HOST-SUFFIX,zxp7.cc,Direct
+HOST-SUFFIX,zxstech.com,Direct
 HOST-SUFFIX,zysou.com,Direct
 HOST-SUFFIX,zyyct.com,Direct
 HOST-SUFFIX,zzclass.com,Direct
