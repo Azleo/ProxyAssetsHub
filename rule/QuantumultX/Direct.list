@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-09 08:33:57
+# UPDATED: UTC+8 2026-11-10 11:11:59
 # HOST: 58
-# HOST-SUFFIX: 1331
+# HOST-SUFFIX: 1337
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1439
+# TOTAL: 1445
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -304,6 +304,7 @@ HOST-SUFFIX,cgicop.com,Direct
 HOST-SUFFIX,cgpeers.com,Direct
 HOST-SUFFIX,changjirb.com,Direct
 HOST-SUFFIX,changzhi.top,Direct
+HOST-SUFFIX,chaoway.net,Direct
 HOST-SUFFIX,chatlabs.net,Direct
 HOST-SUFFIX,chaxunjiao.com,Direct
 HOST-SUFFIX,chaz.fun,Direct
@@ -317,10 +318,12 @@ HOST-SUFFIX,chessease.net,Direct
 HOST-SUFFIX,chii.in,Direct
 HOST-SUFFIX,china-amass.com,Direct
 HOST-SUFFIX,chinatle.com,Direct
+HOST-SUFFIX,chixiatech.com,Direct
 HOST-SUFFIX,chocolateswap.com,Direct
 HOST-SUFFIX,chuguansmart.com,Direct
 HOST-SUFFIX,chujingapp.com,Direct
 HOST-SUFFIX,chushi.cool,Direct
+HOST-SUFFIX,chyqaq.online,Direct
 HOST-SUFFIX,ciallo.party,Direct
 HOST-SUFFIX,cilizhai.net,Direct
 HOST-SUFFIX,cindy.app,Direct
@@ -803,6 +806,7 @@ HOST-SUFFIX,lfdapengu.com,Direct
 HOST-SUFFIX,lg3000.top,Direct
 HOST-SUFFIX,lhndksn.com,Direct
 HOST-SUFFIX,lianguo-tech.com,Direct
+HOST-SUFFIX,liangyuji.com,Direct
 HOST-SUFFIX,libtv.com,Direct
 HOST-SUFFIX,lightmake.site,Direct
 HOST-SUFFIX,linka2a.net,Direct
@@ -1129,6 +1133,7 @@ HOST-SUFFIX,sysbbs.com,Direct
 HOST-SUFFIX,szfx.top,Direct
 HOST-SUFFIX,szmtzd.com,Direct
 HOST-SUFFIX,sztopten.com,Direct
+HOST-SUFFIX,szyrtech.com,Direct
 HOST-SUFFIX,taichuansmart.com,Direct
 HOST-SUFFIX,tailgdd.com,Direct
 HOST-SUFFIX,tailscale.com,Direct
@@ -1250,6 +1255,7 @@ HOST-SUFFIX,wjx.top,Direct
 HOST-SUFFIX,wlcdn88.com,Direct
 HOST-SUFFIX,wlkac.com,Direct
 HOST-SUFFIX,wlups.com,Direct
+HOST-SUFFIX,wlygrowth.com,Direct
 HOST-SUFFIX,wmvbo.com,Direct
 HOST-SUFFIX,wologic.net,Direct
 HOST-SUFFIX,wpurl.cc,Direct
