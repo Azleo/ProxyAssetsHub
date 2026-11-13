@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-12 10:07:04
+# UPDATED: UTC+8 2026-11-13 09:41:09
 # HOST: 58
-# HOST-SUFFIX: 1339
+# HOST-SUFFIX: 1346
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1447
+# TOTAL: 1454
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -840,6 +840,7 @@ HOST-SUFFIX,madsrevolution.net,Direct
 HOST-SUFFIX,manfuz.co,Direct
 HOST-SUFFIX,maticooads.com,Direct
 HOST-SUFFIX,maxdo.tech,Direct
+HOST-SUFFIX,mayihttp.com,Direct
 HOST-SUFFIX,mb518.com,Direct
 HOST-SUFFIX,mblyun.com,Direct
 HOST-SUFFIX,mbm06.com,Direct
@@ -1039,6 +1040,7 @@ HOST-SUFFIX,researchgate.net,Direct
 HOST-SUFFIX,rewards.bing.com,Direct
 HOST-SUFFIX,rkgamingstore.com,Direct
 HOST-SUFFIX,ro1029mango.com,Direct
+HOST-SUFFIX,rockchips.net,Direct
 HOST-SUFFIX,rocrp.net,Direct
 HOST-SUFFIX,royqh.net,Direct
 HOST-SUFFIX,rsfcxq.com,Direct
@@ -1075,6 +1077,7 @@ HOST-SUFFIX,share123.top,Direct
 HOST-SUFFIX,shccywlkj.xyz,Direct
 HOST-SUFFIX,shenzhendongwei.com,Direct
 HOST-SUFFIX,shineacc.com,Direct
+HOST-SUFFIX,shirui3.com,Direct
 HOST-SUFFIX,shrxnet.com,Direct
 HOST-SUFFIX,shsw.top,Direct
 HOST-SUFFIX,shuangqingtech.com,Direct
@@ -1094,6 +1097,7 @@ HOST-SUFFIX,sksight.com,Direct
 HOST-SUFFIX,skxvc.com,Direct
 HOST-SUFFIX,skyey2.com,Direct
 HOST-SUFFIX,skyts.net,Direct
+HOST-SUFFIX,smartryan.com,Direct
 HOST-SUFFIX,smw9t0a.cc,Direct
 HOST-SUFFIX,snfox.com,Direct
 HOST-SUFFIX,snltty.com,Direct
@@ -1203,6 +1207,7 @@ HOST-SUFFIX,type.fun,Direct
 HOST-SUFFIX,tztec.top,Direct
 HOST-SUFFIX,u-carloan.com,Direct
 HOST-SUFFIX,u5nm5uvh1w.com,Direct
+HOST-SUFFIX,u7ygkovbl.cc,Direct
 HOST-SUFFIX,uascent-iot.com,Direct
 HOST-SUFFIX,ugdocker.link,Direct
 HOST-SUFFIX,ugediao.com,Direct
@@ -1290,6 +1295,7 @@ HOST-SUFFIX,xiaobeiyangji.com,Direct
 HOST-SUFFIX,xiaocaiyuan.com,Direct
 HOST-SUFFIX,xiaochuanyun.com,Direct
 HOST-SUFFIX,xiaodingfang.com,Direct
+HOST-SUFFIX,xiaokuai.com,Direct
 HOST-SUFFIX,xiaolikj.online,Direct
 HOST-SUFFIX,xiaomaicn.com,Direct
 HOST-SUFFIX,xiaoxia.vip,Direct
@@ -1367,6 +1373,7 @@ HOST-SUFFIX,z6e.com,Direct
 HOST-SUFFIX,zcloud.world,Direct
 HOST-SUFFIX,zctnet.top,Direct
 HOST-SUFFIX,zeekrline.com,Direct
+HOST-SUFFIX,zendao8.top,Direct
 HOST-SUFFIX,zhaiad.com,Direct
 HOST-SUFFIX,zhangleglobal.com,Direct
 HOST-SUFFIX,zhewx.com,Direct

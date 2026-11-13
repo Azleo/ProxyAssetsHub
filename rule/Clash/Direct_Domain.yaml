@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-12 10:07:04
+# UPDATED: UTC+8 2026-11-13 09:41:09
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 1339
+# DOMAIN-SUFFIX: 1346
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1436
+# TOTAL: 1443
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -839,6 +839,7 @@ payload:
   - DOMAIN-SUFFIX,manfuz.co
   - DOMAIN-SUFFIX,maticooads.com
   - DOMAIN-SUFFIX,maxdo.tech
+  - DOMAIN-SUFFIX,mayihttp.com
   - DOMAIN-SUFFIX,mb518.com
   - DOMAIN-SUFFIX,mblyun.com
   - DOMAIN-SUFFIX,mbm06.com
@@ -1038,6 +1039,7 @@ payload:
   - DOMAIN-SUFFIX,rewards.bing.com
   - DOMAIN-SUFFIX,rkgamingstore.com
   - DOMAIN-SUFFIX,ro1029mango.com
+  - DOMAIN-SUFFIX,rockchips.net
   - DOMAIN-SUFFIX,rocrp.net
   - DOMAIN-SUFFIX,royqh.net
   - DOMAIN-SUFFIX,rsfcxq.com
@@ -1074,6 +1076,7 @@ payload:
   - DOMAIN-SUFFIX,shccywlkj.xyz
   - DOMAIN-SUFFIX,shenzhendongwei.com
   - DOMAIN-SUFFIX,shineacc.com
+  - DOMAIN-SUFFIX,shirui3.com
   - DOMAIN-SUFFIX,shrxnet.com
   - DOMAIN-SUFFIX,shsw.top
   - DOMAIN-SUFFIX,shuangqingtech.com
@@ -1093,6 +1096,7 @@ payload:
   - DOMAIN-SUFFIX,skxvc.com
   - DOMAIN-SUFFIX,skyey2.com
   - DOMAIN-SUFFIX,skyts.net
+  - DOMAIN-SUFFIX,smartryan.com
   - DOMAIN-SUFFIX,smw9t0a.cc
   - DOMAIN-SUFFIX,snfox.com
   - DOMAIN-SUFFIX,snltty.com
@@ -1202,6 +1206,7 @@ payload:
   - DOMAIN-SUFFIX,tztec.top
   - DOMAIN-SUFFIX,u-carloan.com
   - DOMAIN-SUFFIX,u5nm5uvh1w.com
+  - DOMAIN-SUFFIX,u7ygkovbl.cc
   - DOMAIN-SUFFIX,uascent-iot.com
   - DOMAIN-SUFFIX,ugdocker.link
   - DOMAIN-SUFFIX,ugediao.com
@@ -1289,6 +1294,7 @@ payload:
   - DOMAIN-SUFFIX,xiaocaiyuan.com
   - DOMAIN-SUFFIX,xiaochuanyun.com
   - DOMAIN-SUFFIX,xiaodingfang.com
+  - DOMAIN-SUFFIX,xiaokuai.com
   - DOMAIN-SUFFIX,xiaolikj.online
   - DOMAIN-SUFFIX,xiaomaicn.com
   - DOMAIN-SUFFIX,xiaoxia.vip
@@ -1366,6 +1372,7 @@ payload:
   - DOMAIN-SUFFIX,zcloud.world
   - DOMAIN-SUFFIX,zctnet.top
   - DOMAIN-SUFFIX,zeekrline.com
+  - DOMAIN-SUFFIX,zendao8.top
   - DOMAIN-SUFFIX,zhaiad.com
   - DOMAIN-SUFFIX,zhangleglobal.com
   - DOMAIN-SUFFIX,zhewx.com
