@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-13 09:41:09
+# UPDATED: UTC+8 2026-11-14 09:17:53
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 1346
+# DOMAIN-SUFFIX: 1360
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1443
+# TOTAL: 1457
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -85,6 +85,7 @@ payload:
   - DOMAIN-SUFFIX,17van.com
   - DOMAIN-SUFFIX,1996999.xyz
   - DOMAIN-SUFFIX,1o057bolbb.com
+  - DOMAIN-SUFFIX,1panel.dev
   - DOMAIN-SUFFIX,204cloud.com
   - DOMAIN-SUFFIX,225284.xyz
   - DOMAIN-SUFFIX,25mao.com
@@ -203,6 +204,7 @@ payload:
   - DOMAIN-SUFFIX,anycubic.com
   - DOMAIN-SUFFIX,anythinktech.com
   - DOMAIN-SUFFIX,anytocopy.com
+  - DOMAIN-SUFFIX,anzz.site
   - DOMAIN-SUFFIX,aoc.com
   - DOMAIN-SUFFIX,aocdisplays.com
   - DOMAIN-SUFFIX,aoxox.com
@@ -213,6 +215,7 @@ payload:
   - DOMAIN-SUFFIX,aqtwwx.net
   - DOMAIN-SUFFIX,arena-cn.com
   - DOMAIN-SUFFIX,argotunnel.com
+  - DOMAIN-SUFFIX,argslink.com
   - DOMAIN-SUFFIX,armvm.com
   - DOMAIN-SUFFIX,asgardion.space
   - DOMAIN-SUFFIX,asiancinema.me
@@ -628,6 +631,7 @@ payload:
   - DOMAIN-SUFFIX,hf-mirror.com
   - DOMAIN-SUFFIX,hfhs8x.info
   - DOMAIN-SUFFIX,hhtvc.com
+  - DOMAIN-SUFFIX,hi3d.ai
   - DOMAIN-SUFFIX,higgsweb.com
   - DOMAIN-SUFFIX,hijin.vip
   - DOMAIN-SUFFIX,hiocloud.com
@@ -695,6 +699,7 @@ payload:
   - DOMAIN-SUFFIX,ifconfig.co
   - DOMAIN-SUFFIX,ifengmap.com
   - DOMAIN-SUFFIX,ifish7.com
+  - DOMAIN-SUFFIX,iflytck.com
   - DOMAIN-SUFFIX,igpsport.com
   - DOMAIN-SUFFIX,ijdhend.com
   - DOMAIN-SUFFIX,ijingyi.com
@@ -731,6 +736,7 @@ payload:
   - DOMAIN-SUFFIX,jfyxw.com
   - DOMAIN-SUFFIX,jh96095.com
   - DOMAIN-SUFFIX,jiangningwater.com
+  - DOMAIN-SUFFIX,jianzhixiaoke.net
   - DOMAIN-SUFFIX,jiaoyanyun.com
   - DOMAIN-SUFFIX,jiasule.com
   - DOMAIN-SUFFIX,jieyoutsg.com
@@ -814,6 +820,7 @@ payload:
   - DOMAIN-SUFFIX,linkease.net
   - DOMAIN-SUFFIX,linux.sb
   - DOMAIN-SUFFIX,listenai.com
+  - DOMAIN-SUFFIX,litemob.vip
   - DOMAIN-SUFFIX,liunn.com
   - DOMAIN-SUFFIX,liveperson.net
   - DOMAIN-SUFFIX,liyunol.com
@@ -1035,6 +1042,7 @@ payload:
   - DOMAIN-SUFFIX,redacted.ch
   - DOMAIN-SUFFIX,redenmc.com
   - DOMAIN-SUFFIX,registry.dockermirror.com
+  - DOMAIN-SUFFIX,remo.video
   - DOMAIN-SUFFIX,researchgate.net
   - DOMAIN-SUFFIX,rewards.bing.com
   - DOMAIN-SUFFIX,rkgamingstore.com
@@ -1069,6 +1077,7 @@ payload:
   - DOMAIN-SUFFIX,server2.cn2gias.uk
   - DOMAIN-SUFFIX,sgllife.com
   - DOMAIN-SUFFIX,sgtv.ii00.cc
+  - DOMAIN-SUFFIX,sh-playmax.com
   - DOMAIN-SUFFIX,shandian.blog
   - DOMAIN-SUFFIX,shanghai-parking.com
   - DOMAIN-SUFFIX,shanghongbei.com
@@ -1100,6 +1109,7 @@ payload:
   - DOMAIN-SUFFIX,smw9t0a.cc
   - DOMAIN-SUFFIX,snfox.com
   - DOMAIN-SUFFIX,snltty.com
+  - DOMAIN-SUFFIX,socbro.com
   - DOMAIN-SUFFIX,sollin.top
   - DOMAIN-SUFFIX,soulteary.com
   - DOMAIN-SUFFIX,soulvoice.club
@@ -1118,6 +1128,7 @@ payload:
   - DOMAIN-SUFFIX,stats.qiumibao.com
   - DOMAIN-SUFFIX,stkfanli.com
   - DOMAIN-SUFFIX,sufe.me
+  - DOMAIN-SUFFIX,suiwan.com
   - DOMAIN-SUFFIX,sun-panel.top
   - DOMAIN-SUFFIX,sunrisecontent.akamaized.net
   - DOMAIN-SUFFIX,suntl.com
@@ -1314,6 +1325,7 @@ payload:
   - DOMAIN-SUFFIX,xiwang.com
   - DOMAIN-SUFFIX,xixih.cc
   - DOMAIN-SUFFIX,xkkapk.com
+  - DOMAIN-SUFFIX,xmearth.online
   - DOMAIN-SUFFIX,xn--4kq62z5rby2qupq9ub.top
   - DOMAIN-SUFFIX,xn--cesw6hd3s99f.com
   - DOMAIN-SUFFIX,xn--estr6ge7tok1a.com
@@ -1369,6 +1381,7 @@ payload:
   - DOMAIN-SUFFIX,yzcsoft.com
   - DOMAIN-SUFFIX,z-tek.com
   - DOMAIN-SUFFIX,z6e.com
+  - DOMAIN-SUFFIX,zaohaowu.net
   - DOMAIN-SUFFIX,zcloud.world
   - DOMAIN-SUFFIX,zctnet.top
   - DOMAIN-SUFFIX,zeekrline.com
@@ -1403,6 +1416,7 @@ payload:
   - DOMAIN-SUFFIX,zxp7.cc
   - DOMAIN-SUFFIX,zxstech.com
   - DOMAIN-SUFFIX,zysou.com
+  - DOMAIN-SUFFIX,zyxwvutsrqpo.com
   - DOMAIN-SUFFIX,zyyct.com
   - DOMAIN-SUFFIX,zzclass.com
   - DOMAIN-SUFFIX,zzqrgs3148.vip
