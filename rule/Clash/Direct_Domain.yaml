@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-14 09:17:53
+# UPDATED: UTC+8 2026-11-15 08:47:04
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 1360
+# DOMAIN-SUFFIX: 1368
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1457
+# TOTAL: 1465
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -125,6 +125,7 @@ payload:
   - DOMAIN-SUFFIX,618208.xyz
   - DOMAIN-SUFFIX,657192.com
   - DOMAIN-SUFFIX,66990000.xyz
+  - DOMAIN-SUFFIX,6apzfdx.com
   - DOMAIN-SUFFIX,6v520.net
   - DOMAIN-SUFFIX,71.am
   - DOMAIN-SUFFIX,737698.xyz
@@ -217,6 +218,7 @@ payload:
   - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,argslink.com
   - DOMAIN-SUFFIX,armvm.com
+  - DOMAIN-SUFFIX,aroychmdcl.cc
   - DOMAIN-SUFFIX,asgardion.space
   - DOMAIN-SUFFIX,asiancinema.me
   - DOMAIN-SUFFIX,astrobox.online
@@ -247,6 +249,7 @@ payload:
   - DOMAIN-SUFFIX,belimked.com
   - DOMAIN-SUFFIX,belongme.top
   - DOMAIN-SUFFIX,betahub.tech
+  - DOMAIN-SUFFIX,betaints.com
   - DOMAIN-SUFFIX,beyond-hd.me
   - DOMAIN-SUFFIX,bhduhs.com
   - DOMAIN-SUFFIX,biandangroup.com
@@ -575,6 +578,7 @@ payload:
   - DOMAIN-SUFFIX,guang233.com
   - DOMAIN-SUFFIX,guangshiting.top
   - DOMAIN-SUFFIX,guangyapan.com
+  - DOMAIN-SUFFIX,guazi.fun
   - DOMAIN-SUFFIX,guiguiya.com
   - DOMAIN-SUFFIX,guyuns.asia
   - DOMAIN-SUFFIX,gvgoo.com
@@ -920,6 +924,7 @@ payload:
   - DOMAIN-SUFFIX,neihang.net
   - DOMAIN-SUFFIX,netzz.net
   - DOMAIN-SUFFIX,nhjdixj.com
+  - DOMAIN-SUFFIX,nht5dbh.cc
   - DOMAIN-SUFFIX,nicept.net
   - DOMAIN-SUFFIX,nicezhuanye.com
   - DOMAIN-SUFFIX,njlisi.top
@@ -1037,6 +1042,7 @@ payload:
   - DOMAIN-SUFFIX,qweatherapi.com
   - DOMAIN-SUFFIX,qzy.xyz
   - DOMAIN-SUFFIX,qzyun.net
+  - DOMAIN-SUFFIX,r11cc.com
   - DOMAIN-SUFFIX,ranwen.tw
   - DOMAIN-SUFFIX,rayws.top
   - DOMAIN-SUFFIX,redacted.ch
@@ -1183,6 +1189,7 @@ payload:
   - DOMAIN-SUFFIX,tianruo.xyz
   - DOMAIN-SUFFIX,timbrd.com
   - DOMAIN-SUFFIX,tixue.net
+  - DOMAIN-SUFFIX,tjnhscgs.com
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,tlkg.com
   - DOMAIN-SUFFIX,tluyou.com
@@ -1358,6 +1365,7 @@ payload:
   - DOMAIN-SUFFIX,yicaiykt.com
   - DOMAIN-SUFFIX,yikeapi.com
   - DOMAIN-SUFFIX,yingshi.dog
+  - DOMAIN-SUFFIX,yishares.com
   - DOMAIN-SUFFIX,yiso.fun
   - DOMAIN-SUFFIX,yixc.com
   - DOMAIN-SUFFIX,yixlab.com
