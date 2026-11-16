@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-15 08:47:04
+# UPDATED: UTC+8 2026-11-16 08:46:53
 # HOST: 58
-# HOST-SUFFIX: 1368
+# HOST-SUFFIX: 1374
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1476
+# TOTAL: 1482
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -163,6 +163,7 @@ HOST-SUFFIX,acgdraw.com,Direct
 HOST-SUFFIX,acggit.com,Direct
 HOST-SUFFIX,acm.org,Direct
 HOST-SUFFIX,adbnjg.com,Direct
+HOST-SUFFIX,adgo.top,Direct
 HOST-SUFFIX,adhuanxiao.com,Direct
 HOST-SUFFIX,admobile.top,Direct
 HOST-SUFFIX,admpv.com,Direct
@@ -697,6 +698,7 @@ HOST-SUFFIX,icetorrent.org,Direct
 HOST-SUFFIX,ichongjiayuan.com,Direct
 HOST-SUFFIX,icvcs.com,Direct
 HOST-SUFFIX,idazhe.net,Direct
+HOST-SUFFIX,idc.cash,Direct
 HOST-SUFFIX,idphotoplus.com,Direct
 HOST-SUFFIX,idsduf.com,Direct
 HOST-SUFFIX,ieee.org,Direct
@@ -840,6 +842,7 @@ HOST-SUFFIX,lty02.com,Direct
 HOST-SUFFIX,lucky.gd,Direct
 HOST-SUFFIX,luxiangwu.com,Direct
 HOST-SUFFIX,lw5.co,Direct
+HOST-SUFFIX,lx51ib3szv.cc,Direct
 HOST-SUFFIX,lyihub.com,Direct
 HOST-SUFFIX,lyilife.com,Direct
 HOST-SUFFIX,lzgame.top,Direct
@@ -870,6 +873,7 @@ HOST-SUFFIX,melecode.com,Direct
 HOST-SUFFIX,meloong.com,Direct
 HOST-SUFFIX,members.3322.org,Direct
 HOST-SUFFIX,meoof-pet.com,Direct
+HOST-SUFFIX,metrix.bar,Direct
 HOST-SUFFIX,mfdqsc.com,Direct
 HOST-SUFFIX,miaona.app,Direct
 HOST-SUFFIX,miaotixing.com,Direct
@@ -910,6 +914,7 @@ HOST-SUFFIX,mypikpak.net,Direct
 HOST-SUFFIX,myrny.xin,Direct
 HOST-SUFFIX,myshopex.com,Direct
 HOST-SUFFIX,mystery0.vip,Direct
+HOST-SUFFIX,mytentv.com,Direct
 HOST-SUFFIX,myviewcloud.com,Direct
 HOST-SUFFIX,mzbcars.com,Direct
 HOST-SUFFIX,naitanghuyu.com,Direct
@@ -1147,6 +1152,7 @@ HOST-SUFFIX,suyur.com,Direct
 HOST-SUFFIX,svyun.com,Direct
 HOST-SUFFIX,sxdidc.com,Direct
 HOST-SUFFIX,sxjiabeide.com,Direct
+HOST-SUFFIX,sxjkj22.top,Direct
 HOST-SUFFIX,sxlljm.com,Direct
 HOST-SUFFIX,sxstczx.com,Direct
 HOST-SUFFIX,sy1.top,Direct

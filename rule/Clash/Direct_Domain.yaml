@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-15 08:47:04
+# UPDATED: UTC+8 2026-11-16 08:46:53
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 1368
+# DOMAIN-SUFFIX: 1374
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1465
+# TOTAL: 1471
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -162,6 +162,7 @@ payload:
   - DOMAIN-SUFFIX,acggit.com
   - DOMAIN-SUFFIX,acm.org
   - DOMAIN-SUFFIX,adbnjg.com
+  - DOMAIN-SUFFIX,adgo.top
   - DOMAIN-SUFFIX,adhuanxiao.com
   - DOMAIN-SUFFIX,admobile.top
   - DOMAIN-SUFFIX,admpv.com
@@ -696,6 +697,7 @@ payload:
   - DOMAIN-SUFFIX,ichongjiayuan.com
   - DOMAIN-SUFFIX,icvcs.com
   - DOMAIN-SUFFIX,idazhe.net
+  - DOMAIN-SUFFIX,idc.cash
   - DOMAIN-SUFFIX,idphotoplus.com
   - DOMAIN-SUFFIX,idsduf.com
   - DOMAIN-SUFFIX,ieee.org
@@ -839,6 +841,7 @@ payload:
   - DOMAIN-SUFFIX,lucky.gd
   - DOMAIN-SUFFIX,luxiangwu.com
   - DOMAIN-SUFFIX,lw5.co
+  - DOMAIN-SUFFIX,lx51ib3szv.cc
   - DOMAIN-SUFFIX,lyihub.com
   - DOMAIN-SUFFIX,lyilife.com
   - DOMAIN-SUFFIX,lzgame.top
@@ -869,6 +872,7 @@ payload:
   - DOMAIN-SUFFIX,meloong.com
   - DOMAIN-SUFFIX,members.3322.org
   - DOMAIN-SUFFIX,meoof-pet.com
+  - DOMAIN-SUFFIX,metrix.bar
   - DOMAIN-SUFFIX,mfdqsc.com
   - DOMAIN-SUFFIX,miaona.app
   - DOMAIN-SUFFIX,miaotixing.com
@@ -909,6 +913,7 @@ payload:
   - DOMAIN-SUFFIX,myrny.xin
   - DOMAIN-SUFFIX,myshopex.com
   - DOMAIN-SUFFIX,mystery0.vip
+  - DOMAIN-SUFFIX,mytentv.com
   - DOMAIN-SUFFIX,myviewcloud.com
   - DOMAIN-SUFFIX,mzbcars.com
   - DOMAIN-SUFFIX,naitanghuyu.com
@@ -1146,6 +1151,7 @@ payload:
   - DOMAIN-SUFFIX,svyun.com
   - DOMAIN-SUFFIX,sxdidc.com
   - DOMAIN-SUFFIX,sxjiabeide.com
+  - DOMAIN-SUFFIX,sxjkj22.top
   - DOMAIN-SUFFIX,sxlljm.com
   - DOMAIN-SUFFIX,sxstczx.com
   - DOMAIN-SUFFIX,sy1.top
