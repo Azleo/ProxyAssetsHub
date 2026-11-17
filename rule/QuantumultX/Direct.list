@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-16 08:46:53
+# UPDATED: UTC+8 2026-11-17 11:25:34
 # HOST: 58
-# HOST-SUFFIX: 1374
+# HOST-SUFFIX: 1391
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1482
+# TOTAL: 1499
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -92,6 +92,7 @@ HOST-SUFFIX,225284.xyz,Direct
 HOST-SUFFIX,25mao.com,Direct
 HOST-SUFFIX,264788.xyz,Direct
 HOST-SUFFIX,2mcnxs.cc,Direct
+HOST-SUFFIX,33442805.com,Direct
 HOST-SUFFIX,365ting.com,Direct
 HOST-SUFFIX,365wp.top,Direct
 HOST-SUFFIX,3688baihuo.com,Direct
@@ -125,12 +126,14 @@ HOST-SUFFIX,56tvc.com,Direct
 HOST-SUFFIX,580ai.net,Direct
 HOST-SUFFIX,618208.xyz,Direct
 HOST-SUFFIX,657192.com,Direct
+HOST-SUFFIX,66298845.com,Direct
 HOST-SUFFIX,66990000.xyz,Direct
 HOST-SUFFIX,6apzfdx.com,Direct
 HOST-SUFFIX,6v520.net,Direct
 HOST-SUFFIX,71.am,Direct
 HOST-SUFFIX,737698.xyz,Direct
 HOST-SUFFIX,757abc.com,Direct
+HOST-SUFFIX,77505113.com,Direct
 HOST-SUFFIX,77shuku.info,Direct
 HOST-SUFFIX,77shuku.org,Direct
 HOST-SUFFIX,7sef.com,Direct
@@ -141,6 +144,7 @@ HOST-SUFFIX,85sc.com,Direct
 HOST-SUFFIX,86656.net,Direct
 HOST-SUFFIX,870833.com,Direct
 HOST-SUFFIX,888lm02.com,Direct
+HOST-SUFFIX,88923531.com,Direct
 HOST-SUFFIX,88996api.cloud,Direct
 HOST-SUFFIX,8kc.top,Direct
 HOST-SUFFIX,8x14khzwmi.com,Direct
@@ -394,6 +398,7 @@ HOST-SUFFIX,dhub.kubesre.xyz,Direct
 HOST-SUFFIX,diandaojia.net,Direct
 HOST-SUFFIX,dicmusic.club,Direct
 HOST-SUFFIX,dingdingzn.com,Direct
+HOST-SUFFIX,dingdongbao.com,Direct
 HOST-SUFFIX,dingstock.net,Direct
 HOST-SUFFIX,dircleaner.com,Direct
 HOST-SUFFIX,discfan.net,Direct
@@ -754,6 +759,7 @@ HOST-SUFFIX,jingxi-wl.com,Direct
 HOST-SUFFIX,jinsan168.com,Direct
 HOST-SUFFIX,jinzanzan.com,Direct
 HOST-SUFFIX,jiqw.com,Direct
+HOST-SUFFIX,jjwer.com,Direct
 HOST-SUFFIX,jjzyy.org,Direct
 HOST-SUFFIX,jkgeek.com,Direct
 HOST-SUFFIX,jnsjz.com,Direct
@@ -762,6 +768,7 @@ HOST-SUFFIX,jpopsuki.eu,Direct
 HOST-SUFFIX,jsj.top,Direct
 HOST-SUFFIX,jspvz.com,Direct
 HOST-SUFFIX,jstor.org,Direct
+HOST-SUFFIX,jtti.cc,Direct
 HOST-SUFFIX,juantui.com,Direct
 HOST-SUFFIX,julebu.co,Direct
 HOST-SUFFIX,jxjktzjt.com,Direct
@@ -786,6 +793,7 @@ HOST-SUFFIX,kcbd.top,Direct
 HOST-SUFFIX,kcttpa.com,Direct
 HOST-SUFFIX,keepfrds.com,Direct
 HOST-SUFFIX,kejiweixun.com,Direct
+HOST-SUFFIX,kelexuexi.com,Direct
 HOST-SUFFIX,keyoo.com,Direct
 HOST-SUFFIX,kgithub.com,Direct
 HOST-SUFFIX,kit327.com,Direct
@@ -828,6 +836,7 @@ HOST-SUFFIX,linkease.net,Direct
 HOST-SUFFIX,linux.sb,Direct
 HOST-SUFFIX,listenai.com,Direct
 HOST-SUFFIX,litemob.vip,Direct
+HOST-SUFFIX,litepan.top,Direct
 HOST-SUFFIX,liunn.com,Direct
 HOST-SUFFIX,liveperson.net,Direct
 HOST-SUFFIX,liyunol.com,Direct
@@ -851,6 +860,7 @@ HOST-SUFFIX,m-team.cc,Direct
 HOST-SUFFIX,m-team.io,Direct
 HOST-SUFFIX,machtalk.net,Direct
 HOST-SUFFIX,madsrevolution.net,Direct
+HOST-SUFFIX,manbangcredit.com,Direct
 HOST-SUFFIX,manfuz.co,Direct
 HOST-SUFFIX,maticooads.com,Direct
 HOST-SUFFIX,maxdo.tech,Direct
@@ -875,6 +885,7 @@ HOST-SUFFIX,members.3322.org,Direct
 HOST-SUFFIX,meoof-pet.com,Direct
 HOST-SUFFIX,metrix.bar,Direct
 HOST-SUFFIX,mfdqsc.com,Direct
+HOST-SUFFIX,mfosunhani.com,Direct
 HOST-SUFFIX,miaona.app,Direct
 HOST-SUFFIX,miaotixing.com,Direct
 HOST-SUFFIX,micu.hk,Direct
@@ -990,6 +1001,7 @@ HOST-SUFFIX,passthepopcorn.me,Direct
 HOST-SUFFIX,pcwatch.com,Direct
 HOST-SUFFIX,pdf001.com,Direct
 HOST-SUFFIX,pdhnx.com,Direct
+HOST-SUFFIX,pheicloud.com,Direct
 HOST-SUFFIX,piedaochuan.top,Direct
 HOST-SUFFIX,pinshuxsw.com,Direct
 HOST-SUFFIX,pixcheese.com,Direct
@@ -1095,6 +1107,7 @@ HOST-SUFFIX,shanghai-parking.com,Direct
 HOST-SUFFIX,shanghongbei.com,Direct
 HOST-SUFFIX,share123.top,Direct
 HOST-SUFFIX,shccywlkj.xyz,Direct
+HOST-SUFFIX,shemen365.com,Direct
 HOST-SUFFIX,shenzhendongwei.com,Direct
 HOST-SUFFIX,shineacc.com,Direct
 HOST-SUFFIX,shirui3.com,Direct
@@ -1187,6 +1200,7 @@ HOST-SUFFIX,thejoyridegames.com,Direct
 HOST-SUFFIX,theluyuan.com,Direct
 HOST-SUFFIX,theshikilab.com,Direct
 HOST-SUFFIX,theuwa.com,Direct
+HOST-SUFFIX,theyojoy.com,Direct
 HOST-SUFFIX,thinkerride.com,Direct
 HOST-SUFFIX,thispx.com,Direct
 HOST-SUFFIX,thmnet.com,Direct
@@ -1231,6 +1245,7 @@ HOST-SUFFIX,type.fun,Direct
 HOST-SUFFIX,tztec.top,Direct
 HOST-SUFFIX,u-carloan.com,Direct
 HOST-SUFFIX,u5nm5uvh1w.com,Direct
+HOST-SUFFIX,u77.games,Direct
 HOST-SUFFIX,u7ygkovbl.cc,Direct
 HOST-SUFFIX,uascent-iot.com,Direct
 HOST-SUFFIX,ugdocker.link,Direct
@@ -1380,6 +1395,8 @@ HOST-SUFFIX,yldw.net,Direct
 HOST-SUFFIX,ymwfy.com,Direct
 HOST-SUFFIX,ymzec.com,Direct
 HOST-SUFFIX,ynsj001.com,Direct
+HOST-SUFFIX,yojoy.mobi,Direct
+HOST-SUFFIX,yojoy.vip,Direct
 HOST-SUFFIX,yongyu.xyz,Direct
 HOST-SUFFIX,yooc.me,Direct
 HOST-SUFFIX,youkuimg.icu,Direct

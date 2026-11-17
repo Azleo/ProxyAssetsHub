@@ -1,13 +1,14 @@
 # NAME: AI-ALL规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-16 08:46:54
-# HOST: 38
+# UPDATED: UTC+8 2026-11-17 11:25:34
+# HOST: 39
 # HOST-SUFFIX: 119
+# HOST-WILDCARD: 1
 # HOST-KEYWORD: 8
 # IP-CIDR: 2
 # IP-ASN: 1
-# TOTAL: 168
+# TOTAL: 170
 # -- AI合集 --
 HOST,ai.google.dev,AI-ALL
 HOST,aistudio.google.com,AI-ALL
@@ -31,6 +32,7 @@ HOST,copilot.microsoft.com,AI-ALL
 HOST,cp4.cloudflare.com,AI-ALL
 HOST,gateway.ai.cloudflare.com,AI-ALL
 HOST,gemini.google.com,AI-ALL
+HOST,graph.facebook.com,AI-ALL
 HOST,gspe1-ssl.ls.apple.com,AI-ALL
 HOST,guzzoni.apple.com,AI-ALL
 HOST,imagine.meta.com,AI-ALL
@@ -166,6 +168,7 @@ HOST-SUFFIX,turn.livekit.cloud,AI-ALL
 HOST-SUFFIX,webchannel-alkalimakersuite-pa.clients6.google.com,AI-ALL
 HOST-SUFFIX,x.ai,AI-ALL
 HOST-SUFFIX,zed.dev,AI-ALL
+HOST-WILDCARD,scontent-*.xx.fbcdn.net,AI-ALL
 HOST-KEYWORD,colab,AI-ALL
 HOST-KEYWORD,developerprofiles,AI-ALL
 HOST-KEYWORD,generativelanguage,AI-ALL
