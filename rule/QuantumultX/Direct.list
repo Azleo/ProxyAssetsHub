@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-17 11:25:34
+# UPDATED: UTC+8 2026-11-18 10:44:23
 # HOST: 58
-# HOST-SUFFIX: 1391
+# HOST-SUFFIX: 1401
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1499
+# TOTAL: 1509
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -93,6 +93,7 @@ HOST-SUFFIX,25mao.com,Direct
 HOST-SUFFIX,264788.xyz,Direct
 HOST-SUFFIX,2mcnxs.cc,Direct
 HOST-SUFFIX,33442805.com,Direct
+HOST-SUFFIX,360luxiang.com,Direct
 HOST-SUFFIX,365ting.com,Direct
 HOST-SUFFIX,365wp.top,Direct
 HOST-SUFFIX,3688baihuo.com,Direct
@@ -228,6 +229,7 @@ HOST-SUFFIX,aroychmdcl.cc,Direct
 HOST-SUFFIX,asgardion.space,Direct
 HOST-SUFFIX,asiancinema.me,Direct
 HOST-SUFFIX,astrobox.online,Direct
+HOST-SUFFIX,ataw.top,Direct
 HOST-SUFFIX,atticus.vip,Direct
 HOST-SUFFIX,avgv.cc,Direct
 HOST-SUFFIX,avistaz.to,Direct
@@ -257,6 +259,7 @@ HOST-SUFFIX,belongme.top,Direct
 HOST-SUFFIX,betahub.tech,Direct
 HOST-SUFFIX,betaints.com,Direct
 HOST-SUFFIX,beyond-hd.me,Direct
+HOST-SUFFIX,bfr2.top,Direct
 HOST-SUFFIX,bhduhs.com,Direct
 HOST-SUFFIX,biandangroup.com,Direct
 HOST-SUFFIX,biaoda.me,Direct
@@ -593,6 +596,7 @@ HOST-SUFFIX,gwmapp-w.com,Direct
 HOST-SUFFIX,gxcould.com,Direct
 HOST-SUFFIX,gxnnjidingkeji.top,Direct
 HOST-SUFFIX,gxnnxsqy.top,Direct
+HOST-SUFFIX,gxqmeiwujun.com,Direct
 HOST-SUFFIX,gxrke1715.com,Direct
 HOST-SUFFIX,gzjkoa.com,Direct
 HOST-SUFFIX,gzybao.com,Direct
@@ -737,6 +741,7 @@ HOST-SUFFIX,iposl.com,Direct
 HOST-SUFFIX,ipshu.com,Direct
 HOST-SUFFIX,iq.com,Direct
 HOST-SUFFIX,iquantumad.com,Direct
+HOST-SUFFIX,isbestgame.com,Direct
 HOST-SUFFIX,istoreos.com,Direct
 HOST-SUFFIX,itptg.com,Direct
 HOST-SUFFIX,itui.cc,Direct
@@ -886,6 +891,7 @@ HOST-SUFFIX,meoof-pet.com,Direct
 HOST-SUFFIX,metrix.bar,Direct
 HOST-SUFFIX,mfdqsc.com,Direct
 HOST-SUFFIX,mfosunhani.com,Direct
+HOST-SUFFIX,mfpt8g.com,Direct
 HOST-SUFFIX,miaona.app,Direct
 HOST-SUFFIX,miaotixing.com,Direct
 HOST-SUFFIX,micu.hk,Direct
@@ -900,6 +906,7 @@ HOST-SUFFIX,minor-api-os.hoyoverse.com,Direct
 HOST-SUFFIX,miraiemby.com,Direct
 HOST-SUFFIX,mixly.org,Direct
 HOST-SUFFIX,mobai.sbs,Direct
+HOST-SUFFIX,mobbananagame.com,Direct
 HOST-SUFFIX,mochadj.com,Direct
 HOST-SUFFIX,moctory.com,Direct
 HOST-SUFFIX,modaiyun.com,Direct
@@ -962,6 +969,7 @@ HOST-SUFFIX,nyxcuy.com,Direct
 HOST-SUFFIX,oai.sb,Direct
 HOST-SUFFIX,oath.com,Direct
 HOST-SUFFIX,oceando.cloud,Direct
+HOST-SUFFIX,oemdss.com,Direct
 HOST-SUFFIX,ohdnhxj.com,Direct
 HOST-SUFFIX,ok321.top,Direct
 HOST-SUFFIX,ol.epicgames.com,Direct
@@ -1164,6 +1172,7 @@ HOST-SUFFIX,suu-fun.com,Direct
 HOST-SUFFIX,suyur.com,Direct
 HOST-SUFFIX,svyun.com,Direct
 HOST-SUFFIX,sxdidc.com,Direct
+HOST-SUFFIX,sxjd.ink,Direct
 HOST-SUFFIX,sxjiabeide.com,Direct
 HOST-SUFFIX,sxjkj22.top,Direct
 HOST-SUFFIX,sxlljm.com,Direct
@@ -1303,6 +1312,7 @@ HOST-SUFFIX,wlkac.com,Direct
 HOST-SUFFIX,wlups.com,Direct
 HOST-SUFFIX,wlygrowth.com,Direct
 HOST-SUFFIX,wmvbo.com,Direct
+HOST-SUFFIX,woca.fun,Direct
 HOST-SUFFIX,wologic.net,Direct
 HOST-SUFFIX,wpurl.cc,Direct
 HOST-SUFFIX,wshifen.com,Direct

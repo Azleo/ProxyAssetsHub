@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-17 11:25:34
+# UPDATED: UTC+8 2026-11-18 10:44:23
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 1391
+# DOMAIN-SUFFIX: 1401
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1488
+# TOTAL: 1498
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -92,6 +92,7 @@ payload:
   - DOMAIN-SUFFIX,264788.xyz
   - DOMAIN-SUFFIX,2mcnxs.cc
   - DOMAIN-SUFFIX,33442805.com
+  - DOMAIN-SUFFIX,360luxiang.com
   - DOMAIN-SUFFIX,365ting.com
   - DOMAIN-SUFFIX,365wp.top
   - DOMAIN-SUFFIX,3688baihuo.com
@@ -227,6 +228,7 @@ payload:
   - DOMAIN-SUFFIX,asgardion.space
   - DOMAIN-SUFFIX,asiancinema.me
   - DOMAIN-SUFFIX,astrobox.online
+  - DOMAIN-SUFFIX,ataw.top
   - DOMAIN-SUFFIX,atticus.vip
   - DOMAIN-SUFFIX,avgv.cc
   - DOMAIN-SUFFIX,avistaz.to
@@ -256,6 +258,7 @@ payload:
   - DOMAIN-SUFFIX,betahub.tech
   - DOMAIN-SUFFIX,betaints.com
   - DOMAIN-SUFFIX,beyond-hd.me
+  - DOMAIN-SUFFIX,bfr2.top
   - DOMAIN-SUFFIX,bhduhs.com
   - DOMAIN-SUFFIX,biandangroup.com
   - DOMAIN-SUFFIX,biaoda.me
@@ -592,6 +595,7 @@ payload:
   - DOMAIN-SUFFIX,gxcould.com
   - DOMAIN-SUFFIX,gxnnjidingkeji.top
   - DOMAIN-SUFFIX,gxnnxsqy.top
+  - DOMAIN-SUFFIX,gxqmeiwujun.com
   - DOMAIN-SUFFIX,gxrke1715.com
   - DOMAIN-SUFFIX,gzjkoa.com
   - DOMAIN-SUFFIX,gzybao.com
@@ -736,6 +740,7 @@ payload:
   - DOMAIN-SUFFIX,ipshu.com
   - DOMAIN-SUFFIX,iq.com
   - DOMAIN-SUFFIX,iquantumad.com
+  - DOMAIN-SUFFIX,isbestgame.com
   - DOMAIN-SUFFIX,istoreos.com
   - DOMAIN-SUFFIX,itptg.com
   - DOMAIN-SUFFIX,itui.cc
@@ -885,6 +890,7 @@ payload:
   - DOMAIN-SUFFIX,metrix.bar
   - DOMAIN-SUFFIX,mfdqsc.com
   - DOMAIN-SUFFIX,mfosunhani.com
+  - DOMAIN-SUFFIX,mfpt8g.com
   - DOMAIN-SUFFIX,miaona.app
   - DOMAIN-SUFFIX,miaotixing.com
   - DOMAIN-SUFFIX,micu.hk
@@ -899,6 +905,7 @@ payload:
   - DOMAIN-SUFFIX,miraiemby.com
   - DOMAIN-SUFFIX,mixly.org
   - DOMAIN-SUFFIX,mobai.sbs
+  - DOMAIN-SUFFIX,mobbananagame.com
   - DOMAIN-SUFFIX,mochadj.com
   - DOMAIN-SUFFIX,moctory.com
   - DOMAIN-SUFFIX,modaiyun.com
@@ -961,6 +968,7 @@ payload:
   - DOMAIN-SUFFIX,oai.sb
   - DOMAIN-SUFFIX,oath.com
   - DOMAIN-SUFFIX,oceando.cloud
+  - DOMAIN-SUFFIX,oemdss.com
   - DOMAIN-SUFFIX,ohdnhxj.com
   - DOMAIN-SUFFIX,ok321.top
   - DOMAIN-SUFFIX,ol.epicgames.com
@@ -1163,6 +1171,7 @@ payload:
   - DOMAIN-SUFFIX,suyur.com
   - DOMAIN-SUFFIX,svyun.com
   - DOMAIN-SUFFIX,sxdidc.com
+  - DOMAIN-SUFFIX,sxjd.ink
   - DOMAIN-SUFFIX,sxjiabeide.com
   - DOMAIN-SUFFIX,sxjkj22.top
   - DOMAIN-SUFFIX,sxlljm.com
@@ -1302,6 +1311,7 @@ payload:
   - DOMAIN-SUFFIX,wlups.com
   - DOMAIN-SUFFIX,wlygrowth.com
   - DOMAIN-SUFFIX,wmvbo.com
+  - DOMAIN-SUFFIX,woca.fun
   - DOMAIN-SUFFIX,wologic.net
   - DOMAIN-SUFFIX,wpurl.cc
   - DOMAIN-SUFFIX,wshifen.com
