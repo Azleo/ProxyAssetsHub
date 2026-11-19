@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-18 10:44:23
+# UPDATED: UTC+8 2026-11-19 10:17:26
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 1401
+# DOMAIN-SUFFIX: 1412
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1498
+# TOTAL: 1509
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -345,6 +345,7 @@ payload:
   - DOMAIN-SUFFIX,cinematik.net
   - DOMAIN-SUFFIX,cinemaz.to
   - DOMAIN-SUFFIX,ciyuancenter.cc
+  - DOMAIN-SUFFIX,claisly.com
   - DOMAIN-SUFFIX,classix-unlimited.co.uk
   - DOMAIN-SUFFIX,clivia.fun
   - DOMAIN-SUFFIX,cloudllll.com
@@ -787,6 +788,7 @@ payload:
   - DOMAIN-SUFFIX,kaipanhong.com
   - DOMAIN-SUFFIX,kamhing.net
   - DOMAIN-SUFFIX,kancaibao.com
+  - DOMAIN-SUFFIX,kanv7k.live
   - DOMAIN-SUFFIX,kanxiquan.com
   - DOMAIN-SUFFIX,karagarga.in
   - DOMAIN-SUFFIX,kaspersky-labs.com
@@ -900,6 +902,7 @@ payload:
   - DOMAIN-SUFFIX,mifeng.plus
   - DOMAIN-SUFFIX,mifon.com
   - DOMAIN-SUFFIX,mifosy.com
+  - DOMAIN-SUFFIX,mikus.ink
   - DOMAIN-SUFFIX,minekuai.com
   - DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
   - DOMAIN-SUFFIX,miraiemby.com
@@ -1278,6 +1281,7 @@ payload:
   - DOMAIN-SUFFIX,vip-cdn.com
   - DOMAIN-SUFFIX,vip666ai.com
   - DOMAIN-SUFFIX,vipjiapu.com
+  - DOMAIN-SUFFIX,visaselectrewardhk.com
   - DOMAIN-SUFFIX,visionariopro.com
   - DOMAIN-SUFFIX,vlan5.com
   - DOMAIN-SUFFIX,volcanomob.com
@@ -1302,8 +1306,10 @@ payload:
   - DOMAIN-SUFFIX,weshape3d.com
   - DOMAIN-SUFFIX,wetolink.com
   - DOMAIN-SUFFIX,wewillpro.com
+  - DOMAIN-SUFFIX,wget.la
   - DOMAIN-SUFFIX,wildfirechat.net
   - DOMAIN-SUFFIX,wiley.com
+  - DOMAIN-SUFFIX,wirefee.site
   - DOMAIN-SUFFIX,wisecleaner.net
   - DOMAIN-SUFFIX,wjx.top
   - DOMAIN-SUFFIX,wlcdn88.com
@@ -1321,6 +1327,7 @@ payload:
   - DOMAIN-SUFFIX,wwwh.eu.org
   - DOMAIN-SUFFIX,wwwwqq.com
   - DOMAIN-SUFFIX,wxdw.top
+  - DOMAIN-SUFFIX,wyswgb.com
   - DOMAIN-SUFFIX,x-gpu.com
   - DOMAIN-SUFFIX,x86pi.com
   - DOMAIN-SUFFIX,xaippc.com
@@ -1390,6 +1397,7 @@ payload:
   - DOMAIN-SUFFIX,ycyct.com
   - DOMAIN-SUFFIX,ydayc.com
   - DOMAIN-SUFFIX,yeguodj.com
+  - DOMAIN-SUFFIX,ygdj17.com
   - DOMAIN-SUFFIX,yhxjkj.top
   - DOMAIN-SUFFIX,yi-ll.com
   - DOMAIN-SUFFIX,yibanbianji.com
@@ -1401,6 +1409,7 @@ payload:
   - DOMAIN-SUFFIX,yixc.com
   - DOMAIN-SUFFIX,yixlab.com
   - DOMAIN-SUFFIX,yldw.net
+  - DOMAIN-SUFFIX,ymm56-cdn.com
   - DOMAIN-SUFFIX,ymwfy.com
   - DOMAIN-SUFFIX,ymzec.com
   - DOMAIN-SUFFIX,ynsj001.com
@@ -1446,9 +1455,11 @@ payload:
   - DOMAIN-SUFFIX,zllinks.com
   - DOMAIN-SUFFIX,zmaticoo.com
   - DOMAIN-SUFFIX,zmis.me
+  - DOMAIN-SUFFIX,znigddzwz.cc
   - DOMAIN-SUFFIX,znnu.com
   - DOMAIN-SUFFIX,znztv.com
   - DOMAIN-SUFFIX,zqin758.xyz
+  - DOMAIN-SUFFIX,zsdc.eu.org
   - DOMAIN-SUFFIX,zsytit.com
   - DOMAIN-SUFFIX,ztytech.com
   - DOMAIN-SUFFIX,zudanje.com
