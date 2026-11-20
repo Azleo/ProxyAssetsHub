@@ -1,11 +1,11 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-19 10:17:26
+# UPDATED: UTC+8 2026-11-20 10:01:05
 # DOMAIN: 58
-# DOMAIN-SUFFIX: 1412
+# DOMAIN-SUFFIX: 1408
 # DOMAIN-KEYWORD: 39
-# TOTAL: 1509
+# TOTAL: 1505
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -216,7 +216,6 @@ payload:
   - DOMAIN-SUFFIX,aocdisplays.com
   - DOMAIN-SUFFIX,aoxox.com
   - DOMAIN-SUFFIX,ap-leasing.com
-  - DOMAIN-SUFFIX,api.myip.com
   - DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
   - DOMAIN-SUFFIX,appracle.com
   - DOMAIN-SUFFIX,aqtwwx.net
@@ -322,8 +321,6 @@ payload:
   - DOMAIN-SUFFIX,chatlabs.net
   - DOMAIN-SUFFIX,chaxunjiao.com
   - DOMAIN-SUFFIX,chaz.fun
-  - DOMAIN-SUFFIX,checkip.dyndns.org
-  - DOMAIN-SUFFIX,checkipv6.dyndns.org
   - DOMAIN-SUFFIX,chengguodj.com
   - DOMAIN-SUFFIX,chenyuxia.com
   - DOMAIN-SUFFIX,cheriexsky.love
@@ -555,7 +552,6 @@ payload:
   - DOMAIN-SUFFIX,github.moeyy.xyz
   - DOMAIN-SUFFIX,github.site
   - DOMAIN-SUFFIX,github.store
-  - DOMAIN-SUFFIX,giveup.top
   - DOMAIN-SUFFIX,gjjwgp3n.com
   - DOMAIN-SUFFIX,gjtool.com
   - DOMAIN-SUFFIX,gmoj.net
@@ -705,6 +701,7 @@ payload:
   - DOMAIN-SUFFIX,ibwm5lynb6.com
   - DOMAIN-SUFFIX,icetorrent.org
   - DOMAIN-SUFFIX,ichongjiayuan.com
+  - DOMAIN-SUFFIX,icitycdn.com
   - DOMAIN-SUFFIX,icvcs.com
   - DOMAIN-SUFFIX,idazhe.net
   - DOMAIN-SUFFIX,idc.cash
@@ -712,7 +709,6 @@ payload:
   - DOMAIN-SUFFIX,idsduf.com
   - DOMAIN-SUFFIX,ieee.org
   - DOMAIN-SUFFIX,ifawj9hvvl.com
-  - DOMAIN-SUFFIX,ifconfig.co
   - DOMAIN-SUFFIX,ifengmap.com
   - DOMAIN-SUFFIX,ifish7.com
   - DOMAIN-SUFFIX,iflytck.com
@@ -734,8 +730,6 @@ payload:
   - DOMAIN-SUFFIX,iotrix.net
   - DOMAIN-SUFFIX,ip.plus
   - DOMAIN-SUFFIX,ip159.com
-  - DOMAIN-SUFFIX,ip6.seeip.org
-  - DOMAIN-SUFFIX,ipapi.co
   - DOMAIN-SUFFIX,ipjrh.com
   - DOMAIN-SUFFIX,iposl.com
   - DOMAIN-SUFFIX,ipshu.com
@@ -802,7 +796,6 @@ payload:
   - DOMAIN-SUFFIX,kelexuexi.com
   - DOMAIN-SUFFIX,keyoo.com
   - DOMAIN-SUFFIX,kgithub.com
-  - DOMAIN-SUFFIX,kit327.com
   - DOMAIN-SUFFIX,kiwiot.com
   - DOMAIN-SUFFIX,kke.com.hk
   - DOMAIN-SUFFIX,kkmmy.com
@@ -1298,6 +1291,7 @@ payload:
   - DOMAIN-SUFFIX,weather-analytics-events.apple.com
   - DOMAIN-SUFFIX,weather-data.apple.com
   - DOMAIN-SUFFIX,weather-map.apple.com
+  - DOMAIN-SUFFIX,webportal.top
   - DOMAIN-SUFFIX,webs.vc
   - DOMAIN-SUFFIX,weiguangshanyao.com
   - DOMAIN-SUFFIX,weixinpcs.com
@@ -1422,7 +1416,9 @@ payload:
   - DOMAIN-SUFFIX,youzhiyouxing.com
   - DOMAIN-SUFFIX,yrqvlchq5.com
   - DOMAIN-SUFFIX,yshoufa.com
+  - DOMAIN-SUFFIX,yuanqidesk3.com
   - DOMAIN-SUFFIX,yueti.vip
+  - DOMAIN-SUFFIX,yueyouqu.com
   - DOMAIN-SUFFIX,yunqin.online
   - DOMAIN-SUFFIX,yunzuoye.net
   - DOMAIN-SUFFIX,yydsys.de

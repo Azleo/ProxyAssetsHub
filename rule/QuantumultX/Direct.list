@@ -1,13 +1,13 @@
 # NAME: Direct规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-19 10:17:26
+# UPDATED: UTC+8 2026-11-20 10:01:05
 # HOST: 58
-# HOST-SUFFIX: 1412
+# HOST-SUFFIX: 1408
 # HOST-KEYWORD: 39
 # USER-AGENT: 1
 # IP-CIDR: 10
-# TOTAL: 1520
+# TOTAL: 1516
 HOST,ad.10010.com,Direct
 HOST,ad.12306.cn,Direct
 HOST,ain.bgm.tv,Direct
@@ -217,7 +217,6 @@ HOST-SUFFIX,aoc.com,Direct
 HOST-SUFFIX,aocdisplays.com,Direct
 HOST-SUFFIX,aoxox.com,Direct
 HOST-SUFFIX,ap-leasing.com,Direct
-HOST-SUFFIX,api.myip.com,Direct
 HOST-SUFFIX,apm-log-upload-os.hoyoverse.com,Direct
 HOST-SUFFIX,appracle.com,Direct
 HOST-SUFFIX,aqtwwx.net,Direct
@@ -323,8 +322,6 @@ HOST-SUFFIX,chaoway.net,Direct
 HOST-SUFFIX,chatlabs.net,Direct
 HOST-SUFFIX,chaxunjiao.com,Direct
 HOST-SUFFIX,chaz.fun,Direct
-HOST-SUFFIX,checkip.dyndns.org,Direct
-HOST-SUFFIX,checkipv6.dyndns.org,Direct
 HOST-SUFFIX,chengguodj.com,Direct
 HOST-SUFFIX,chenyuxia.com,Direct
 HOST-SUFFIX,cheriexsky.love,Direct
@@ -556,7 +553,6 @@ HOST-SUFFIX,github.boki.moe,Direct
 HOST-SUFFIX,github.moeyy.xyz,Direct
 HOST-SUFFIX,github.site,Direct
 HOST-SUFFIX,github.store,Direct
-HOST-SUFFIX,giveup.top,Direct
 HOST-SUFFIX,gjjwgp3n.com,Direct
 HOST-SUFFIX,gjtool.com,Direct
 HOST-SUFFIX,gmoj.net,Direct
@@ -706,6 +702,7 @@ HOST-SUFFIX,ibnjl.shop,Direct
 HOST-SUFFIX,ibwm5lynb6.com,Direct
 HOST-SUFFIX,icetorrent.org,Direct
 HOST-SUFFIX,ichongjiayuan.com,Direct
+HOST-SUFFIX,icitycdn.com,Direct
 HOST-SUFFIX,icvcs.com,Direct
 HOST-SUFFIX,idazhe.net,Direct
 HOST-SUFFIX,idc.cash,Direct
@@ -713,7 +710,6 @@ HOST-SUFFIX,idphotoplus.com,Direct
 HOST-SUFFIX,idsduf.com,Direct
 HOST-SUFFIX,ieee.org,Direct
 HOST-SUFFIX,ifawj9hvvl.com,Direct
-HOST-SUFFIX,ifconfig.co,Direct
 HOST-SUFFIX,ifengmap.com,Direct
 HOST-SUFFIX,ifish7.com,Direct
 HOST-SUFFIX,iflytck.com,Direct
@@ -735,8 +731,6 @@ HOST-SUFFIX,iot889.com,Direct
 HOST-SUFFIX,iotrix.net,Direct
 HOST-SUFFIX,ip.plus,Direct
 HOST-SUFFIX,ip159.com,Direct
-HOST-SUFFIX,ip6.seeip.org,Direct
-HOST-SUFFIX,ipapi.co,Direct
 HOST-SUFFIX,ipjrh.com,Direct
 HOST-SUFFIX,iposl.com,Direct
 HOST-SUFFIX,ipshu.com,Direct
@@ -803,7 +797,6 @@ HOST-SUFFIX,kejiweixun.com,Direct
 HOST-SUFFIX,kelexuexi.com,Direct
 HOST-SUFFIX,keyoo.com,Direct
 HOST-SUFFIX,kgithub.com,Direct
-HOST-SUFFIX,kit327.com,Direct
 HOST-SUFFIX,kiwiot.com,Direct
 HOST-SUFFIX,kke.com.hk,Direct
 HOST-SUFFIX,kkmmy.com,Direct
@@ -1299,6 +1292,7 @@ HOST-SUFFIX,we-stats.com,Direct
 HOST-SUFFIX,weather-analytics-events.apple.com,Direct
 HOST-SUFFIX,weather-data.apple.com,Direct
 HOST-SUFFIX,weather-map.apple.com,Direct
+HOST-SUFFIX,webportal.top,Direct
 HOST-SUFFIX,webs.vc,Direct
 HOST-SUFFIX,weiguangshanyao.com,Direct
 HOST-SUFFIX,weixinpcs.com,Direct
@@ -1423,7 +1417,9 @@ HOST-SUFFIX,youqian.pro,Direct
 HOST-SUFFIX,youzhiyouxing.com,Direct
 HOST-SUFFIX,yrqvlchq5.com,Direct
 HOST-SUFFIX,yshoufa.com,Direct
+HOST-SUFFIX,yuanqidesk3.com,Direct
 HOST-SUFFIX,yueti.vip,Direct
+HOST-SUFFIX,yueyouqu.com,Direct
 HOST-SUFFIX,yunqin.online,Direct
 HOST-SUFFIX,yunzuoye.net,Direct
 HOST-SUFFIX,yydsys.de,Direct
