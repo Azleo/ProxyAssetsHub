@@ -71,6 +71,16 @@ class TestJudge(unittest.TestCase):
         state, _ = Manager._judge(record, [])
         self.assertEqual(state, "警告")
 
+    def test_crashed_task_is_failure(self):
+        """任务中途抛异常必须判失败，不能因为"无产出"只报警告。
+
+        警告的退出码是 0：CI 绿着、产物少一份，不点开日志根本看不出来。
+        """
+        record = self.record()
+        record["crashed"] = True
+        state, _ = Manager._judge(record, [{"ok": True}])
+        self.assertEqual(state, "失败")
+
 
 class TestOutputConflict(unittest.TestCase):
     def setUp(self):
@@ -254,8 +264,12 @@ class TestRunTaskFlow(unittest.TestCase):
         mock_download.assert_not_called()
         self.assertEqual(record["state"], "警告", "没格式是配置问题，不是源失败")
 
-    def test_processor_exception_does_not_crash(self):
-        """处理器抛异常时任务记失败，但不能把整批拖垮。"""
+    def test_processor_exception_is_failure(self):
+        """处理器抛异常时任务记失败，但不能把整批拖垮。
+
+        异常必须判失败：记成"警告"的话退出码是 0，CI 绿着，
+        而实际产物已经缺了一份——不点开日志根本发现不了。
+        """
 
         def broken_processor(processor_cfg, raw):
             raise ValueError("处理炸了")
@@ -264,9 +278,8 @@ class TestRunTaskFlow(unittest.TestCase):
             (["DOMAIN,a.com"], self.sources(True, True)), processor=broken_processor
         )
 
-        # 异常被兜住，任务照常收尾：产出为 0，所以是警告而不是成功
         self.assertEqual(record["out"], 0)
-        self.assertEqual(record["state"], "警告")
+        self.assertEqual(record["state"], "失败")
 
 
 if __name__ == "__main__":

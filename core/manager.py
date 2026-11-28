@@ -173,6 +173,9 @@ class Manager:
             self._stage_convert(cfg, final_data, category, record, name, started, writes)
 
         except Exception as error:  # noqa: BLE001 - 任何任务异常都不该拖垮整批
+            # 用独立标记而不是直接改 state：finally 里会统一重算状态，
+            # 这里只负责告诉 _judge"这个任务崩过"。
+            record["crashed"] = True
             Logger.task_exception(name, error)
             if Logger.is_debug():
                 traceback.print_exc()
@@ -467,9 +470,15 @@ class Manager:
         判定任务状态。
 
         成功：所有源都成功、所有格式都写成功，而且确实产出了规则
-        失败：一个源都没成功
+        失败：一个源都没成功，或者任务中途抛了异常
         警告：介于两者之间，或者下载成功但一条规则都没剩下
         """
+        # 任务中途抛过异常：不管走到哪一步都算失败。
+        # 记成"警告"的话退出码仍是 0，CI 绿着，而产物已经缺了一份，
+        # 不点开日志根本发现不了——这正是异常最该被亮出来的场景。
+        if record.get("crashed"):
+            return "失败", MARK_FAIL
+
         write_ok = sum(1 for w in writes if w["ok"])
         write_all_ok = writes and write_ok == len(writes)
 
