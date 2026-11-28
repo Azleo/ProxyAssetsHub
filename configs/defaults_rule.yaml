@@ -16,6 +16,8 @@ formats:
   - 'quantumultx'
   # - 'clash'
 
-# enabled: 规则集默认是否启用（所有配置都不写这个字段时，就等于启用）。
-# 某份配置想临时关闭：在它自己的文件里去掉 "# enabled: false" 那行的注释。
-enabled: true
+# enabled: 规则集默认是否启用。
+# 不写这个字段就是启用，所以正常情况下不用管它。
+# 想关闭整个 rule 阶段的所有规则集：取消下面那行的注释，写 enabled: false。
+# 只关某一份规则集：去那份配置里写 enabled: false。
+# enabled: false

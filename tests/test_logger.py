@@ -163,6 +163,36 @@ class TestTerminalMode(LoggerTestBase):
         self.assertIn("写入失败：clash（permission denied）", out)
 
 
+class TestUnknownState(LoggerTestBase):
+    """收尾汇总时遇到未知状态不能崩。
+
+    目前任务状态只有"成功/警告/失败"三种，但总数统计跑在最后一步：
+    万一以后加了第四种状态，这里若用 counts[state] 会直接 KeyError，
+    产物已经写完，CI 却只看到红叉，真实原因还藏在汇总代码里。
+    """
+
+    @staticmethod
+    def _record_with_unknown_state():
+        rec = record()
+        rec["state"] = "跳过"
+        rec["state_mark"] = "·"
+        return rec
+
+    def test_unknown_state_does_not_crash_terminal_mode(self):
+        out = self.run_logger(
+            lambda: Logger.run_end([self._record_with_unknown_state()], 1.0, "12:00:01")
+        )
+        # 未知状态不参与三个已知计数，但总表要照常打完
+        self.assertIn("结束 12:00:01", out)
+
+    def test_unknown_state_does_not_crash_ci_mode(self):
+        os.environ["CI"] = "true"
+        out = self.run_logger(
+            lambda: Logger.run_end([self._record_with_unknown_state()], 0.3, "12:00:01")
+        )
+        self.assertIn("summary", out)
+
+
 class TestDebugMode(LoggerTestBase):
     """debug 级别会多出逐源明细。"""
 

@@ -160,6 +160,16 @@ class TestDefaultsLoading(LoaderTestBase):
         self.assertEqual(len(configs), 1)
         self.assertFalse(any(p["level"] == "error" for p in problems))
 
+    def test_defaults_can_disable_everything(self):
+        """defaults 里写 enabled: false 可以一键全关，显式写 true 的配置不受影响。"""
+        self.write("a.yaml", VALID_CONFIG.replace("enabled: true\n", ""))
+        self.write("b.yaml", VALID_CONFIG.replace("name: '测试规则集'", "name: '显式启用'"))
+        self.write_defaults("enabled: false\n")
+
+        configs, _, _ = self.load()
+
+        self.assertEqual([c["name"] for c in configs], ["显式启用"])
+
 
 class TestProjectRoot(LoaderTestBase):
     """配置目录靠显式传入的项目根定位，不依赖当前工作目录。"""
@@ -308,6 +318,31 @@ class TestConfigErrors(LoaderTestBase):
         # 禁用不是错误，只是调试信息
         self.assertTrue(any(p["code"] == "CONFIG_DISABLED"
                             and p["level"] == "debug" for p in problems))
+
+    def test_missing_enabled_means_enabled(self):
+        """不写 enabled 就是启用，不再依赖 defaults 里有 enabled: true。"""
+        self.write("a.yaml", VALID_CONFIG.replace("enabled: true\n", ""))
+        configs, problems, _ = self.load()
+
+        self.assertEqual(len(configs), 1)
+        self.assertFalse(any(p["code"] == "CONFIG_DISABLED" for p in problems))
+
+    def test_enabled_string_is_an_error(self):
+        """写成字符串（例如带了引号）要报错，不能静默当成禁用。"""
+        self.write("a.yaml", VALID_CONFIG.replace("enabled: true", 'enabled: "false"'))
+        configs, problems, _ = self.load()
+
+        self.assertEqual(configs, [])
+        self.assertTrue(any(p["code"] == "ENABLED_TYPE_ERR"
+                            and p["level"] == "error" for p in problems))
+
+    def test_enabled_number_is_an_error(self):
+        self.write("a.yaml", VALID_CONFIG.replace("enabled: true", "enabled: 0"))
+        configs, problems, _ = self.load()
+
+        self.assertEqual(configs, [])
+        self.assertTrue(any(p["code"] == "ENABLED_UNKNOWN"
+                            and p["level"] == "error" for p in problems))
 
 
 class TestMissingDir(LoaderTestBase):

@@ -59,9 +59,6 @@ def _load_single_config(path: str, problems: list) -> dict | None:
 
         return cfg
 
-    except FileNotFoundError:
-        problems.append(_problem("error", "FILE_NOT_FOUND", path))
-        return None
     except yaml.YAMLError as e:
         problems.append(_problem("error", "YAML_ERR", name, detail=e))
         return None
@@ -128,11 +125,13 @@ def _preprocess_config(cfg: dict, problems: list) -> dict | None:
         problems.append(_problem("warn", "NAME_NOT_SET", filename))
         cfg["name"] = os.path.splitext(filename)[0]
 
-    # 2. 启用开关：只有明确写 true 才继续
+    # 2. 启用开关：默认启用，只有明确写 false 才跳过。
+    #    没写（None）和 true 都继续；其余值视为配置写错，报 error 而不是静默禁用——
+    #    静默禁用会让人以为"明明开了却不跑"，还查不出原因。
     raw_enabled = cfg.get("enabled")
-    if raw_enabled is True:
+    if raw_enabled is True or raw_enabled is None:
         pass
-    elif raw_enabled is False or raw_enabled is None:
+    elif raw_enabled is False:
         problems.append(_problem("debug", "CONFIG_DISABLED", filename))
         return None
     elif isinstance(raw_enabled, str):
@@ -288,18 +287,20 @@ def load_all_configs(
     # os.walk 的遍历顺序取决于文件系统，不排序的话每次运行的任务顺序都可能不同，
     # 连带的产物顺序、日志顺序、README 顺序都会跟着变，git 里会看到大量无意义改动。
     candidates = []
-    for root, dirs, files in os.walk(configs_dir):
+    # 循环变量不能叫 root：函数开头已经用 root 表示项目根目录，
+    # 同名会把它就地覆盖，循环结束后再读 root 拿到的是最后一个子目录。
+    for dirpath, _dirs, files in os.walk(configs_dir):
         for file in files:
             # 只认 .yaml：避免同一份配置用两个扩展名时被重复读取
             if file.endswith(".yaml"):
-                candidates.append(os.path.join(root, file))
+                candidates.append(os.path.join(dirpath, file))
     candidates.sort()
 
     for path in candidates:
-        root = os.path.dirname(path)
+        file_dir = os.path.dirname(path)
         file = os.path.basename(path)
 
-        rel_dir = os.path.relpath(root, configs_dir)
+        rel_dir = os.path.relpath(file_dir, configs_dir)
         sub_path = "" if rel_dir == "." else rel_dir
 
         # 单个配置出任何意外都只影响它自己：记一条问题，继续下一个。

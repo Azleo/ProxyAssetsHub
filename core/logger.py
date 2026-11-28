@@ -74,7 +74,6 @@ TEXT = {
     "FILTERS_NOT_DICT": "filters 应该是字典",
     "FILTER_ITEM_NOT_LIST": "filters 下的 {key} 应该是列表",
     "IDENT_NOT_STR": "{key} 应该是字符串",
-    "FILE_NOT_FOUND": "文件未找到",
     "YAML_ERR": "YAML 格式错误：{detail}",
     "LOAD_ERR": "读取失败：{detail}",
     "NAME_NOT_SET": "未命名，已按文件名补上",
@@ -225,9 +224,13 @@ class Logger:
         records 是每个任务的运行结果字典，字段固定：
             category / collection / ok_src / n_src / lines_in / out / secs / state
         """
+        # 这里跑在收尾阶段：万一以后新增了第四种状态，
+        # counts[state] 会直接 KeyError，把整次运行崩在最后一步（产物已写完，
+        # CI 只看到红叉，真实原因却藏在这里）。用 get 兜底，未知状态不参与统计。
         counts = {"成功": 0, "警告": 0, "失败": 0}
         for r in records:
-            counts[r["state"]] += 1
+            state = r["state"]
+            counts[state] = counts.get(state, 0) + 1
 
         if cls._ci:
             cls._emit(
