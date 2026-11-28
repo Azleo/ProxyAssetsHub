@@ -1,0 +1,11 @@
+# NAME: OpenAI规则集
+# AUTHOR: Azleo
+# REPO: https://github.com/Azleo/ProxyAssetsHub
+# UPDATED: UTC+8 2026-11-28 15:33:18
+# IP-CIDR: 2
+# IP-ASN: 1
+# TOTAL: 3
+payload:
+  - IP-CIDR,24.199.123.28/32
+  - IP-CIDR,64.23.132.171/32
+  - IP-ASN,20473

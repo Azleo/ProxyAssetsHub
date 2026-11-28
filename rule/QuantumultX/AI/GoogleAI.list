@@ -1,0 +1,75 @@
+# NAME: GoogleAI规则集
+# AUTHOR: Azleo
+# REPO: https://github.com/Azleo/ProxyAssetsHub
+# UPDATED: UTC+8 2026-11-27 00:53:50
+# HOST: 10
+# HOST-SUFFIX: 51
+# HOST-KEYWORD: 5
+# TOTAL: 66
+# 包括子规则：AI Studio、Gemini
+HOST,robinfrontend-pa.googleapis.com,GoogleAI
+HOST,ai.google.dev,GoogleAI
+HOST,aistudio.google.com,GoogleAI
+HOST,alkalicore-pa.clients6.google.com,GoogleAI
+HOST,alkalimakersuite-pa.clients6.google.com,GoogleAI
+HOST,antigravity-unleash.goog,GoogleAI
+HOST,antigravity.google,GoogleAI
+HOST,bard.google.com,GoogleAI
+HOST,gemini.google.com,GoogleAI
+HOST,makersuite.google.com,GoogleAI
+HOST-SUFFIX,ai.google.dev,GoogleAI
+HOST-SUFFIX,ai.studio,GoogleAI
+HOST-SUFFIX,aicode.googleapis.com,GoogleAI
+HOST-SUFFIX,aida.googleapis.com,GoogleAI
+HOST-SUFFIX,aisandbox-pa.googleapis.com,GoogleAI
+HOST-SUFFIX,aistudio.google.com,GoogleAI
+HOST-SUFFIX,alkalicore-pa.clients6.google.com,GoogleAI
+HOST-SUFFIX,alkalimakersuite-pa.clients6.google.com,GoogleAI
+HOST-SUFFIX,antigravity-pa.googleapis.com,GoogleAI
+HOST-SUFFIX,antigravity-unleash.goog,GoogleAI
+HOST-SUFFIX,antigravity.google,GoogleAI
+HOST-SUFFIX,antigravity.googleapis.com,GoogleAI
+HOST-SUFFIX,apis.google.com,GoogleAI
+HOST-SUFFIX,appsgenaiserver-pa.clients.google.com,GoogleAI
+HOST-SUFFIX,appsgenaiserver-pa.clients6.google.com,GoogleAI
+HOST-SUFFIX,appsgenaiserver-pa.googleapis.com,GoogleAI
+HOST-SUFFIX,bard.google.com,GoogleAI
+HOST-SUFFIX,cloudaicompanion.googleapis.com,GoogleAI
+HOST-SUFFIX,cloudcode-pa.googleapis.com,GoogleAI
+HOST-SUFFIX,daily-cloudcode-pa.googleapis.com,GoogleAI
+HOST-SUFFIX,deepmind.com,GoogleAI
+HOST-SUFFIX,deepmind.google,GoogleAI
+HOST-SUFFIX,flow.google,GoogleAI
+HOST-SUFFIX,flow.google.com,GoogleAI
+HOST-SUFFIX,geller-pa.googleapis.com,GoogleAI
+HOST-SUFFIX,gemini.google,GoogleAI
+HOST-SUFFIX,gemini.google.com,GoogleAI
+HOST-SUFFIX,gemini.gstatic.com,GoogleAI
+HOST-SUFFIX,geminiweb-pa.clients.google.com,GoogleAI
+HOST-SUFFIX,geminiweb-pa.clients6.google.com,GoogleAI
+HOST-SUFFIX,gemma.ai,GoogleAI
+HOST-SUFFIX,generativeai.google,GoogleAI
+HOST-SUFFIX,generativelanguage.googleapis.com,GoogleAI
+HOST-SUFFIX,jules.google,GoogleAI
+HOST-SUFFIX,jules.google.com,GoogleAI
+HOST-SUFFIX,labs.google,GoogleAI
+HOST-SUFFIX,labs.google.com,GoogleAI
+HOST-SUFFIX,labstailwind.pa.googleapis.com,GoogleAI
+HOST-SUFFIX,makersuite.google.com,GoogleAI
+HOST-SUFFIX,notebook.google,GoogleAI
+HOST-SUFFIX,notebook.google.com,GoogleAI
+HOST-SUFFIX,notebooklm-pa.googleapis.com,GoogleAI
+HOST-SUFFIX,notebooklm.google,GoogleAI
+HOST-SUFFIX,notebooklm.google.com,GoogleAI
+HOST-SUFFIX,notebooklm.googleapis.com,GoogleAI
+HOST-SUFFIX,opal.google,GoogleAI
+HOST-SUFFIX,opal.google.com,GoogleAI
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,GoogleAI
+HOST-SUFFIX,robinfrontend-pa.googleapis.com,GoogleAI
+HOST-SUFFIX,stitch.withgoogle.com,GoogleAI
+HOST-SUFFIX,webchannel-alkalimakersuite-pa.clients6.google.com,GoogleAI
+HOST-KEYWORD,colab,GoogleAI
+HOST-KEYWORD,developerprofiles,GoogleAI
+HOST-KEYWORD,generativelanguage,GoogleAI
+HOST-KEYWORD,labs.google,GoogleAI
+HOST-KEYWORD,notebooklm.google,GoogleAI

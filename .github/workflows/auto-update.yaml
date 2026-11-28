@@ -1,0 +1,118 @@
+# .github/workflows/auto-deploy.yaml
+
+# 工作流名称，显示在 GitHub Actions 界面上。
+# 不用 "Deploy"：它做的不是发布，而是把源数据跑成规则文件。
+name: 自动运行
+
+# 定义工作流的触发事件
+on:
+  # 定时触发：使用 cron 表达式定义运行时间
+  # 注意：cron 表达式使用的是 UTC 时间，不是北京时间
+  # '0 21 * * *' = UTC 21:00 = 北京时间次日 05:00
+  # 格式：分 时 日 月 周
+  schedule:
+    - cron: '0 21 * * *'
+
+  # 手动触发：允许在 GitHub Actions 界面手动点击“Run workflow”按钮来运行
+  workflow_dispatch:
+
+  # 当代码推送到 main 分支时触发（可选，如果不想每次代码更新都运行，可以删除）
+  # push:
+  #   branches:
+  #     - main
+  #   paths-ignore:
+  #     - 'rule/**'
+  #     - 'rewrite/**'
+  #     - '.gitignore'
+  #     - 'README.md'
+
+# 允许GitHub Actions写入
+permissions:
+  contents: write
+
+# 防止并发冲突
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+# 定义一个名为 'build' 的作业
+jobs:
+  build:
+    # 指定作业运行的虚拟机环境
+    runs-on: ubuntu-latest
+    # 整个作业最多跑多久。正常 1 分钟内结束，这个上限是防止某个源卡住时白占机器。
+    timeout-minutes: 30
+    # 指定时区
+    env:
+      TZ: Asia/Shanghai
+    # 定义作业中的步骤
+    steps:
+      # 步骤1: 检出仓库代码
+      - name: Checkout Repository
+        uses: actions/checkout@v5
+
+      # 步骤2: 设置 Python 环境
+      # 这里固定用 Python 3.12（和当初验证过的一致），改之前先本地跑一遍测试
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12' # 指定 Python 版本
+          cache: 'pip' # 开启缓存，加速安装依赖步骤
+
+      # 步骤3: 安装项目依赖
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      # 步骤4: 跑单元测试
+      # 测试挂了就直接停在这里，不产出、不提交。
+      # 否则有问题的代码也会被推上去，而生成物看起来一切正常。
+      - name: Run Tests
+        run: python -m unittest discover -s tests
+
+      # 步骤5: 运行程序
+      # 不加 --debug：CI 日志保持默认详略，需要明细时手动触发一次带 --debug 的运行即可
+      # continue-on-error：让它在失败时也继续往下走，
+      #   这样产出的文件仍能提交，只是最后一步会把 job 标红
+      - name: Run ProxyAssetsHub
+        id: run
+        continue-on-error: true
+        run: python main.py
+
+      # 步骤6: 提交并推送
+      # if: always() 保证即使程序报错也照常提交已生成的文件
+      - name: Commit and Push Changes
+        if: ${{ always() }}
+        run: |
+          # 配置 Git 用户名和邮箱，这些信息将显示在提交记录中
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 暂存所有更改的文件 (包括新建、修改的文件)
+          git add .
+
+          # 检查是否有实际的更改需要提交
+          # 如果没有更改，git diff-index --quiet 会成功（退出码0），! git diff-index --quiet 为 false，跳过提交
+          # 如果有更改，git diff-index --quiet 会失败（退出码1），! git diff-index --quiet 为 true，继续提交
+          if ! git diff-index --quiet HEAD; then
+
+            # 提交信息用"自动更新 + 北京时间"，一眼能看出这条是程序生成的
+            COMMIT_TIME=$(date +'%Y-%m-%d %H:%M:%S')
+            git commit -m "自动更新: $COMMIT_TIME"
+
+            # 将更改推送到当前分支
+            # GITHUB_TOKEN 是 GitHub Actions 提供的默认令牌，通常具有足够的权限
+            git pull --rebase origin main
+            git push
+
+          else
+            echo "No changes to commit. Skipping commit and push."
+          fi
+
+      # 步骤7: 有任务失败就把 job 标红
+      # 上面用了 continue-on-error，这里补一刀，
+      # 否则"全部规则集都挂了"在 Actions 页面上仍是个绿勾。
+      - name: Fail if any task failed
+        if: ${{ steps.run.outcome == 'failure' }}
+        run: |
+          echo "::error::有规则集失败，请查看上方日志"
+          exit 1
