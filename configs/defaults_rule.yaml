@@ -14,7 +14,7 @@
 # 某个规则集格式不同：在它自己的配置文件里写一份 formats 覆盖这里。
 formats:
   - 'quantumultx'
-  - 'clash'
+  # - 'clash'
 
 # enabled: 规则集默认是否启用（所有配置都不写这个字段时，就等于启用）。
 # 某份配置想临时关闭：在它自己的文件里去掉 "# enabled: false" 那行的注释。
