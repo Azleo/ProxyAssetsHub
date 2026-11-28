@@ -2,7 +2,7 @@
 
 本文件由程序自动生成，每次运行会更新。
 
-- 最近一次运行：2026-11-28 23:07:12（11/12 个规则集成功）
+- 最近一次运行：2026-11-28 23:22:41（12/12 个规则集成功）
 - 仓库地址：https://github.com/Azleo/ProxyAssetsHub
 
 ## 规则清单
@@ -14,6 +14,12 @@
 条数：172 ｜ 最后变更：2026-11-27 15:27:08
 
 订阅地址：https://raw.githubusercontent.com/Azleo/ProxyAssetsHub/main/rule/QuantumultX/AI/AI-ALL.list
+
+#### AppleIntelligence
+
+条数：9 ｜ 最后变更：2026-11-28 23:22:37
+
+订阅地址：https://raw.githubusercontent.com/Azleo/ProxyAssetsHub/main/rule/QuantumultX/AI/AppleIntelligence.list
 
 #### Claude
 

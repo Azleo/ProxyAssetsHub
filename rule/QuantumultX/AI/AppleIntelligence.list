@@ -1,11 +1,10 @@
 # NAME: AppleIntelligence规则集
 # AUTHOR: Azleo
 # REPO: https://github.com/Azleo/ProxyAssetsHub
-# UPDATED: UTC+8 2026-11-27 00:53:51
+# UPDATED: UTC+8 2026-11-28 23:22:37
 # HOST: 6
-# HOST-SUFFIX: 4
-# TOTAL: 10
-HOST-SUFFIX,humb.apple.com,AppleIntelligence
+# HOST-SUFFIX: 3
+# TOTAL: 9
 HOST,apple-relay.apple.com,AppleIntelligence
 HOST,apple-relay.cloudflare.com,AppleIntelligence
 HOST,apple-relay.fastly-edge.com,AppleIntelligence
